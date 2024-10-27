@@ -877,9 +877,12 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-Para el print 2 usamos la herramienta trello para organizar las tareas del equipo.
-Enlace 
- ![trello-sprint-2](./assets/images/chapter-V/trello-sprint-2.png)
+Para el print 2 usamos la herramienta trello para organizar las tareas del equipo.  
+
+Enlace:
+https://trello.com/invite/b/66eb36bcf49cb4d641ba8a6d/ATTIb45e4e2e970ba7369567ad38f9768a7fAF08DF70/aquaengine-sprint-backlog-2   
+
+![trello-sprint-2](./assets/images/chapter-V/trello-sprint-2.png)
 
 <table>
   <tr>
@@ -1170,3 +1173,98 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 
 ![Network-frontend](./assets/images/chapter-V/sprint2-network.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/10/27</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>5:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Aula VH-107</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Gonzalo Andre Zavala Quedena</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Mateo del Castillo Bueno</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Pedro Andre Guía Carrasco</li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Este es el tercer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td style="text-align: justify">
+                Nuestro enfoque está en consolidar la gestión de inventarios, equipos y el mantenimiento de productos 
+                de maquinaria pesquera en el backend de AquaEngine.
+                Creemos que esto brinda una administración más eficiente y un control integral, mejorando la 
+                operatividad y reduciendo tiempos de inactividad para los usuarios de AquaEngine en el sector pesquero.
+                Esto se confirmará cuando los usuarios experimenten una reducción significativa en los tiempos de 
+                gestión de inventarios y mantenimiento de sus equipos, lo cual les permitirá enfocarse en otras áreas 
+                críticas de sus operaciones. Además, la plataforma facilitará decisiones informadas al proporcionar un 
+                acceso rápido a información de estado, historial de mantenimiento y alertas críticas, generando así una 
+                mayor confianza en el sistema y contribuyendo a la continuidad y eficiencia de sus procesos pesqueros.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                25
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                35
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+Para el print 3 usamos la herramienta trello para organizar las tareas del equipo.  
+  
+Enlace:
+https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2faf6af73b208B9DAB/aquaengine-sprint-backlog-3
+
+![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)
+
