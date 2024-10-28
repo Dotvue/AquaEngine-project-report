@@ -1268,7 +1268,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
 
 ![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)
 
-#### 5.2.2.3. Development Evidence for Sprint Review.
+#### 5.2.3.3. Development Evidence for Sprint Review.
 
 <table>
   <tr>
@@ -1313,4 +1313,10 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <td align="center">--/10/2024</td>
   </tr>
 </table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint 3 el equipo se enfocó en el desarrollo de la primera versión del lado back-end de la aplicación web, 
+y de la corrección de errores de la anterior entrega del trabajo, por lo cual no se requirió pruebas de testing.
+
 
