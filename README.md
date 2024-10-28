@@ -2401,13 +2401,13 @@ firebase deploy
 
 La meta de este sprint fue la implementación del lado front-end de la apliación web. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Dotvue.
 
-![Commits-frontend](./assets/images/chapter-V/sprint2-commits.png)
+![Commits-frontend](./assets/images/chapter-V/sprint2-commits.png)  
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el lado front-end de la aplicación web de "AquaEngine".
 
-![Contribuitors-frontend](./assets/images/chapter-V/sprint2-contribuitors.png)
+![Contribuitors-frontend](./assets/images/chapter-V/sprint2-contribuitors.png)  
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el lado front-end de la aplicación web de "AquaEngine".
 
-![Network-frontend](./assets/images/chapter-V/sprint2-network.png)
+![Network-frontend](./assets/images/chapter-V/sprint2-network.png)  
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
 
 # Conclusiones
@@ -2441,6 +2441,14 @@ precisa en cada módulo de AquaEngine. Esta metodología nos ha ayudado a constr
 sistema, facilitando tanto el mantenimiento como su evolución a medida que se expanden los requerimientos del negocio.
 </p>
 
+# Video About-the-Team
+En esta sección se presenta el video "About the Team", en el cual describimos el proceso de desarrollo llevado a cabo 
+para la aplicación web y la API, incluyendo escenas del trabajo en equipo. También se detallan aspectos del planeamiento,
+como las historias de usuario y el diseño de la aplicación. Además, este proyecto nos permitió, como equipo, ampliar 
+nuestros conocimientos en desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia 
+en la creación de una aplicación web completa.  
+
+Video About-the-Team: https://drive.google.com/file/d/1KFtE8xqGLwyorW3c1j-m4ogDFLetKEig/view?usp=sharing
 
 # Bibliografía
 
