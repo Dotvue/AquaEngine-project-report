@@ -2409,3 +2409,44 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 
 ![Network-frontend](./assets/images/chapter-V/sprint2-network.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+# Conclusiones
+
+<p style="text-align: justify">
+En conclusión, AquaEngine se basa en un análisis exhaustivo de las necesidades operativas de nuestros usuarios en el 
+sector pesquero, resultado de una investigación detallada y retroalimentación directa. Hemos identificado los puntos 
+clave en la gestión de inventarios, equipos y mantenimiento de maquinaria pesquera, y formulado estrategias específicas
+para optimizar estos procesos.  
+</p>
+
+<p style="text-align: justify">
+El desarrollo de funcionalidades clave, como la administración de solicitudes de compra, el monitoreo del estado del 
+equipo y el registro de historiales de mantenimiento, apunta a reducir la carga operativa de nuestros usuarios, 
+permitiéndoles una gestión más ágil y centrada en datos. Estas mejoras están diseñadas para aumentar la eficiencia 
+en la operación diaria y fortalecer la confianza en el sistema, lo que se traduce en una mayor continuidad y control 
+de las actividades de los usuarios.
+</p>
+
+<p style="text-align: justify">
+El enfoque ágil que adoptamos nos permite dividir el trabajo en sprints manejables, lo cual facilita la adaptación 
+constante a nuevas necesidades y la incorporación de feedback en cada etapa. Esto garantiza que cada desarrollo se 
+realice de manera ordenada y orientada al valor, con una planificación clara y transparencia en la ejecución de cada 
+sprint.
+</p>
+
+<p style="text-align: justify">
+Asimismo, aplicamos la arquitectura de Domain-Driven Design (DDD), lo cual nos permitió modelar y estructurar los 
+contextos de negocio específicos, asegurando una separación adecuada de las preocupaciones y una lógica de negocio 
+precisa en cada módulo de AquaEngine. Esta metodología nos ha ayudado a construir una base sólida y flexible para el 
+sistema, facilitando tanto el mantenimiento como su evolución a medida que se expanden los requerimientos del negocio.
+</p>
+
+
+# Bibliografía
+
+# Anexos
+| Sección        | Enlace al video |
+|----------------|-----------------|
+| Vídeo Sprint 1 | 
+| Vídeo Sprint 2 |                 |
+| Vídeo Sprint 3 |                 |
