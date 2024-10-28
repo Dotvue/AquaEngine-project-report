@@ -2444,6 +2444,11 @@ sistema, facilitando tanto el mantenimiento como su evolución a medida que se e
 
 # Bibliografía
 
+Miles, R., & Hamilton, K. (2006). Learning UML 2.0. O'Reilly Media. Retrieved from https://bit.ly/4fmPE7k
+
+Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
+Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
+
 # Anexos
 | Sección        | Enlace al video |
 |----------------|-----------------|
