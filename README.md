@@ -1319,4 +1319,55 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
 Durante este sprint 3 el equipo se enfocó en el desarrollo de la primera versión del lado back-end de la aplicación web, 
 y de la corrección de errores de la anterior entrega del trabajo, por lo cual no se requirió pruebas de testing.
 
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+**Preguntas generales:**
 
+1. ¿Cuál es su nombre?
+2. ¿Qué edad tiene?
+3. ¿A qué se dedica?
+4. ¿Qué opina sobre la propuesta de AquaEngine para mejorar la gestión de inventarios y mantenimiento en el sector pesquero?
+
+**Entrevistas segmento Agricultor**
+1. ¿Qué característica de AquaEngine considera que le resulta más útil para el mantenimiento de sus productos de maquinaria pesquera?
+2. ¿Qué tipo de reportes o alertas considera necesarios para optimizar el mantenimiento de las máquinas en su inventario?
+3. ¿Ha enfrentado problemas de tiempos de inactividad o demoras en el mantenimiento? ¿Cómo espera que AquaEngine pueda ayudarle a reducir estos tiempos?
+4. ¿Qué opina sobre el diseño de la plataforma en términos de accesibilidad y facilidad para localizar información de mantenimiento y estado de sus equipos?
+
+**Entrevistas segmento Distribuidor**
+1. ¿Qué opina sobre la capacidad de AquaEngine para gestionar de manera centralizada el inventario y el mantenimiento de los equipos pesqueros?
+2. ¿Cuán importante considera que es el acceso rápido a información sobre el estado y mantenimiento de los equipos para sus operaciones diarias?
+3. ¿Qué funcionalidades considera necesarias para mejorar el seguimiento de los equipos y el control de inventarios en AquaEngine?
+4. ¿De qué manera cree que AquaEngine podría impactar la continuidad de sus operaciones y la reducción de tiempos de inactividad en sus equipos pesqueros?
+
+### 5.3.2. Registro de Entrevistas.
+**Segmento 1**  
+Nombre: _____
+Edad: _ años
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
+
+### 5.3.3. Evaluaciones según heurísticas.
+| HEURÍSTICA                                    | EVALUACIÓN ✅❌   | NOTA    |
+|-----------------------------------------------|-----------------|---------|
+| Visibilidad del estado del sistema            |                 | {texto} |
+| Coincidencia entre el sistema y el mundo real |                 | {texto} |
+| Control y libertad del usuario                |                 | {texto} |
+| Consistencia y estándares                     |                 | {texto} |
+| Prevención de errores                         |                 | {texto} |
+| Mostrar antes que recordar                    |                 | {texto} |
+| Flexibilidad y eficiencia de uso              |                 | {texto} |
+| Diseño estético y minimalista                 |                 | {texto} |
+| Comunicar errores con facilidad               |                 | {texto} |
+| Ayuda y documentación                         |                 | {texto} |
+
+## 5.4. Video About-the-Product.
+[URL del video about the product](https://www.example.com)
