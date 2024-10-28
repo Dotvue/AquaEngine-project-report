@@ -1268,3 +1268,49 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
 
 ![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)
 
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+    <td align="center"> master</td>
+    <td align="center"> 506fe06a5ae5b5bf835d4ea362c543a35a26f444</td>
+    <td align="center"> fix: changed the generated regex</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/control</td>
+    <td align="center" > 72b6c35c7bfe42d56b0cace09c119d6ea0924bef</td>
+    <td align="center"> chore: automatic imports in csproj file.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">73327ce8a894fb9b02f1284373d35293707fee85</td>
+    <td align="center"> feat(monitoring): added a constructor for the aggregate MonitoredMachine.cs</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+    <td align="center">--/10/2024</td>
+  </tr>
+</table>
+
