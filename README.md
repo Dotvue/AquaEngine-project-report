@@ -2706,7 +2706,66 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 Durante este sprint 3 el equipo se enfocó en el desarrollo de la primera versión del lado back-end de la aplicación web, 
-y de la corrección de errores de la anterior entrega del trabajo, por lo cual no se requirió pruebas de testing.
+y de la corrección de errores de la anterior entrega del trabajo, por lo cual no se requirió pruebas de testing.  
+
+#### 5.2.3.5 Execution Evidence for Sprint Review.  
+
+Hasta el momento, no hemos realizado cambios en el frontend, ya que completamos todos los requisitos funcionales en el sprint anterior.
+La aplicación web sigue disponible en el siguiente enlace: 
+
+En la página de inicio se han agregado los videos "sobre el producto" y "sobre el equipo", con el fin de promover nuestro producto de manera más efectiva mediante un video promocional y de presentar a nuestro equipo.
+
+Enlace de acceso a la página de aterrizaje:  
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review.  
+
+En esta sección se presentarán los endpoints desarrollados durante el sprint actual, acompañados de capturas de pantalla que ilustran las acciones CRUD y otros métodos implementados. Dentro del alcance del sprint, se han creado los bounded contexts relacionados con monetización, colaboración, usuario y contenido.  
+
+Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/AquaEngine-back-end  
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> sales Bounded Context </strong> </th>
+    <th> <strong> /api/v1/sales </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+
+  <tr>
+   <th> <strong> planning Bounded Context </strong> </th>
+    <th> <strong> /api/v1/maintenance </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> monitoring Bounded Context </strong> </th>
+    <th> <strong> /api/v1/monitored </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> control Bounded Context </strong> </th>
+    <th> <strong> /api/v1/products </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> control Bounded Context </strong> </th>
+    <th> <strong> /api/v1/planning </strong> </th>
+    <th> <img src=""> </th>
+  </tr>
+</table>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
