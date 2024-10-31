@@ -2106,9 +2106,12 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-Para el print 2 usamos la herramienta trello para organizar las tareas del equipo.
-Enlace 
- ![trello-sprint-2](./assets/images/chapter-V/trello-sprint-2.png)
+Para el print 2 usamos la herramienta trello para organizar las tareas del equipo.  
+
+Enlace:
+https://trello.com/invite/b/66eb36bcf49cb4d641ba8a6d/ATTIb45e4e2e970ba7369567ad38f9768a7fAF08DF70/aquaengine-sprint-backlog-2   
+
+![trello-sprint-2](./assets/images/chapter-V/trello-sprint-2.png)
 
 <table>
   <tr>
@@ -2397,6 +2400,208 @@ La imagen muestra un gráfico de barras donde se refleja la cantidad de commits 
 ![Contribuitors-frontend](./assets/images/chapter-V/sprint2-contribuitors.png)  
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el lado front-end de la aplicación web de "AquaEngine".
 
+
+![Network-frontend](./assets/images/chapter-V/sprint2-network.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/10/27</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>5:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Aula VH-107</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Gonzalo Andre Zavala Quedena</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Mateo del Castillo Bueno</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Pedro Andre Guía Carrasco</li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Este es el tercer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td style="text-align: justify">
+                Nuestro enfoque está en consolidar la gestión de inventarios, equipos y el mantenimiento de productos 
+                de maquinaria pesquera en el backend de AquaEngine.
+                Creemos que esto brinda una administración más eficiente y un control integral, mejorando la 
+                operatividad y reduciendo tiempos de inactividad para los usuarios de AquaEngine en el sector pesquero.
+                Esto se confirmará cuando los usuarios experimenten una reducción significativa en los tiempos de 
+                gestión de inventarios y mantenimiento de sus equipos, lo cual les permitirá enfocarse en otras áreas 
+                críticas de sus operaciones. Además, la plataforma facilitará decisiones informadas al proporcionar un 
+                acceso rápido a información de estado, historial de mantenimiento y alertas críticas, generando así una 
+                mayor confianza en el sistema y contribuyendo a la continuidad y eficiencia de sus procesos pesqueros.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                25
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                35
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+Para el print 3 usamos la herramienta trello para organizar las tareas del equipo.  
+  
+Enlace:
+https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2faf6af73b208B9DAB/aquaengine-sprint-backlog-3
+
+![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+    <td align="center"> master</td>
+    <td align="center"> 506fe06a5ae5b5bf835d4ea362c543a35a26f444</td>
+    <td align="center"> fix: changed the generated regex</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/control</td>
+    <td align="center" > 72b6c35c7bfe42d56b0cace09c119d6ea0924bef</td>
+    <td align="center"> chore: automatic imports in csproj file.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">73327ce8a894fb9b02f1284373d35293707fee85</td>
+    <td align="center"> feat(monitoring): added a constructor for the aggregate MonitoredMachine.cs</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+    <td align="center">--/10/2024</td>
+  </tr>
+</table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint 3 el equipo se enfocó en el desarrollo de la primera versión del lado back-end de la aplicación web, 
+y de la corrección de errores de la anterior entrega del trabajo, por lo cual no se requirió pruebas de testing.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre?
+2. ¿Qué edad tiene?
+3. ¿A qué se dedica?
+4. ¿Qué opina sobre la propuesta de AquaEngine para mejorar la gestión de inventarios y mantenimiento en el sector pesquero?
+
+**Entrevistas segmento Agricultor**
+1. ¿Qué característica de AquaEngine considera que le resulta más útil para el mantenimiento de sus productos de maquinaria pesquera?
+2. ¿Qué tipo de reportes o alertas considera necesarios para optimizar el mantenimiento de las máquinas en su inventario?
+3. ¿Ha enfrentado problemas de tiempos de inactividad o demoras en el mantenimiento? ¿Cómo espera que AquaEngine pueda ayudarle a reducir estos tiempos?
+4. ¿Qué opina sobre el diseño de la plataforma en términos de accesibilidad y facilidad para localizar información de mantenimiento y estado de sus equipos?
+
+**Entrevistas segmento Distribuidor**
+1. ¿Qué opina sobre la capacidad de AquaEngine para gestionar de manera centralizada el inventario y el mantenimiento de los equipos pesqueros?
+2. ¿Cuán importante considera que es el acceso rápido a información sobre el estado y mantenimiento de los equipos para sus operaciones diarias?
+3. ¿Qué funcionalidades considera necesarias para mejorar el seguimiento de los equipos y el control de inventarios en AquaEngine?
+4. ¿De qué manera cree que AquaEngine podría impactar la continuidad de sus operaciones y la reducción de tiempos de inactividad en sus equipos pesqueros?
+
+### 5.3.2. Registro de Entrevistas.
+**Segmento 1**  
+Nombre: _____
+Edad: _ años
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
+
+### 5.3.3. Evaluaciones según heurísticas.
+| HEURÍSTICA                                    | EVALUACIÓN ✅❌   | NOTA    |
+|-----------------------------------------------|-----------------|---------|
+| Visibilidad del estado del sistema            |                 | {texto} |
+| Coincidencia entre el sistema y el mundo real |                 | {texto} |
+| Control y libertad del usuario                |                 | {texto} |
+| Consistencia y estándares                     |                 | {texto} |
+| Prevención de errores                         |                 | {texto} |
+| Mostrar antes que recordar                    |                 | {texto} |
+| Flexibilidad y eficiencia de uso              |                 | {texto} |
+| Diseño estético y minimalista                 |                 | {texto} |
+| Comunicar errores con facilidad               |                 | {texto} |
+| Ayuda y documentación                         |                 | {texto} |
+
+## 5.4. Video About-the-Product.
+[URL del video about the product](https://www.example.com)
+=======
 ![Network-frontend](./assets/images/chapter-V/sprint2-network.png)  
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
 
@@ -2453,3 +2658,4 @@ Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
 | Vídeo Sprint 1 | 
 | Vídeo Sprint 2 |                 |
 | Vídeo Sprint 3 |                 |
+
