@@ -2496,7 +2496,166 @@ Para el print 3 usamos la herramienta trello para organizar las tareas del equip
 Enlace:
 https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2faf6af73b208B9DAB/aquaengine-sprint-backlog-3
 
-![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)
+![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)  
+
+<table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th colspan="3">Title</th>
+      <th>Id</th>
+      <th>Bounded Context</th>
+      <th>Functionality</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td colspan="3">Acceso a la aplicación web</td>
+      <td>US01</td>
+      <td>feature/public</td>
+      <td>Quiero ir a la vista de la aplicación web para registrarme y utilizar la solución</td>
+      <td>2</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td colspan="3">Solicitud de compra de equipo estándar</td>
+      <td>US02</td>
+      <td>feature/planning</td>
+      <td>Quiero poder seleccionar un equipo estándar y realizar la compra a través de la plataforma</td>
+      <td>3</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td colspan="3">Gestión de inventario</td>
+      <td>US03</td>
+      <td>feature/control</td>
+      <td>Quiero gestionar el inventario de mis productos</td>
+      <td>5</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td colspan="3">Generación de facturas</td>
+      <td>US04</td>
+      <td>feature/sales</td>
+      <td>Quiero generar facturas automáticamente</td>
+      <td>3</td>
+      <td>Yasser</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td colspan="3">Estado de equipos</td>
+      <td>US05</td>
+      <td>feature/monitoring</td>
+      <td>Quiero verificar el estado actual de mis equipos</td>
+      <td>3</td>
+      <td>Mateo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td colspan="3">Seguimiento de solicitudes de equipos</td>
+      <td>US06</td>
+      <td>feature/monitoring</td>
+      <td>Quiero poder hacer seguimiento del estado de mis pedidos</td>
+      <td>3</td>
+      <td>Mateo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td colspan="3">Registro de equipos</td>
+      <td>US07</td>
+      <td>feature/monitoring</td>
+      <td>Quiero poder añadir equipos a mi cuenta</td>
+      <td>3</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td colspan="3">Alertas de equipos críticos</td>
+      <td>US08</td>
+      <td>feature/monitoring</td>
+      <td>Quiero establecer alertas para el estado crítico de mis equipos</td>
+      <td>5</td>
+      <td>Mateo</td>
+      <td>In-Progress</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td colspan="3">Consulta de productos en inventario</td>
+      <td>US09</td>
+      <td>feature/control</td>
+      <td>Quiero consultar el inventario actual de productos</td>
+      <td>3</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td colspan="3">Notificaciones de estado</td>
+      <td>US10</td>
+      <td>feature/monitoring</td>
+      <td>Quiero recibir notificaciones sobre el estado de mis equipos</td>
+      <td>3</td>
+      <td>Mateo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td colspan="3">Solicitud de compra de equipo personalizado</td>
+      <td>US11</td>
+      <td>feature/planning</td>
+      <td>Quiero poder realizar una solicitud de compra de equipos personalizados</td>
+      <td>3</td>
+      <td>Pedro & Omar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td colspan="3">Cancelación de solicitudes de equipos</td>
+      <td>US12</td>
+      <td>feature/monitoring</td>
+      <td>Quiero poder cancelar una solicitud de pedidos</td>
+      <td>1</td>
+      <td>Pedro & Omar</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td colspan="3">Historial de facturación</td>
+      <td>US13</td>
+      <td>feature/sales</td>
+      <td>Quiero consultar el historial de todas mis facturas</td>
+      <td>3</td>
+      <td>Yasser</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td colspan="3">Historial de mantenimiento</td>
+      <td>US14</td>
+      <td>feature/monitoring</td>
+      <td>Quiero consultar el historial de mantenimiento de mis equipos</td>
+      <td>3</td>
+      <td>Mateo</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
@@ -2658,4 +2817,3 @@ Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
 | Vídeo Sprint 1 | 
 | Vídeo Sprint 2 |                 |
 | Vídeo Sprint 3 |                 |
-
