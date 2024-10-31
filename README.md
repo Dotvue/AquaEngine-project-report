@@ -1064,35 +1064,25 @@ En esta sección, se presenta la arquitectura de software basada en el dominio, 
 ### 4.6.1. Software Architecture Context Diagram.
 El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.  
 
-<img src="./assets/images/chapter-iv/c4model/SystemContext.png" alt="c4-system-context"/>
+
+<img src="./assets/images/chapter-iv/c4model/structurizr-96195-Diagramadecontexto.png" alt="Diagrama de contexto">
+
+Como se ha establecido durante el informe, no consumiremos un macroservicio externo, todo lo que requiera la aplicación web, estará diseñado e implementado por Dotvue
 
 ### 4.6.2. Software Architecture Container Diagrams.
 Los diagramas de contenedores muestran los diferentes contenedores que componen el sistema, como aplicaciones web, bases de datos, microservicios y cómo se comunican entre sí. Estos diagramas proporcionan una visión de alto nivel de la arquitectura del sistema, destacando las responsabilidades de cada contenedor y sus interacciones.  
 
-<img src="./assets/images/chapter-iv/c4model/Containers.png" alt="c4-container"/> 
+<img src="./assets/images/chapter-iv/c4model/structurizr-96195-DiagramadeContenedores.png" alt="Diagrama de contenedores">
+En este diagrama podemos ver los contenedores que tiene nuestra solución, contando con una landing page que comenzará a atraer a los clientes, dicha landing page redireccionará a los usuarios a nuestra single page application desarrollada en el framework Vue.js, adicionalmente podemos ver que los usuarios se conectan a la base de datos a través de peticines al API.
+Nuestra solución es sencilla pero eficaz, toda la información que necesite el usuario para ejercer sus tareas se encuentra entrelazado.
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí. 
+<img src="./assets/images/chapter-iv/c4model/structurizr-96195-DiagramadeComponente.png" alt="Diagrama de componentes">
+En el siguiente diagrama podemos visualizar que el api funciona con diferentes routes, cada uno contiene un route diferente.
+Siguen una arquitectura convencional utilizada e implementada en ASP.NET CORE frameworK, por lo que evitamos romper las convenciones para un API REST, de modo que pese a que maintenance es una caracte del feature de monitoring cuenta con una route propia, esto es debido a que se realizará una conección entre Monitored machine id para obtener informacion de maintenance de en monitoring.
 
-**Login and SignIn Bounded Context**
-
-<img src="./assets/images/chapter-iv/c4model/AuthenticationContext.png" alt="bound-context-authentication"/>
-
-**Generate Invoice Bounded Context**
-
-<img src="./assets/images/chapter-iv/c4model/InvoiceContext.png" alt="bound-context-invoice"/>
-
-**Manage Inventory Bounded Context**
-
-<img src="./assets/images/chapter-iv/c4model/InventoryContext.png" alt="bound-context-inventory"/>
-
-**Monitoring Bounded Context**
-
-<img src="./assets/images/chapter-iv/c4model/MonitoringContext.png" alt="bound-context-monitoring"/>
-
-**Request Orders Bounded Context**
-
-<img src="./assets/images/chapter-iv/c4model/RequestContext.png" alt="bound-context-request"/>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
