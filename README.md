@@ -41,7 +41,9 @@
 | 0.0.3   | 24/09/2024 | ---                             | Desarrollo Capítulo (3)  APARTADO<br>3.1 - 3.2 - 3.3 - 3.4                           |
 | 0.0.4   | 26/09/2024 | Gonzalo Quedena                 | Desarrollo Capítulo (4) APARTADO<br>4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8    |
 | 0.0.5   | 26/09/2024 | Sebastián Aiquipa               | Desarrollo Capítulo (4) APARTADO<br>4.6 - 4.7 - 4.8                                  | 
-| 0.0.6   | 27/09/2024 | Omar Berrocal Ramirez           | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
+| 0.0.6   | 27/09/2024 | Omar Berrocal Ramirez           | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2                                        |
+| 0.0.7   | 18/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (5) APARTADO<br>5.2.3.3 - 5.2.3.4 - 5.2.3.5<br>                  |
+| 0.0.8   | 25/10/2024 | Gonzalo Andre Zavala Quedena    | <br>Conclusiones, Anexos, Bibliografía.                                              |
 
 </center>
 
