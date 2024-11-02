@@ -2765,7 +2765,7 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
   <tr>
    <th> <strong> control Bounded Context </strong> </th>
     <th> <strong> /api/v1/ordering-machinery </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/e11a897b2f0621981ad8daa4c216b8a451695102/assests/endpoint-orderingmachinery.png"> </th>
   </tr>
 </table>
 
