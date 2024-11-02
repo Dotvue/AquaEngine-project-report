@@ -2764,7 +2764,7 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
 
   <tr>
    <th> <strong> control Bounded Context </strong> </th>
-    <th> <strong> /api/v1/planning </strong> </th>
+    <th> <strong> /api/v1/ordering-machinery </strong> </th>
     <th> <img src=""> </th>
   </tr>
 </table>
