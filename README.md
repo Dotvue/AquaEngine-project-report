@@ -2759,7 +2759,7 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
   <tr>
    <th> <strong> control Bounded Context </strong> </th>
     <th> <strong> /api/v1/products </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/0b55f8da677b63098cc21f707e3b6fcd3aac21ed/assests/endpoint-products.png"> </th>
   </tr>
 
   <tr>
