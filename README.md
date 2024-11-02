@@ -2753,7 +2753,7 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
   <tr>
    <th> <strong> monitoring Bounded Context </strong> </th>
     <th> <strong> /api/v1/monitored </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/1792ab040be7303ccca83cb75b06181c636c8f1f/assests/endpoint-monitoring.png"> </th>
   </tr>
 
   <tr>
