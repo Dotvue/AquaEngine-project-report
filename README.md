@@ -2747,7 +2747,7 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
   <tr>
    <th> <strong> planning Bounded Context </strong> </th>
     <th> <strong> /api/v1/maintenance </strong> </th>
-    <th> <img src=""> </th>
+    <th> <img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/90744d10f7cc7fc6e7e0e7eec5029f9bffc88e56/assests/endpoint-maintenance.png"> </th>
   </tr>
 
   <tr>
