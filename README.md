@@ -3046,13 +3046,13 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
 3. ¿A qué se dedica?
 4. ¿Qué opina sobre la propuesta de AquaEngine para mejorar la gestión de inventarios y mantenimiento en el sector pesquero?
 
-**Entrevistas segmento Agricultor**
+**Entrevistas segmento Productor de maquinaria**
 1. ¿Qué característica de AquaEngine considera que le resulta más útil para el mantenimiento de sus productos de maquinaria pesquera?
 2. ¿Qué tipo de reportes o alertas considera necesarios para optimizar el mantenimiento de las máquinas en su inventario?
 3. ¿Ha enfrentado problemas de tiempos de inactividad o demoras en el mantenimiento? ¿Cómo espera que AquaEngine pueda ayudarle a reducir estos tiempos?
 4. ¿Qué opina sobre el diseño de la plataforma en términos de accesibilidad y facilidad para localizar información de mantenimiento y estado de sus equipos?
 
-**Entrevistas segmento Distribuidor**
+**Entrevistas segmento Pesquero**
 1. ¿Qué opina sobre la capacidad de AquaEngine para gestionar de manera centralizada el inventario y el mantenimiento de los equipos pesqueros?
 2. ¿Cuán importante considera que es el acceso rápido a información sobre el estado y mantenimiento de los equipos para sus operaciones diarias?
 3. ¿Qué funcionalidades considera necesarias para mejorar el seguimiento de los equipos y el control de inventarios en AquaEngine?
