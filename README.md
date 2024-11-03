@@ -1722,9 +1722,13 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>
-                <li>Desarrollar una landing page usando html,css y js.</li>
-                <li>landing page responsive</li>
+            <td style="text-align: justify">
+                <p>
+                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de AquaEngine, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML, CSS y JavaScript, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
+                </p>
+                <p>
+                Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a AquaEngine, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
+                </p>
             </td>
         </tr>
         <tr>
@@ -2106,9 +2110,13 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         </tr>
         <tr>
             <td>Sprint 2 Goal</td>
-            <td>
-                <li>Corregir errores y observaciones del sprint 1.</li>
-                <li>implementar las vistas core del negocio en el lado front-end</li>
+            <td style="text-align: justify">
+                <p>
+                Nuestro enfoque para este sprint está en desarrollar la primera versión de la interfaz de usuario de AquaEngine, implementando las vistas clave para la gestión de inventario, facturación, monitoreo de equipos y solicitudes de maquinaria pesquera. Creemos que este avance mejorará la experiencia de usuario y facilitará la interacción con las funcionalidades centrales del sistema, haciéndolo más intuitivo y accesible. 
+                </p> 
+                <p>
+                Esto se confirmará cuando los usuarios experimenten una navegación fluida en la Landing Page, con un diseño optimizado y una interfaz amigable que les permita realizar operaciones de inventario y facturación sin inconvenientes. Asimismo, el monitoreo en tiempo real de los equipos pesqueros y la gestión de solicitudes de maquinaria se integrarán en un flujo de trabajo eficiente, brindando a los usuarios mayor control y visibilidad sobre sus activos, así como una experiencia mejorada en sus interacciones con el sistema.
+                </p>
             </td>
         </tr>
         <tr>
