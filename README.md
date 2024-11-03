@@ -2442,7 +2442,7 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024/10/27</td>
+            <td>2024/10/15</td>
         </tr>
         <tr>
             <td>Time</td>
@@ -2463,8 +2463,6 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
                 <li>Omar Christian Berrocal Ramirez</li>
                 <li>Pedro Andre Guía Carrasco</li>
                 <li>Yasser Rentería Palacios</li>
-                <li></li>
-                <li></li>
             </td>
         </tr>
         <tr>
@@ -3122,11 +3120,11 @@ Ocupación: _____
 | Comunicar errores con facilidad               |                 | {texto} |
 | Ayuda y documentación                         |                 | {texto} |
 
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
-=======
-![Network-frontend](./assets/images/chapter-V/sprint2-network.png)  
-En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+## 5.4. Video About-the-Product.  
+
+https://www.youtube.com/watch?v=IrHx4bwdHu8  
+
+<img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence"/>  
 
 # Conclusiones
 
@@ -3166,7 +3164,7 @@ como las historias de usuario y el diseño de la aplicación. Además, este proy
 nuestros conocimientos en desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia 
 en la creación de una aplicación web completa.  
 
-Video About-the-Team: https://drive.google.com/file/d/1KFtE8xqGLwyorW3c1j-m4ogDFLetKEig/view?usp=sharing
+Video About-the-Team: https://youtu.be/utn09GWWGXs  
 
 # Bibliografía
 
