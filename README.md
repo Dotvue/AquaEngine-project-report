@@ -2524,7 +2524,7 @@ Para el print 3 usamos la herramienta trello para organizar las tareas del equip
 Enlace:
 https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2faf6af73b208B9DAB/aquaengine-sprint-backlog-3
 
-![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)  
+![trello-sprint-3](./assets/images/chapter-V/trello-sprint-3.png)  
 
 <table>
   <thead>
