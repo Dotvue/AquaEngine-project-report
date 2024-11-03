@@ -2672,12 +2672,12 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
   </tr>
 
   <tr>
-    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+    <td rowspan="37" align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
     <td align="center"> master</td>
     <td align="center"> 506fe06a5ae5b5bf835d4ea362c543a35a26f444</td>
     <td align="center"> fix: changed the generated regex</td>
     <td align="center"> ---</td>
-    <td align="center"> 23/10/2024</td>
+    <td align="center"> 17/10/2024</td>
   </tr>
 
   <tr>
@@ -2685,7 +2685,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <td align="center" > 72b6c35c7bfe42d56b0cace09c119d6ea0924bef</td>
     <td align="center"> chore: automatic imports in csproj file.</td>
     <td align="center"> ---</td>
-    <td align="center"> 23/10/2024</td>
+    <td align="center"> 17/10/2024</td>
   </tr>
 
   <tr>
@@ -2693,17 +2693,285 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <td align="center">73327ce8a894fb9b02f1284373d35293707fee85</td>
     <td align="center"> feat(monitoring): added a constructor for the aggregate MonitoredMachine.cs</td>
     <td align="center"> ---</td>
-    <td align="center"> 25/10/2024</td>
+    <td align="center"> 22/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/control</td>
+    <td align="center">2cf88d8bd15b4aafb5e81c407b46b5f25255692d</td>
+    <td align="center">feat(control): add commands.</td>
+    <td align="center">-</td>
+    <td align="center">23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/control</td>
+    <td align="center">4cbaae11b65ce06ee8c685eb6bc671df46569e0b</td>
+    <td align="center">feat(control): add command service implementation.</td>
+    <td align="center">---</td>
+    <td align="center">23/10/2024</td>
+  </tr>
+
+
+
+
+  <tr>
+    <td align="center"> feature/control</td>
+    <td align="center">9f9783b4102b0a4d09313620e90b3ecf674a328e</td>
+    <td align="center">feat(control): add forgotten method to update product owner.</td>
+    <td align="center">---</td>
+    <td align="center">23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/control</td>
+    <td align="center">0cf0e988fed507a2549378ddb8f285e9d59f5908</td>
+    <td align="center">feat(control): add rest interfaces resources.</td>
+    <td align="center">---</td>
+    <td align="center">23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/control</td>
+    <td align="center">ea38c38b526f8804f76fbbe7bf87af92a5ca4039</td>
+    <td align="center">feat(control): add program configuration.</td>
+    <td align="center">---</td>
+    <td align="center">23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">8d87cabb5fd48d62b1c508042f2d64dc724155a3</td>
+    <td align="center">feat(monitoring): finished the domain layer</td>
+    <td align="center">---</td>
+    <td align="center">23/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">67f2737187bcd0c6fbf287fb9eef7f17898d4774</td>
+    <td align="center">feat(monitoring): application layer finished</td>
+    <td align="center">-</td>
+    <td align="center">25/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">d878ac716588857c7690d822503f5c4573b3bd0c</td>
+    <td align="center">feat(monitoring): controller set</td>
+    <td align="center">-</td>
+    <td align="center">25/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">73327ce8a894fb9b02f1284373d35293707fee85</td>
+    <td align="center">feat(monitoring): added a constructor for the aggregate MonitoredMachine.cs</td>
+    <td align="center">-</td>
+    <td align="center">27/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/maintenance</td>
+    <td align="center">0719361b3ce04f27b4a0f3a304dbae53cb4f9a4f</td>
+    <td align="center">feat(maintenance): created the maintenance constructor and auditable model</td>
+    <td align="center">-</td>
+    <td align="center">27/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/maintenance</td>
+    <td align="center">55d51c45ab0396b4a997aa4feda9f1a6f822827a</td>
+    <td align="center">feat(maintenance): added the commands from the command directory.</td>
+    <td align="center">-</td>
+    <td align="center">28/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/</td>
+    <td align="center">46f857400d2aaae4a35f8ec17cba06008a8bd5a2</td>
+    <td align="center">feat(maintenance): implemented the interfaces used in the domain layer to execute commands and queries.</td>
+    <td align="center">-</td>
+    <td align="center">28/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/maintenance</td>
+    <td align="center">08a7e8d1240c21b2315ad4bf2d29f0bf52b9f315</td>
+    <td align="center">feat(maintenance): added the resources and resource transformation.</td>
+    <td align="center">-</td>
+    <td align="center">28/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/maintenance</td>
+    <td align="center">4ea0ea0ab6bc11b47357b42f111f3e2cefe123c2</td>
+    <td align="center">feat(maintenance): added maintenance services injection to Program.cs.</td>
+    <td align="center">-</td>
+    <td align="center">28/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/</td>
+    <td align="center">c1539da24781350fd95bad794b8392c8dea55ae6</td>
+    <td align="center">feat(maintenance): added maintenance controller.</td>
+    <td align="center">-</td>
+    <td align="center">28/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/maintenance</td>
+    <td align="center">eec3373710600bc3f103b37b22eadd904ba766a4</td>
+    <td align="center">feat(maintenance): changed the AppDbContext.cs to create a table for the feature maintenance.</td>
+    <td align="center">-</td>
+    <td align="center">28/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> Develop</td>
+    <td align="center">38cc65498f1dd8c58667b51ec1ba94ab598b1c8c</td>
+    <td align="center">Merge branch 'develop' into feature/control</td>
+    <td align="center">-</td>
+    <td align="center">29/10/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> Develop</td>
+    <td align="center">f30820999b1e4a7bb15c79120b485ce3eceead64</td>
+    <td align="center">Merge pull request #2 from Dotvue/feature/control</td>
+    <td align="center">-</td>
+    <td align="center">29/10/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> feature/planning</td>
+    <td align="center">af4ff168530553f616209b4e956fc0e0c6eaddb7</td>
+    <td align="center">feat(planning): added missing attribute IssueType into the constructor of the aggregate.</td>
+    <td align="center">-</td>
+    <td align="center">29/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/</td>
+    <td align="center">ce1692074275326c130ad81f8305616b48a0c860</td>
+    <td align="center">feat(planning): created the ordering constructor and auditable model.</td>
+    <td align="center">-</td>
+    <td align="center">29/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/</td>
+    <td align="center">624bd1046218c7be0dbd0cddcdcacd929496915c</td>
+    <td align="center">feat(planning): finished the domain layer.</td>
+    <td align="center">-</td>
+    <td align="center">31/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">7389dff188293242df241f4aa6d10e702ef2644b</td>
+    <td align="center">feat(monitoring): added the get all method and delete machine method.</td>
+    <td align="center">-</td>
+    <td align="center">31/10/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/planning</td>
+    <td align="center">5d7124f1b1e87550a91eba64cf81fadd245b45ff</td>
+    <td align="center">feat(planning): added a query to get all in ordering machinery context.</td>
+    <td align="center">-</td>
+    <td align="center">01/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/planning</td>
+    <td align="center">db6f19081e5959f69b2b2c74622c7d15c3c3ce84</td>
+    <td align="center">feat(planning): Added dependency injection for planning bounded context.</td>
+    <td align="center">-</td>
+    <td align="center">01/11/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> feature/invocing</td>
+    <td align="center">6d193f960b0a33ee2844b33bb717c3c058c51e12</td>
+    <td align="center">feat(Command): added the InvoiceCommand Creation.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+ 
+   <tr>
+    <td align="center"> feature/invoicing</td>
+    <td align="center">c6f6381e0da7458e856fee61aebad37f226bb741</td>
+    <td align="center">feat(Command): added the resources of Invoice.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/invoicing</td>
+    <td align="center">08bc77e617dd57ab29d1c1608fbae5b7268a6efa</td>
+    <td align="center">feat(Query): added the get query of Invoice.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/invoicing</td>
+    <td align="center">5521224d86f862553c1839a77a2dba616619fc94</td>
+    <td align="center">feat(Query): added the get userId query of Invoice.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/invoicing</td>
+    <td align="center">b034d054c0cf1e167f3634d182a760e786b84a49</td>
+    <td align="center">feat(Controller): added the controller of Invoice.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/control</td>
+    <td align="center">7359e100a2a409292cde5dce5b0cff3a5cd4c139</td>
+    <td align="center">fix: access to value object user id propertie.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
   </tr>
 
   <tr>
     <td align="center"> develop</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
-    <td align="center">--/10/2024</td>
+    <td align="center">5288ccfac119274ecfc8cdd59524559b72cd46d6</td>
+    <td align="center">Merge branch 'develop' into feature/Invoice</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
   </tr>
+  
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">83f7982f5c340f516b762aebd4feb5dd1e854a6b</td>
+    <td align="center">fix: resolving merge conflicts with feature/invoice.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">419f808773ea949927a25bcf321e4a554aa6ba22</td>
+    <td align="center">refactor: change bounded context invoice name to sales.</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">2fee8462444ece404b116f251d846fa2726e75af</td>
+    <td align="center">Merge remote-tracking branch 'origin/develop' into develop</td>
+    <td align="center">-</td>
+    <td align="center">02/11/2024</td>
+  </tr>
+  
 </table>
+
+Como se puede ver en la parte de arriba, utilizamos conventional commits y separamos las ramas por features para mantener un orden en los commits.
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -2806,7 +3074,7 @@ Ocupación: _____
 {texto}
 
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌   | NOTA    |
+| HEURÍSTICA                                    | EVALUACIÓN    | NOTA    |
 |-----------------------------------------------|-----------------|---------|
 | Visibilidad del estado del sistema            |                 | {texto} |
 | Coincidencia entre el sistema y el mundo real |                 | {texto} |
@@ -2878,3 +3146,5 @@ Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
 | Vídeo Sprint 1 | 
 | Vídeo Sprint 2 |                 |
 | Vídeo Sprint 3 |                 |
+
+Video about the product for sprint 3: https://youtu.be/IrHx4bwdHu8
