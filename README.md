@@ -2418,7 +2418,7 @@ Por último, finalizamos ejecutando el siguiente comando y tendremos nuestra apl
 firebase deploy
 ```
 
-*Enlace de la Web Application:*  https://master--aquaengine.netlify.app/
+*Enlace de la Web Application:*  https://aquaengine-upc.netlify.app/home
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
