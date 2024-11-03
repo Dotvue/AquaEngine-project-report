@@ -24,7 +24,7 @@
 | Daniel del Castillo          | U202211212 |
 | Gonzalo Andre Zavala Quedena | U202113656 |
 | Pedro Andre Guia Carrasco    | U202212010 |
-| Sebastián Aiquipa            | U201916755 |
+| Yasser Rentería Palacios     | U202214130 |
 | Omar Berrocal Ramirez        | U20201b529 |
 
 <br> AGOSTO 2024
