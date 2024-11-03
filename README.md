@@ -3130,6 +3130,8 @@ Ocupación: _____
 
 ## 5.4. Video About-the-Product.  
 
+Este video presenta de forma concisa las características y beneficios clave del producto, ofreciendo a los usuarios una visión rápida de su utilidad y valor.  
+
 https://www.youtube.com/watch?v=IrHx4bwdHu8  
 
 <img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence"/>  
