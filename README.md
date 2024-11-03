@@ -3046,7 +3046,11 @@ Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo 
 GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
 Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.  
+
+A continuación se mostrarán el gráfico de insights durante el sprint:
+
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/team-collaboration-sprint3.png" alt="collab-sprint3"/>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
