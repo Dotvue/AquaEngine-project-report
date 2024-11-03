@@ -3035,7 +3035,18 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
     <th> <strong> /api/v1/ordering-machinery </strong> </th>
     <th> <img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/e11a897b2f0621981ad8daa4c216b8a451695102/assests/endpoint-orderingmachinery.png"> </th>
   </tr>
-</table>
+</table>  
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.  
+
+En este sprint, se ha desarrollado el backend de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
+
+Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.
+GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
