@@ -3063,7 +3063,7 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
   </tr>
 </table>  
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.  
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.  
 
 En este sprint, se ha desarrollado el backend de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
 
@@ -3076,7 +3076,85 @@ Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
 
 A continuación se mostrarán el gráfico de insights durante el sprint:
 
-<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/team-collaboration-sprint3.png" alt="collab-sprint3"/>
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/team-collaboration-sprint3.png" alt="collab-sprint3"/>  
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/11/10</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:54 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Gonzalo Andre Zavala Quedena</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Mateo del Castillo Bueno</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Pedro Andre Guía Carrasco</li>
+                <li>Yasser Rentería Palacios</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                Este es el cuarto sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td style="text-align: justify">
+                <p style="text-align: justify">
+                Nuestro enfoque está centrado en desplegar el API de la aplicación backend de AquaEngine, además de crear interfaces de usuario para el inicio de sesión y el registro de nuevos usuarios. Paralelamente, trabajaremos en una nueva iteración de las funcionalidades ya mencionadas, con el objetivo de completar y optimizar la experiencia del usuario y la gestión operativa. Creemos que estos avances permitirán a los usuarios interactuar de manera más fluida y segura con el sistema, facilitando no solo el acceso, sino también la administración eficiente y en tiempo real. El despliegue del API potenciará la integración de AquaEngine con otras herramientas y sistemas, ofreciendo una mayor flexibilidad y escalabilidad. Asimismo, al proporcionar una interfaz de inicio de sesión y registro mejorada, pretendemos ofrecer una transición sin problemas para los usuarios nuevos y un acceso seguro para los usuarios existentes. Esto se confirmará cuando los usuarios experimenten una mejora significativa en la facilidad de inicio de sesión y registro, junto con una integración más efectiva con otros sistemas, permitiéndoles así centrarse en otras áreas críticas de sus operaciones.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                24
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                35
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
