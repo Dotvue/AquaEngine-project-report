@@ -3155,6 +3155,52 @@ A continuación se mostrarán el gráfico de insights durante el sprint:
     </tbody>
 </table>
 
+#### 5.2.4.2. Sprint Backlog 4.
+
+Para el print 4 usamos la herramienta trello para organizar las tareas del equipo.  
+  
+Enlace:
+https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c5dff2ea355B0E37EE/aquaengine-sprint-backlog-4
+
+![trello-sprint-4](./assets/images/chapter-V/trello-sprint-4.png)  
+
+<table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th colspan="3">Title</th>
+      <th>Id</th>
+      <th>Bounded Context</th>
+      <th>Functionality</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td colspan="3">Acceso a la aplicación web</td>
+      <td>US01</td>
+      <td>feature/public</td>
+      <td>Quiero registrar una cuenta en la aplicación para acceder a las funciones asignadas a mi rol.</td>
+      <td>1</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td colspan="3">Acceso a la aplicación web</td>
+      <td>US02</td>
+      <td>feature/public</td>
+      <td>Quiero poder iniciar sesión en la aplicación para acceder a las funciones habilitadas para mi cuenta.</td>
+      <td>1</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
