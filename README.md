@@ -641,11 +641,11 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 **Segmento 1**  
 
-<img src="assests/user1-journey.png">
+<img src="assests/user1-journey.png" style="width: 850px">
 
 **Segmento 2**  
 
-<img src="assests/user2 - journey map.png">
+<img src="assests/user2 - journey map.png" style="width: 850px">
 
 ### 2.3.4. Empathy Mapping.
 <p align="justify">
@@ -654,11 +654,11 @@ Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más l
 
 **Segmento 1:**  
 
-<img src="assests/Empathy map Segmento 1.png">
+<img src="assests/Empathy map Segmento 1.png" style="width: 800px">
 
 **Segmento 2:**  
 
-<img src="assests/Empathy map pesquero.png">
+<img src="assests/Empathy map pesquero.png" style="width: 800px">
 
 ### 2.3.5. As-is Scenario Mapping.
 Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cuál es el escenario actual sobre el problema que se intentará resolver, en este caso el problema seria la demanda de equipos de las empresas maquinarias.
@@ -666,12 +666,12 @@ Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 **Segmento 1**  
 Este segmento muestra el mapeo del escenario "As-Is" para un fabricante de maquinaria pesquera. Detalla los pasos, acciones, pensamientos y sentimientos involucrados desde que se recibe un pedido hasta la entrega al cliente, destacando la búsqueda de eficiencia y cumplimiento de plazos.  
 
-<img src="assests/as-is maquinaria.jpg" style="width: 1000px;">
+<img src="assests/as-is maquinaria.jpg" style="width: 1000px">
 
 **Segmento 2**  
 Este segmento ilustra el mapeo del escenario "As-Is" para una empresa pesquera. Describe el proceso desde la identificación de un problema hasta la recepción del producto, enfocándose en la coordinación y selección del mejor proveedor para satisfacer las necesidades de la empresa.  
 
-<img src="assests/as-is pesquero.jpg" style="width: 1000px;">
+<img src="assests/as-is pesquero.jpg" style="width: 1000px">
 
 ## 2.4. Ubiquitous Language.
 <p style="text-align: justify;">
@@ -802,10 +802,10 @@ A continuación, estableceremos las épicas, para luego detallarlas en historias
 ## 3.3. Impact Mapping.
 El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
 ### Segmento 1
-<img src="./assests/Impact map Semento1.png">
+<img src="./assests/Impact map Semento1.png" style="width: 700px">
 
 ### Segmento 2
-<img src="./assests/Impact map Segment2.png">
+<img src="./assests/Impact map Segment2.png" style="width: 700px">
 
 ## 3.4. Product Backlog.
 
