@@ -3095,16 +3095,23 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
 
 En este sprint, se ha desarrollado el backend de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
 
-Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.
-Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.
-GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
-Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
+* Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.  
+* Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.  
+* GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.  
+* Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.  
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 A continuación se mostrarán el gráfico de insights durante el sprint:
 
-<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/team-collaboration-sprint3.png" alt="collab-sprint3"/>  
+Gráfico que ilustra la colaboración del equipo en el desarrollo del backend durante el sprint.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/collaboration-insights/sprint3/insights-backend.png" style="width: 700px"/>  
+
+Gráfico que muestra los insights de colaboración del equipo en el desarrollo del frontend.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/collaboration-insights/sprint3/insights-frontend.png" style="width: 700px"/>  
+
+Gráfico que representa la colaboración del equipo en la creación de landing page.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/collaboration-insights/sprint3/insights-landing.png" style="width: 700px"/>
 
 ### 5.2.4. Sprint 4
 
