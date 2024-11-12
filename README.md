@@ -383,9 +383,9 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 ***Features:***
  
- - Implementar una funcion que optimice el proceso de aceptación o rechazo de pedidos
+ - Implementar una función que optimice el proceso de aceptación o rechazo de pedidos
  - Implementar funciones dedicadas al monitoreo de equipos para realizarle mantenimientos con sensores. 
- - Automatizar el proceso de facturación de la empresa para realizar facturas electronicas verificadas con la sunat.
+ - Automatizar el proceso de facturación de la empresa para realizar facturas electrónicas verificadas con la SUNAT.
  - Implementar una conexión a una base de datos, para visualización dentro de la aplicación web.
  - Implementar una función para solicitar equipos a través de nuestra aplicación web.
 
@@ -409,9 +409,9 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 ***Hypothesis 3:***
 
-**Creemos que lograremos** Aumentar la tasa de adopción del software un 30% en nuestro segundo trimestre en comparación al anteior
+**Creemos que lograremos** Aumentar la tasa de adopción del software un 30% en nuestro segundo trimestre en comparación al anterior
 **Si** los productores
-**Logran** transicionar adecuadamente a facturación electronica
+**Logran** transition adecuadamente a facturación electronica
 **Con**
 
 
@@ -425,7 +425,7 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 ***Hypothesis 5:***
 
-**Creemos que lograremos** conseguir un puntaje de satisfación del cliente (CSAT) en 90%
+**Creemos que lograremos** conseguir un puntaje de satisfacción del cliente (CSAT) en 90%
 **Si** los pescadores
 **Logran** facilitar el proceso de pedido de un equipo
 **Con** la implementación de una función para realizar pedidos a través de nuestra aplicación
@@ -448,7 +448,7 @@ Aspectos demográficos:
 Aspectos geográficos:
  - Ubicación: Lima, Perú
 
-Aspectos psicologicos:
+Aspectos psicológicos:
  - Objetivo: Aumentar la cantidad de pedidos que pueden procesar.
  - Valores: Eficiencia, Honestidad, Responsabilidad, Asertividad.  
     
@@ -461,7 +461,7 @@ Aspectos demográficos:
 Aspectos geográficos:
  - Ubicación: Departamentos costeros del Perú (Lima, Ica, Piura, Lambayeque, etc.)
 
-Aspectos psicologicos:
+Aspectos psicológicos:
  - Objetivo: Obtener maquinaria más rápido 
  - Valores: Eficiencia, Trabajo en equipo Puntualidad
 # Capítulo II: Requeriments Elicitation & Analysis
@@ -593,11 +593,15 @@ La entrevista con Jorge Gutiérrez, un joven pescador de 21 años, destaca la pr
 En esta sección, se incluyen las fichas de User Persona que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
 </p>
 
-**Segmento 1:**   
-<img src="assests/Ricardo Salas-user.png">  
+#### **Segmento 1:**  
+Este segmento representa a un empresario experimentado que utiliza la tecnología para optimizar procesos y mejorar la eficiencia en su empresa.  
 
-**Segmento 2:**  
-<img src="assests/Carlos Martinez-userpesque.png">
+<img src="assests/Ricardo Salas-user.png" style="width: 700px;">
+
+#### **Segmento 2:**  
+Este segmento se enfoca en un emprendedor nuevo que busca soluciones tecnológicas para gestionar eficientemente sus recursos y mejorar la comunicación con proveedores.  
+
+<img src="assests/Carlos Martinez-userpesque.png" style="width: 700px;">
 
 ### 2.3.2. User Task Matrix.
 <p align="justify">
@@ -657,15 +661,17 @@ Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más l
 <img src="assests/Empathy map pesquero.png">
 
 ### 2.3.5. As-is Scenario Mapping.
-Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso el problema seria la demanda de equipos de las empresas maquinarias.
+Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cuál es el escenario actual sobre el problema que se intentará resolver, en este caso el problema seria la demanda de equipos de las empresas maquinarias.
 
 **Segmento 1**  
+Este segmento muestra el mapeo del escenario "As-Is" para un fabricante de maquinaria pesquera. Detalla los pasos, acciones, pensamientos y sentimientos involucrados desde que se recibe un pedido hasta la entrega al cliente, destacando la búsqueda de eficiencia y cumplimiento de plazos.  
 
-<img src="assests/as-is maquinaria.jpg">
+<img src="assests/as-is maquinaria.jpg" style="width: 1000px;">
 
 **Segmento 2**  
+Este segmento ilustra el mapeo del escenario "As-Is" para una empresa pesquera. Describe el proceso desde la identificación de un problema hasta la recepción del producto, enfocándose en la coordinación y selección del mejor proveedor para satisfacer las necesidades de la empresa.  
 
-<img src="assests/as-is pesquero.jpg">
+<img src="assests/as-is pesquero.jpg" style="width: 1000px;">
 
 ## 2.4. Ubiquitous Language.
 <p style="text-align: justify;">
