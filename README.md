@@ -34,16 +34,17 @@
 
 # Registro de Versiones del Informe  
 
-| Version | Fecha      | Autor                           | Descripcion de Modificacion                                                          |
-|---------|------------|---------------------------------|--------------------------------------------------------------------------------------|
-| 0.0.1   | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO<br>1.1 - 1.2 - 1.3                                  |
-| 0.0.2   | 21/09/2024 | Pedro Andre Guia Carrasco       | Desarrollo Capítulo (2) APARTADO<br>2.1 - 2.2 - 2.3                                  |
-| 0.0.3   | 24/09/2024 | ---                             | Desarrollo Capítulo (3)  APARTADO<br>3.1 - 3.2 - 3.3 - 3.4                           |
-| 0.0.4   | 26/09/2024 | Gonzalo Quedena                 | Desarrollo Capítulo (4) APARTADO<br>4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8    |
-| 0.0.5   | 26/09/2024 | Sebastián Aiquipa               | Desarrollo Capítulo (4) APARTADO<br>4.6 - 4.7 - 4.8                                  | 
-| 0.0.6   | 27/09/2024 | Omar Berrocal Ramirez           | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2                                        |
-| 0.0.7   | 18/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (5) APARTADO<br>5.2.3.3 - 5.2.3.4 - 5.2.3.5<br>                  |
-| 0.0.8   | 25/10/2024 | Gonzalo Andre Zavala Quedena    | <br>Conclusiones, Anexos, Bibliografía.                                              |
+| Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------------|
+| 0.0.1   | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO 1.1 - 1.2 - 1.3                               |
+| 0.0.2   | 21/09/2024 | Pedro Andre Guia Carrasco       | Desarrollo Capítulo (2) APARTADO2.1 - 2.2 - 2.3                                |
+| 0.0.3   | 24/09/2024 | Gonzalo Quedena                 | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
+| 0.0.4   | 26/09/2024 | Gonzalo Quedena                 | Desarrollo Capítulo (4) APARTADO 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 |
+| 0.0.5   | 26/09/2024 | Sebastián Aiquipa               | Desarrollo Capítulo (4) APARTADO 4.6 - 4.7 - 4.8                               | 
+| 0.0.6   | 27/09/2024 | Omar Berrocal Ramirez           | Desarrollo Capítulo (5) APARTADO 5.1 - 5.2                                     |
+| 0.0.7   | 18/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (5) APARTADO 5.2.3.3 - 5.2.3.4 - 5.2.3.5                   |
+| 0.0.8   | 25/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo del Capítulo (5) APARTADO 5.2.3.6 - 5.2.3.7  5.2.3.8                |
+| 0.0.9   | 28/10/2024 | Gonzalo Andre Zavala Quedena    | Conclusiones, Anexos, Bibliografía.                                            | 
 
 </center>
 
@@ -54,7 +55,28 @@ Reporte: https://github.com/Dotvue/project-report
 Organización: https://github.com/orgs/Dotvue/repositories  
 Landing Page: https://aqua-engine-landing-page.vercel.app/?lang=es  
 
-<img src="./assets/images/team-collaboration.png" alt="collaboration insights" width="800px"/>
+TB1: El equipo entero participó en el desarrollo del sistema, asignando las tareas de manera equitativa entre todos. También trabajamos juntos en aspectos esenciales, como las entrevistas con usuarios y el diseño de la página de inicio. Este método integral y colaborativo nos permitió asegurar calidad y eficiencia durante todas las fases del proyecto.  
+
+* Cada miembro redactó y organizó sus contenidos en formato Markdown, haciendo commits para garantizar el progreso en el repositorio.
+* Se crearon los artefactos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imagen desde la carpeta "assets" en la rama develop del repositorio del informe.
+* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 1, centrado en la página de inicio.  
+
+<img src="./assets/images/collaboration-insights/sprint1/insights-report.png" alt="collaboration insights sprint1" style="width: 600px"/>
+
+TP: Se completaron las tareas previstas para la entrega del TP, y se documentaron de manera adecuada en el repositorio de GitHub del equipo.  
+
+* Los contenidos asignados a cada miembro se redactaron y organizaron en formato Markdown, realizando commits para garantizar el seguimiento del avance en el repositorio.
+* Se crearon los artefactos necesarios utilizando las herramientas sugeridas.
+* Se realizaron reuniones para coordinar el progreso de los elementos del informe y compartir los avances del Sprint 2, enfocado en el desarrollo de la aplicación web.  
+
+TB2: Las tareas asignadas para la entrega del TB2 se completaron y se documentaron adecuadamente en el repositorio de GitHub del equipo.
+
+* Los contenidos asignados a cada integrante fueron preparados y estructurados en formato Markdown.
+* Se realizaron commits para garantizar el seguimiento del progreso en el repositorio.
+* Se crearon los artefactos necesarios utilizando las herramientas recomendadas.
+* Se mantuvieron reuniones para coordinar el avance de los componentes del informe.  
+
+<img src="./assets/images/collaboration-insights/sprint3/insights-report.png" alt="collaboration insights sprint 3" style="width: 600px"/>
 
 # Contenido
 
