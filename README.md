@@ -1131,10 +1131,24 @@ Nuestra solución es sencilla pero eficaz, toda la información que necesite el 
 
 ### 4.6.3. Software Architecture Components Diagrams.
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí. 
-<img src="./assets/images/chapter-iv/c4model/structurizr-96195-DiagramadeComponente.png" alt="Diagrama de componentes">
-En el siguiente diagrama podemos visualizar que el api funciona con diferentes routes, cada uno contiene un route diferente.
-Siguen una arquitectura convencional utilizada e implementada en ASP.NET CORE frameworK, por lo que evitamos romper las convenciones para un API REST, de modo que pese a que maintenance es una caracte del feature de monitoring cuenta con una route propia, esto es debido a que se realizará una conección entre Monitored machine id para obtener informacion de maintenance de en monitoring.
+Para agilizar la lectura y comprensión de los componentes, optamos por realizar un diagrama por cada bounded context. A continuación demostraremos la arquitectura de AquaEngine y
 
+ - BoundedContext:Analytics
+<img src="./assets/images/chapter-iv/c4model/Analytics.png" alt="Diagrama de components -BoundedContext: Analytics" style="width: 500px; height: auto;">
+Este bounded context separa todo lo relacionado con el monitoreo de las maquinarias para hacerles seguimiento a las mismas
+
+ - BoundedContext:Control
+<img src="./assets/images/chapter-iv/c4model/Control.png" alt="Diagrama de components -BoundedContext: Control" style="width: 500px; height: auto;" >
+Este bounded context separa todo lo relacionado con el control de productos, por lo que el feature de inventario está considerado dentro de este bounded context
+
+ - BoundedContext:Sales
+<img src="./assets/images/chapter-iv/c4model/SALES.png" alt="Diagrama de components -BoundedContext: Sales" style="width: 500px; height: auto;" >
+Este bounded context separa todo lo relacionado con las ventas de la empresa, el feature de facturación tiene que ver directamente con este rubro por lo cual está incorporado en este bounded context
+
+
+ - BoundedContext:Planning
+<img src="./assets/images/chapter-iv/c4model/Planning.png" alt="Diagrama de components -BoundedContext:Planning" style="width: 500px; height: auto;" >
+Este bounded context sirve para alojar el feature de Ordenes de maquinaria, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
