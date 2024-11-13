@@ -1149,7 +1149,7 @@ El diagrama describe un sistema para gestionar facturas, donde cada clase tiene 
 
 <img src="assets/images/chapter-III/MachineryManagement.png">
 
-El diagrama muestra cómo se gestiona la maquinaria en el sistema. MachineryItem es la clase central que representa una máquina con su estado, dueño y última fecha de mantenimiento. La clase MachineryItemFactory crea ítems de maquinaria, mientras que MonitoringService gestiona el monitoreo de todas las máquinas y su estado. La interfaz Observer permite observar cambios en el estado de la maquinaria, implementada por MachineryChangeLogger para registrar dichos cambios.
+El diagrama UML para el bounded context de "Monitoring" integra las entidades del sistema y los servicios que interactúan con ellas. La clase Equipments representa los equipos que están siendo monitoreados, con atributos como id, name, lastMaintenanceDate y status, y un método para ver los registros de mantenimiento. MaintenancesLog gestiona los detalles de cada registro de mantenimiento, incluyendo logID, date, technician, issueType, description y additionalInfo. La relación entre Equipment y MaintenanceLog es de uno a muchos, ya que un equipo puede tener múltiples registros de mantenimiento. Los servicios EquipmentService y MaintenanceLogService manejan las operaciones de los equipos y sus registros: EquipmentService proporciona métodos para obtener la lista de equipos y buscar un equipo por su ID, mientras que MaintenanceLogService permite obtener los registros de mantenimiento de un equipo específico y agregar nuevos registros. Los servicios están conectados a las entidades correspondientes mediante dependencias, destacando la estructura modular y lógica del sistema.
 
 <img src="assets/images/chapter-III/OrderManagement.png">
 
