@@ -24,7 +24,7 @@
 | Daniel del Castillo          | U202211212 |
 | Gonzalo Andre Zavala Quedena | U202113656 |
 | Pedro Andre Guia Carrasco    | U202212010 |
-| Sebastián Aiquipa            | U201916755 |
+| Yasser Rentería Palacios     | U202214130 |
 | Omar Berrocal Ramirez        | U20201b529 |
 
 <br> AGOSTO 2024
@@ -34,16 +34,17 @@
 
 # Registro de Versiones del Informe  
 
-| Version | Fecha      | Autor                           | Descripcion de Modificacion                                                          |
-|---------|------------|---------------------------------|--------------------------------------------------------------------------------------|
-| 0.0.1   | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO<br>1.1 - 1.2 - 1.3                                  |
-| 0.0.2   | 21/09/2024 | Pedro Andre Guia Carrasco       | Desarrollo Capítulo (2) APARTADO<br>2.1 - 2.2 - 2.3                                  |
-| 0.0.3   | 24/09/2024 | ---                             | Desarrollo Capítulo (3)  APARTADO<br>3.1 - 3.2 - 3.3 - 3.4                           |
-| 0.0.4   | 26/09/2024 | Gonzalo Quedena                 | Desarrollo Capítulo (4) APARTADO<br>4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8    |
-| 0.0.5   | 26/09/2024 | Sebastián Aiquipa               | Desarrollo Capítulo (4) APARTADO<br>4.6 - 4.7 - 4.8                                  | 
-| 0.0.6   | 27/09/2024 | Omar Berrocal Ramirez           | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2                                        |
-| 0.0.7   | 18/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (5) APARTADO<br>5.2.3.3 - 5.2.3.4 - 5.2.3.5<br>                  |
-| 0.0.8   | 25/10/2024 | Gonzalo Andre Zavala Quedena    | <br>Conclusiones, Anexos, Bibliografía.                                              |
+| Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------------|
+| 0.0.1   | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO 1.1 - 1.2 - 1.3                               |
+| 0.0.2   | 21/09/2024 | Pedro Andre Guia Carrasco       | Desarrollo Capítulo (2) APARTADO2.1 - 2.2 - 2.3                                |
+| 0.0.3   | 24/09/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
+| 0.0.4   | 26/09/2024 | Gonzalo Abdre Zavala Quedena    | Desarrollo Capítulo (4) APARTADO 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 |
+| 0.0.5   | 26/09/2024 | Sebastián Aiquipa               | Desarrollo Capítulo (4) APARTADO 4.6 - 4.7 - 4.8                               | 
+| 0.0.6   | 27/09/2024 | Omar Berrocal Ramirez           | Desarrollo Capítulo (5) APARTADO 5.1 - 5.2                                     |
+| 0.0.7   | 18/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (5) APARTADO 5.2.3.3 - 5.2.3.4 - 5.2.3.5                   |
+| 0.0.8   | 25/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo del Capítulo (5) APARTADO 5.2.3.6 - 5.2.3.7  5.2.3.8                |
+| 0.0.9   | 28/10/2024 | Gonzalo Andre Zavala Quedena    | Conclusiones, Anexos, Bibliografía.                                            | 
 
 </center>
 
@@ -54,7 +55,28 @@ Reporte: https://github.com/Dotvue/project-report
 Organización: https://github.com/orgs/Dotvue/repositories  
 Landing Page: https://aqua-engine-landing-page.vercel.app/?lang=es  
 
-<img src="./assets/images/team-collaboration.png" alt="collaboration insights" width="800px"/>
+TB1: El equipo entero participó en el desarrollo del sistema, asignando las tareas de manera equitativa entre todos. También trabajamos juntos en aspectos esenciales, como las entrevistas con usuarios y el diseño de la página de inicio. Este método integral y colaborativo nos permitió asegurar calidad y eficiencia durante todas las fases del proyecto.  
+
+* Cada miembro redactó y organizó sus contenidos en formato Markdown, haciendo commits para garantizar el progreso en el repositorio.
+* Se crearon los artefactos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imagen desde la carpeta "assets" en la rama develop del repositorio del informe.
+* Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 1, centrado en la página de inicio.  
+
+<img src="./assets/images/collaboration-insights/sprint1/insights-report.png" alt="collaboration insights sprint1" style="width: 600px"/>
+
+TP: Se completaron las tareas previstas para la entrega del TP, y se documentaron de manera adecuada en el repositorio de GitHub del equipo.  
+
+* Los contenidos asignados a cada miembro se redactaron y organizaron en formato Markdown, realizando commits para garantizar el seguimiento del avance en el repositorio.
+* Se crearon los artefactos necesarios utilizando las herramientas sugeridas.
+* Se realizaron reuniones para coordinar el progreso de los elementos del informe y compartir los avances del Sprint 2, enfocado en el desarrollo de la aplicación web.  
+
+TB2: Las tareas asignadas para la entrega del TB2 se completaron y se documentaron adecuadamente en el repositorio de GitHub del equipo.
+
+* Los contenidos asignados a cada integrante fueron preparados y estructurados en formato Markdown.
+* Se realizaron commits para garantizar el seguimiento del progreso en el repositorio.
+* Se crearon los artefactos necesarios utilizando las herramientas recomendadas.
+* Se mantuvieron reuniones para coordinar el avance de los componentes del informe.  
+
+<img src="./assets/images/collaboration-insights/sprint3/insights-report.png" alt="collaboration insights sprint 3" style="width: 600px"/>
 
 # Contenido
 
@@ -151,15 +173,35 @@ Landing Page: https://aqua-engine-landing-page.vercel.app/?lang=es
 [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
 
 [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-[5.2.X. Sprint ](#52x-sprint-n)  
-[5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)  
-[5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)  
-[5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)  
-[5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
-[5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
-[5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
-[5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
-[5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
+[5.2.1. Sprint ](#521-sprint-1)  
+[5.2.1.1. Sprint Pla1ning 1](#5211-sprint-planning-1)  
+[5.2.1.2. Sprint Bac1log 1](#5212-sprint-backlog-1)  
+[5.2.1.3. Developmen1 Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)  
+[5.2.1.4. Testing Su1te Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)  
+[5.2.1.5. Execution 1vidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services D1cumentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software D1ployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
+[5.2.1.8. Team Colla1oration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
+
+[5.2.2. Sprint ](#522-sprint-2)  
+[5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+[5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)  
+[5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)  
+[5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)  
+[5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+[5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+[5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+[5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
+[5.2.3. Sprint ](#523-sprint-3)  
+[5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
+[5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)  
+[5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)  
+[5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)  
+[5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
+[5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+[5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+[5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
 [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
@@ -179,8 +221,8 @@ El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - St
 
 | Criterio Específico                                                                            | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>                           | <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br>TP:</br>Desarrollo del front-end en colaboración con otros miembros de equipo, coordinando la integración de nuestras soluciones. Asumo un liderazgo conjunto, en donde se distribuyen tareas, se establecen objetivos y asegura el cumplimiento de los plazos y la calidad del producto.<b></b><br>TB2:<br>El equipo ha colaborado de manera efectiva para proporcionar un liderazgo conjunto en el desarrollo del backend. Se han establecido procesos de comunicación claros y eficientes, lo que ha permitido alinear objetivos y fomentar un ambiente de trabajo colaborativo. Gracias a este enfoque, hemos logrado optimizar el desarrollo y asegurar que cada miembro del equipo contribuya con sus fortalezas, facilitando así un resultado robusto y cohesionado en el sistema.<br><b>Daniel del Castillo</b></br>TB1:</br>Durante todo el proceso de esta entrega, encaminé un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br>TP:<br>Para esta entrega partcipé activamente en el proceso de intercambio de ideas y organización de bounded contexts con mis compañeros durante las reuniones de los sprints además de realizar segmentos que no pudieron completarse en entregas pasadas.<br>TB2: <br>Durante esta entrega me asegure de apoyar en demas aspectos del trabajo para así ayudar a terminar más rápidamente, como por ejemplo diseño de arquitectura de solución debido a que el encargado de realizar esa tarea abandonó el curso.<br> <br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo </br>TP:<br>Para esta entrega participé en el proceso de intercambio de ideas para los bounded context junto a mis compañeros de trabajo durante los tiempos de reunion y realice el sprint 2 que trata sobre el frontend.<br>TB2: <br>Durante el entregable, me encargue en recordarle a mis compañeros la importancia del tiempo,ya que no podria volver a pasar como en entregables anteriores hacer todo lo facil a ultima hora.<br>Omar Berrocal</b></br>TB1:<br>Las reuniones realizadas por el equipo y el uso de gitflow ayudaron al trabajo en equipo. Usando herramientas ya conocidas por todos los miembros, hizo que todo se comprenda mejor.</br>TP:<br>Para esta entrega participé en las reuniones del equipo, porponiendo ideas y escuchando las ideas de los demás. Así pudimos llegar a un acuerdo y empezar con el desarrollo del trabajo parcial<br><br><b>Yasser Rentería Palacios</b></br>TB2:</br>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades durante el desarrollo del backend, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de los endpoints, promovió un ambiente inclusivo, donde cada contribución fue importante y decisiva. | CONCLUSIÓN   |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br>TP:</br>Desarrollo AquaEngine procesos eara digitalizar pn empresas pesqueras, asegurando que el equipo trabaje en armonía, con metas claras y una planificación eficaz para cumplir los objetivos del proyecto.<br>TB2:<br>El equipo promueve una cultura inclusiva que impulsa la participación activa. Al establecer metas claras y planificar tareas de manera equitativa, hemos optimizado nuestro proceso de desarrollo del backend, logrando resultados robustos y un avance coordinado.<br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello en el que seguí adecuadamente las tareas que no se habían realizado de momento<br>TP:<br>Desarrollé la sección de analiticas para la empresa, para ello segmenté la carga laboral, establecí una fecha limite y lo realicé en 3 historias de usuario.<br>TB2: <br>Durante esta entrega me aseguré de revisar el avance de las tasks asignadas, además me aseguré de que los demás colaboradores estén encaminados adecuadamente para complir con sus tasks. <br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br>TP:<br>Desarrolle la seccion de  para elló segmenté el orden de maquinaria, los detalles de la orden y orden final, esto establece la una historia de usuario.</br><br>TB2: <br>Desarrolle la seccion del backend, siguiendo el bounded context Planning, que seria el pedido de la maquinaria para luego verlo en el carrito de compras.  </br>Omar Berrocal</b></br>TB1:<br>Durante esta entrega empleamos tecnicas como gitflow y manejo de ramas lo que nos permitió trabajar de forma organizada. Plantear metas y manejarlas en un trello fue idóneo para saber que tareas se encontraban pendientes y quienes necesitaban ayuda, y de esa manera poder ayudar.</br>TP:<br>Trabajé en el feature de control, apoyando con el desarrollo de el inventario y la visualización de los detalles del equipo.<br><br><b>Yasser Rentería Palacios</b></br>TB2:</br>El equipo fomenta un ambiente que incentiva la participación activa de todos los integrantes. Al definir objetivos precisos y distribuir las tareas de forma justa, hemos fortalecido nuestra dinámica de trabajo, logrando un desarrollo de backend más eficiente. Esta estrategia nos ha permitido alcanzar resultados sólidos y mantener un avance bien coordinado en cada etapa del proyecto.                                                                                                                                             | CONCLUSIÓN   |  
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>                           | <b>Gonzalo Andre Zavala Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br>TP:</br>Desarrollo del front-end en colaboración con otros miembros de equipo, coordinando la integración de nuestras soluciones. Asumo un liderazgo conjunto, en donde se distribuyen tareas, se establecen objetivos y asegura el cumplimiento de los plazos y la calidad del producto.<b></b><br>TB2:<br>El equipo ha colaborado de manera efectiva para proporcionar un liderazgo conjunto en el desarrollo del backend. Se han establecido procesos de comunicación claros y eficientes, lo que ha permitido alinear objetivos y fomentar un ambiente de trabajo colaborativo. Gracias a este enfoque, hemos logrado optimizar el desarrollo y asegurar que cada miembro del equipo contribuya con sus fortalezas, facilitando así un resultado robusto y cohesionado en el sistema.<br><b>Daniel del Castillo</b></br>TB1:</br>Durante todo el proceso de esta entrega, encaminé un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br>TP:<br>Para esta entrega partcipé activamente en el proceso de intercambio de ideas y organización de bounded contexts con mis compañeros durante las reuniones de los sprints además de realizar segmentos que no pudieron completarse en entregas pasadas.<br>TB2: <br>Durante esta entrega me asegure de apoyar en demas aspectos del trabajo para así ayudar a terminar más rápidamente, como por ejemplo diseño de arquitectura de solución debido a que el encargado de realizar esa tarea abandonó el curso.<br> <br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo </br>TP:<br>Para esta entrega participé en el proceso de intercambio de ideas para los bounded context junto a mis compañeros de trabajo durante los tiempos de reunion y realice el sprint 2 que trata sobre el frontend.<br>TB2: <br>Durante el entregable, me encargue en recordarle a mis compañeros la importancia del tiempo,ya que no podria volver a pasar como en entregables anteriores hacer todo lo facil a ultima hora.<br><b>Omar Berrocal</b></br>TB1:<br>Las reuniones realizadas por el equipo y el uso de gitflow ayudaron al trabajo en equipo. Usando herramientas ya conocidas por todos los miembros, hizo que todo se comprenda mejor.</br>TP:<br>Para esta entrega participé en las reuniones del equipo, porponiendo ideas y escuchando las ideas de los demás. Así pudimos llegar a un acuerdo y empezar con el desarrollo del trabajo parcial<br> TB2:<br> Durante el desarrollo de este entregable y el sprint 3, me enfoqué en mejorar aspectos como el manejo de herramientas en línea para el manejo del flujo de las tareas, tales como trello, enfatizando lo importante que es trabajar sin conflictos a la hora de asignar responsabilidades y tareas. <br><br><b>Yasser Rentería Palacios</b></br>TB2:</br>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades durante el desarrollo del backend, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de los endpoints, promovió un ambiente inclusivo, donde cada contribución fue importante y decisiva. | CONCLUSIÓN   |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br>TP:</br>Desarrollo AquaEngine procesos eara digitalizar pn empresas pesqueras, asegurando que el equipo trabaje en armonía, con metas claras y una planificación eficaz para cumplir los objetivos del proyecto.<br>TB2:<br>El equipo promueve una cultura inclusiva que impulsa la participación activa. Al establecer metas claras y planificar tareas de manera equitativa, hemos optimizado nuestro proceso de desarrollo del backend, logrando resultados robustos y un avance coordinado.<br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello en el que seguí adecuadamente las tareas que no se habían realizado de momento<br>TP:<br>Desarrollé la sección de analiticas para la empresa, para ello segmenté la carga laboral, establecí una fecha limite y lo realicé en 3 historias de usuario.<br>TB2: <br>Durante esta entrega me aseguré de revisar el avance de las tasks asignadas, además me aseguré de que los demás colaboradores estén encaminados adecuadamente para complir con sus tasks. <br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br>TP:<br>Desarrolle la seccion de  para elló segmenté el orden de maquinaria, los detalles de la orden y orden final, esto establece la una historia de usuario.</br><br>TB2: <br>Desarrolle la seccion del backend, siguiendo el bounded context Planning, que seria el pedido de la maquinaria para luego verlo en el carrito de compras.  </br><b>Omar Berrocal</b></br>TB1:<br>Durante esta entrega empleamos tecnicas como gitflow y manejo de ramas lo que nos permitió trabajar de forma organizada. Plantear metas y manejarlas en un trello fue idóneo para saber que tareas se encontraban pendientes y quienes necesitaban ayuda, y de esa manera poder ayudar.</br>TP:<br>Trabajé en el feature de control, apoyando con el desarrollo de el inventario y la visualización de los detalles del equipo</br>TB2:<br> Para esta entrega tuve que coordinar a un nivel más detallado con un compañero para el desarrollo de un bounded context en el backend y frontend. De igual manera, con el equipo se plantearon metas claras a un límite de fecha para cumplir los objetivos del sprint 3 y tener un mejor desempeño.<br><br><b>Yasser Rentería Palacios</b></br>TB2:</br>El equipo fomenta un ambiente que incentiva la participación activa de todos los integrantes. Al definir objetivos precisos y distribuir las tareas de forma justa, hemos fortalecido nuestra dinámica de trabajo, logrando un desarrollo de backend más eficiente. Esta estrategia nos ha permitido alcanzar resultados sólidos y mantener un avance bien coordinado en cada etapa del proyecto.                                                                                                                                             | CONCLUSIÓN   |  
 
 
 
@@ -341,9 +383,9 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 ***Features:***
  
- - Implementar una funcion que optimice el proceso de aceptación o rechazo de pedidos
+ - Implementar una función que optimice el proceso de aceptación o rechazo de pedidos
  - Implementar funciones dedicadas al monitoreo de equipos para realizarle mantenimientos con sensores. 
- - Automatizar el proceso de facturación de la empresa para realizar facturas electronicas verificadas con la sunat.
+ - Automatizar el proceso de facturación de la empresa para realizar facturas electrónicas verificadas con la SUNAT.
  - Implementar una conexión a una base de datos, para visualización dentro de la aplicación web.
  - Implementar una función para solicitar equipos a través de nuestra aplicación web.
 
@@ -367,9 +409,9 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 ***Hypothesis 3:***
 
-**Creemos que lograremos** Aumentar la tasa de adopción del software un 30% en nuestro segundo trimestre en comparación al anteior
+**Creemos que lograremos** Aumentar la tasa de adopción del software un 30% en nuestro segundo trimestre en comparación al anterior
 **Si** los productores
-**Logran** transicionar adecuadamente a facturación electronica
+**Logran** transition adecuadamente a facturación electronica
 **Con**
 
 
@@ -383,7 +425,7 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 ***Hypothesis 5:***
 
-**Creemos que lograremos** conseguir un puntaje de satisfación del cliente (CSAT) en 90%
+**Creemos que lograremos** conseguir un puntaje de satisfacción del cliente (CSAT) en 90%
 **Si** los pescadores
 **Logran** facilitar el proceso de pedido de un equipo
 **Con** la implementación de una función para realizar pedidos a través de nuestra aplicación
@@ -406,7 +448,7 @@ Aspectos demográficos:
 Aspectos geográficos:
  - Ubicación: Lima, Perú
 
-Aspectos psicologicos:
+Aspectos psicológicos:
  - Objetivo: Aumentar la cantidad de pedidos que pueden procesar.
  - Valores: Eficiencia, Honestidad, Responsabilidad, Asertividad.  
     
@@ -419,7 +461,7 @@ Aspectos demográficos:
 Aspectos geográficos:
  - Ubicación: Departamentos costeros del Perú (Lima, Ica, Piura, Lambayeque, etc.)
 
-Aspectos psicologicos:
+Aspectos psicológicos:
  - Objetivo: Obtener maquinaria más rápido 
  - Valores: Eficiencia, Trabajo en equipo Puntualidad
 # Capítulo II: Requeriments Elicitation & Analysis
@@ -551,11 +593,15 @@ La entrevista con Jorge Gutiérrez, un joven pescador de 21 años, destaca la pr
 En esta sección, se incluyen las fichas de User Persona que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
 </p>
 
-**Segmento 1:**   
-<img src="assests/Ricardo Salas-user.png">  
+#### **Segmento 1:**  
+Este segmento representa a un empresario experimentado que utiliza la tecnología para optimizar procesos y mejorar la eficiencia en su empresa.  
 
-**Segmento 2:**  
-<img src="assests/Carlos Martinez-userpesque.png">
+<img src="assests/Ricardo Salas-user.png" style="width: 700px;">
+
+#### **Segmento 2:**  
+Este segmento se enfoca en un emprendedor nuevo que busca soluciones tecnológicas para gestionar eficientemente sus recursos y mejorar la comunicación con proveedores.  
+
+<img src="assests/Carlos Martinez-userpesque.png" style="width: 700px;">
 
 ### 2.3.2. User Task Matrix.
 <p align="justify">
@@ -595,11 +641,11 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 **Segmento 1**  
 
-<img src="assests/user1-journey.png">
+<img src="assests/user1-journey.png" style="width: 850px">
 
 **Segmento 2**  
 
-<img src="assests/user2 - journey map.png">
+<img src="assests/user2 - journey map.png" style="width: 850px">
 
 ### 2.3.4. Empathy Mapping.
 <p align="justify">
@@ -608,22 +654,24 @@ Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más l
 
 **Segmento 1:**  
 
-<img src="assests/Empathy map Segmento 1.png">
+<img src="assests/Empathy map Segmento 1.png" style="width: 800px">
 
 **Segmento 2:**  
 
-<img src="assests/Empathy map pesquero.png">
+<img src="assests/Empathy map pesquero.png" style="width: 800px">
 
 ### 2.3.5. As-is Scenario Mapping.
-Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso el problema seria la demanda de equipos de las empresas maquinarias.
+Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cuál es el escenario actual sobre el problema que se intentará resolver, en este caso el problema seria la demanda de equipos de las empresas maquinarias.
 
 **Segmento 1**  
+Este segmento muestra el mapeo del escenario "As-Is" para un fabricante de maquinaria pesquera. Detalla los pasos, acciones, pensamientos y sentimientos involucrados desde que se recibe un pedido hasta la entrega al cliente, destacando la búsqueda de eficiencia y cumplimiento de plazos.  
 
-<img src="assests/as-is maquinaria.jpg">
+<img src="assests/as-is maquinaria.jpg" style="width: 1000px">
 
 **Segmento 2**  
+Este segmento ilustra el mapeo del escenario "As-Is" para una empresa pesquera. Describe el proceso desde la identificación de un problema hasta la recepción del producto, enfocándose en la coordinación y selección del mejor proveedor para satisfacer las necesidades de la empresa.  
 
-<img src="assests/as-is pesquero.jpg">
+<img src="assests/as-is pesquero.jpg" style="width: 1000px">
 
 ## 2.4. Ubiquitous Language.
 <p style="text-align: justify;">
@@ -754,10 +802,10 @@ A continuación, estableceremos las épicas, para luego detallarlas en historias
 ## 3.3. Impact Mapping.
 El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
 ### Segmento 1
-<img src="./assests/Impact map Semento1.png">
+<img src="./assests/Impact map Semento1.png" style="width: 700px">
 
 ### Segmento 2
-<img src="./assests/Impact map Segment2.png">
+<img src="./assests/Impact map Segment2.png" style="width: 700px">
 
 ## 3.4. Product Backlog.
 
@@ -1093,19 +1141,19 @@ Siguen una arquitectura convencional utilizada e implementada en ASP.NET CORE fr
 En esta sección se mostrará el diagrama de las relaciones entre las clases que usará nuestra solución de software, utilizando patrones de software para un uso adecuado
 <img src="assets/images/chapter-III/InventoryManagement.png/">
 
-El diagrama describe la gestión de ítems de inventario. InventoryItem representa un ítem en stock, y tiene una estrategia de actualización que puede ser incremental o decremental, implementada por las clases IncrementalUpdateStrategy y DecrementalUpdateStrategy. InventoryService maneja la obtención y actualización del stock de productos, y la clase Observer monitorea los cambios en los ítems del inventario.
+El diagrama muestra un sistema de gestión de inventario con tres clases principales: InventoryItem, InventoryService, e InventoryRepository. La clase Product representa un producto con atributos básicos (id, name, stock). InventoryService maneja la lógica de negocio, permitiendo añadir, actualizar, eliminar y buscar productos, y depende de InventoryRepository para interactuar con los datos almacenados. InventoryRepository se encarga de las operaciones CRUD en la base de datos. 
 
 <img src="assets/images/chapter-III/InvoiceManagement.png">
 
-El diagrama muestra la creación y gestión de facturas en relación con los pedidos. Invoice contiene información detallada de la factura, como el número, monto total y cliente asociado, y es creada por InvoiceFactory. InvoiceService se encarga de la generación y consulta de facturas. La interfaz Observer se utiliza para actualizar el estado de los pedidos relacionados con las facturas.
+El diagrama describe un sistema para gestionar facturas, donde cada clase tiene una función específica. Invoice representa una factura, almacenando información como el cliente, producto, cantidad, precio y total, y cuenta con un método para calcular el total de la factura. Client almacena datos sobre el cliente asociado a una factura, como su id, nombre y detalles de contacto, y tiene un método para mostrar esta información. Product representa los productos en la factura, con atributos como el id, nombre y precio, y un método para mostrar los detalles del producto. InvoiceService gestiona la lógica de negocio de las facturas, permitiendo la creación, obtención, listado y eliminación de facturas, y depende de InvoiceRepository para acceder y persistir los datos de las facturas. InvoiceRepository maneja la persistencia de las facturas, con métodos para guardar, eliminar, y buscar facturas por id o listar todas las existentes. Las clases están interconectadas: Invoice se asocia con Client y Product, mientras que InvoiceService depende de InvoiceRepository para operar sobre las facturas.
 
 <img src="assets/images/chapter-III/MachineryManagement.png">
 
-El diagrama muestra cómo se gestiona la maquinaria en el sistema. MachineryItem es la clase central que representa una máquina con su estado, dueño y última fecha de mantenimiento. La clase MachineryItemFactory crea ítems de maquinaria, mientras que MonitoringService gestiona el monitoreo de todas las máquinas y su estado. La interfaz Observer permite observar cambios en el estado de la maquinaria, implementada por MachineryChangeLogger para registrar dichos cambios.
+El diagrama UML para el bounded context de "Monitoring" integra las entidades del sistema y los servicios que interactúan con ellas. La clase Equipments representa los equipos que están siendo monitoreados, con atributos como id, name, lastMaintenanceDate y status, y un método para ver los registros de mantenimiento. MaintenancesLog gestiona los detalles de cada registro de mantenimiento, incluyendo logID, date, technician, issueType, description y additionalInfo. La relación entre Equipment y MaintenanceLog es de uno a muchos, ya que un equipo puede tener múltiples registros de mantenimiento. Los servicios EquipmentService y MaintenanceLogService manejan las operaciones de los equipos y sus registros: EquipmentService proporciona métodos para obtener la lista de equipos y buscar un equipo por su ID, mientras que MaintenanceLogService permite obtener los registros de mantenimiento de un equipo específico y agregar nuevos registros. Los servicios están conectados a las entidades correspondientes mediante dependencias, destacando la estructura modular y lógica del sistema.
 
 <img src="assets/images/chapter-III/OrderManagement.png">
 
-Este diagrama representa la gestión de pedidos en el sistema. La clase Order maneja la información principal del pedido, como el cliente y el estado, y OrderItem representa los ítems específicos dentro del pedido. OrderService gestiona la creación y recuperación de los pedidos. La interfaz Observer sigue el patrón de observador para monitorear cambios en el estado de los pedidos.
+El diagrama UML para el contexto "Ordering Machineries" modela las entidades y servicios involucrados en la solicitud y gestión de maquinaria. La clase Machineries representa cada tipo de máquina, con atributos como id, name y unitsAvailable, y métodos para solicitar unidades y verificar la disponibilidad. La clase Orders gestiona las órdenes de maquinaria, incluyendo atributos como orderId, machineryId, requestedUnits y status, además de métodos para seguir y cancelar una orden. La relación entre Machinery y Order es de uno a muchos, ya que un tipo de maquinaria puede tener múltiples órdenes asociadas. Los servicios MachineryServices y OrderServices se encargan de las operaciones del sistema, como obtener la lista de maquinarias, crear órdenes, y verificar el estado de las mismas, mostrando una estructura clara y modular de la lógica de negocio, donde cada servicio depende de sus respectivas entidades.
 
 ### 4.7.2. Class Dictionary.
 
@@ -1702,9 +1750,13 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>
-                <li>Desarrollar una landing page usando html,css y js.</li>
-                <li>landing page responsive</li>
+            <td style="text-align: justify">
+                <p>
+                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de AquaEngine, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML, CSS y JavaScript, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
+                </p>
+                <p>
+                Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a AquaEngine, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
+                </p>
             </td>
         </tr>
         <tr>
@@ -2086,9 +2138,13 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         </tr>
         <tr>
             <td>Sprint 2 Goal</td>
-            <td>
-                <li>Corregir errores y observaciones del sprint 1.</li>
-                <li>implementar las vistas core del negocio en el lado front-end</li>
+            <td style="text-align: justify">
+                <p>
+                Nuestro enfoque para este sprint está en desarrollar la primera versión de la interfaz de usuario de AquaEngine, implementando las vistas clave para la gestión de inventario, facturación, monitoreo de equipos y solicitudes de maquinaria pesquera. Creemos que este avance mejorará la experiencia de usuario y facilitará la interacción con las funcionalidades centrales del sistema, haciéndolo más intuitivo y accesible. 
+                </p> 
+                <p>
+                Esto se confirmará cuando los usuarios experimenten una navegación fluida en la Landing Page, con un diseño optimizado y una interfaz amigable que les permita realizar operaciones de inventario y facturación sin inconvenientes. Asimismo, el monitoreo en tiempo real de los equipos pesqueros y la gestión de solicitudes de maquinaria se integrarán en un flujo de trabajo eficiente, brindando a los usuarios mayor control y visibilidad sobre sus activos, así como una experiencia mejorada en sus interacciones con el sistema.
+                </p>
             </td>
         </tr>
         <tr>
@@ -2390,7 +2446,7 @@ Por último, finalizamos ejecutando el siguiente comando y tendremos nuestra apl
 firebase deploy
 ```
 
-*Enlace de la Web Application:*  https://master--aquaengine.netlify.app/
+*Enlace de la Web Application:*  https://aquaengine-upc.netlify.app/home
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -2422,7 +2478,7 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024/10/27</td>
+            <td>2024/10/15</td>
         </tr>
         <tr>
             <td>Time</td>
@@ -2443,8 +2499,6 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
                 <li>Omar Christian Berrocal Ramirez</li>
                 <li>Pedro Andre Guía Carrasco</li>
                 <li>Yasser Rentería Palacios</li>
-                <li></li>
-                <li></li>
             </td>
         </tr>
         <tr>
@@ -2465,15 +2519,7 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
         <tr>
             <td>Sprint 3 Goal</td>
             <td style="text-align: justify">
-                Nuestro enfoque está en consolidar la gestión de inventarios, equipos y el mantenimiento de productos 
-                de maquinaria pesquera en el backend de AquaEngine.
-                Creemos que esto brinda una administración más eficiente y un control integral, mejorando la 
-                operatividad y reduciendo tiempos de inactividad para los usuarios de AquaEngine en el sector pesquero.
-                Esto se confirmará cuando los usuarios experimenten una reducción significativa en los tiempos de 
-                gestión de inventarios y mantenimiento de sus equipos, lo cual les permitirá enfocarse en otras áreas 
-                críticas de sus operaciones. Además, la plataforma facilitará decisiones informadas al proporcionar un 
-                acceso rápido a información de estado, historial de mantenimiento y alertas críticas, generando así una 
-                mayor confianza en el sistema y contribuyendo a la continuidad y eficiencia de sus procesos pesqueros.
+                Nuestro enfoque está en consolidar la gestión de inventarios, equipos y el mantenimiento de productos de maquinaria pesquera en el backend de AquaEngine, a la vez que mejoramos la landing page con una sección de "About The Team" y "About The Product" y avanzamos en las funcionalidades de frontend para facturación, órdenes de compra de maquinaria y monitoreo de equipos. Creemos que esto brinda eficiencia operativa y un control integral a los productores de maquinaria pesqueros y empresas pesqueras que usas AquaEngine, mejorando la experiencia de usuario. Esto se confirmará cuando los usuarios experimenten una reducción significativa en los tiempos de gestión de inventarios y mantenimiento, lo cual les permitirá enfocarse en otras áreas críticas de sus operaciones, y cuando encuentren la navegación de la plataforma intuitiva y fluida, permitiendo una gestión integral de sus procesos dentro de AquaEngine.
             </td>
         </tr>
         <tr>
@@ -2498,165 +2544,397 @@ Para el print 3 usamos la herramienta trello para organizar las tareas del equip
 Enlace:
 https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2faf6af73b208B9DAB/aquaengine-sprint-backlog-3
 
-![trello-sprint-3](./assets/images/chapter-V/trello-sprint-2.png)  
+![trello-sprint-3](./assets/images/chapter-V/trello-sprint-3.png)  
 
-<table>
-  <thead>
+<table style="border-collapse: collapse; width: 100%;">
     <tr>
-      <th>Id</th>
-      <th colspan="3">Title</th>
-      <th>Id</th>
-      <th>Bounded Context</th>
-      <th>Functionality</th>
-      <th>Estimation (Hours)</th>
-      <th>Assigned To</th>
-      <th>Status (To-do / In-Process / To-Review / Done)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td colspan="3">Acceso a la aplicación web</td>
-      <td>US01</td>
-      <td>feature/public</td>
-      <td>Quiero ir a la vista de la aplicación web para registrarme y utilizar la solución</td>
-      <td>2</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <th colspan="9">Sprint # &nbsp;&nbsp; Sprint n</th>
     </tr>
     <tr>
-      <td>2</td>
-      <td colspan="3">Solicitud de compra de equipo estándar</td>
-      <td>US02</td>
-      <td>feature/planning</td>
-      <td>Quiero poder seleccionar un equipo estándar y realizar la compra a través de la plataforma</td>
-      <td>3</td>
-      <td></td>
-      <td>Done</td>
+        <th colspan="2">User Story</th>
+        <th colspan="7">Work-Item / Task</th>
     </tr>
     <tr>
-      <td>3</td>
-      <td colspan="3">Gestión de inventario</td>
-      <td>US03</td>
-      <td>feature/control</td>
-      <td>Quiero gestionar el inventario de mis productos</td>
-      <td>5</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Estimation (Hours)</th>
+        <th>Assigned To</th>
+        <th>Status (To-do / In-Process / To-Review / Done)</th>
     </tr>
     <tr>
-      <td>4</td>
-      <td colspan="3">Generación de facturas</td>
-      <td>US04</td>
-      <td>feature/sales</td>
-      <td>Quiero generar facturas automáticamente</td>
-      <td>3</td>
-      <td>Yasser</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td>Acceso al Video About the Product</td>
+        <td>Quiero visualizar el video about the product mediante la landing page</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td colspan="3">Estado de equipos</td>
-      <td>US05</td>
-      <td>feature/monitoring</td>
-      <td>Quiero verificar el estado actual de mis equipos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td>Set default to English</td>
+        <td>Quiero configurar el idioma por defecto a inglés en la landing page</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td colspan="3">Seguimiento de solicitudes de equipos</td>
-      <td>US06</td>
-      <td>feature/monitoring</td>
-      <td>Quiero poder hacer seguimiento del estado de mis pedidos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+        <td>Create a product record in the inventory for a User</td>
+        <td>Quiero crear un registro de producto en el inventario para el usuario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td colspan="3">Registro de equipos</td>
-      <td>US07</td>
-      <td>feature/monitoring</td>
-      <td>Quiero poder añadir equipos a mi cuenta</td>
-      <td>3</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>4</td>
+        <td>Create the application layer of the products endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de productos</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td colspan="3">Alertas de equipos críticos</td>
-      <td>US08</td>
-      <td>feature/monitoring</td>
-      <td>Quiero establecer alertas para el estado crítico de mis equipos</td>
-      <td>5</td>
-      <td>Mateo</td>
-      <td>In-Progress</td>
+        <td></td>
+        <td></td>
+        <td>5</td>
+        <td>Add product registration form for inventory</td>
+        <td>Quiero añadir un formulario de registro de productos para el inventario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td colspan="3">Consulta de productos en inventario</td>
-      <td>US09</td>
-      <td>feature/control</td>
-      <td>Quiero consultar el inventario actual de productos</td>
-      <td>3</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+        <td>Created the domain layer of the products endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de productos</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td colspan="3">Notificaciones de estado</td>
-      <td>US10</td>
-      <td>feature/monitoring</td>
-      <td>Quiero recibir notificaciones sobre el estado de mis equipos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>7</td>
+        <td>Add product registration form for inventory</td>
+        <td>Quiero añadir un formulario de registro de productos para el inventario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td colspan="3">Solicitud de compra de equipo personalizado</td>
-      <td>US11</td>
-      <td>feature/planning</td>
-      <td>Quiero poder realizar una solicitud de compra de equipos personalizados</td>
-      <td>3</td>
-      <td>Pedro & Omar</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>8</td>
+        <td>Created the domain layer of the products endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de productos</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td colspan="3">Cancelación de solicitudes de equipos</td>
-      <td>US12</td>
-      <td>feature/monitoring</td>
-      <td>Quiero poder cancelar una solicitud de pedidos</td>
-      <td>1</td>
-      <td>Pedro & Omar</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>9</td>
+        <td>Created the application layer of the invoice endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de facturación</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td colspan="3">Historial de facturación</td>
-      <td>US13</td>
-      <td>feature/sales</td>
-      <td>Quiero consultar el historial de todas mis facturas</td>
-      <td>3</td>
-      <td>Yasser</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>10</td>
+        <td>Get invoice records for a user's product order</td>
+        <td>Quiero obtener los registros de facturación para un pedido de productos de un usuario</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td colspan="3">Historial de mantenimiento</td>
-      <td>US14</td>
-      <td>feature/monitoring</td>
-      <td>Quiero consultar el historial de mantenimiento de mis equipos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>11</td>
+        <td>Created the application layer of the invoice endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de facturación</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
     </tr>
-  </tbody>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>12</td>
+        <td>Create invoice record for a user's product order</td>
+        <td>Quiero crear un registro de facturación para el pedido de productos de un usuario</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>13</td>
+        <td>Created the interfaces layer of the invoice endpoint</td>
+        <td>Quiero crear la capa de interfaces para el endpoint de facturación</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>14</td>
+        <td>Create a record to store data for the get all endpoint in maintenance</td>
+        <td>Quiero crear un registro para almacenar datos del endpoint de obtener todos en mantenimiento</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Add action to add a product to inventory</td>
+        <td>Quiero añadir una acción para agregar un producto al inventario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>16</td>
+        <td>Implement invoice detail display</td>
+        <td>Quiero implementar la visualización de detalles de facturación</td>
+        <td>3</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>17</td>
+        <td>Create invoice record for a user's product order</td>
+        <td>Quiero crear un registro de facturación para el pedido de productos de un usuario</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>18</td>
+        <td>Acceso al Video About the Team</td>
+        <td>Quiero visualizar el video about the team mediante la landing page</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>19</td>
+        <td>Created the infrastructure layer of the maintenance endpoint</td>
+        <td>Quiero crear la capa de infraestructura para el endpoint de mantenimiento</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>20</td>
+        <td>Created the application layer of the maintenance endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de mantenimiento</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>21</td>
+        <td>Created the domain layer of the maintenance endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de mantenimiento</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>22</td>
+        <td>Created the interfaces layer of the maintenance endpoint</td>
+        <td>Quiero crear la capa de interfaces para el endpoint de mantenimiento</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>23</td>
+        <td>Created the application layer of the monitoring endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de monitoreo</td>
+        <td>2</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>24</td>
+        <td>Created the infrastructure layer of the monitoring endpoint</td>
+        <td>Quiero crear la capa de infraestructura para el endpoint de monitoreo</td>
+        <td>4</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>25</td>
+        <td>Implement analytics view for equipment monitoring</td>
+        <td>Quiero implementar la vista de análisis para el monitoreo de equipos</td>
+        <td>2</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>26</td>
+        <td>Create a record to store data for the get all endpoint in monitoring</td>
+        <td>Quiero crear un registro para almacenar datos del endpoint de obtener todos en monitoreo</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>27</td>
+        <td>Created the domain layer of the monitoring endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de monitoreo</td>
+        <td>2</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>28</td>
+        <td>Solicitud de compra de equipo estándar</td>
+        <td>Quiero poder seleccionar un equipo estándar y realizar la compra a través de la plataforma</td>
+        <td>3</td>
+        <td>Omar Berrocal</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>29</td>
+        <td>Generación de facturas</td>
+        <td>Quiero generar facturas automáticamente</td>
+        <td>3</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>30</td>
+        <td>Estado de equipos</td>
+        <td>Quiero verificar el estado actual de mis equipos</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>31</td>
+        <td>Seguimiento de solicitudes de equipos</td>
+        <td>Quiero poder hacer seguimiento del estado de mis pedidos</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>32</td>
+        <td>Registro de equipos</td>
+        <td>Quiero poder añadir equipos a mi cuenta</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>33</td>
+        <td>Alertas de equipos críticos</td>
+        <td>Quiero establecer alertas para el estado crítico de mis equipos</td>
+        <td>5</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>34</td>
+        <td>Solicitud de compra de equipo personalizado</td>
+        <td>Quiero poder realizar una solicitud de compra de equipos personalizados</td>
+        <td>3</td>
+        <td>Omar Berrocal</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>35</td>
+        <td>Cancelación de solicitudes de equipos</td>
+        <td>Quiero poder cancelar una solicitud de pedidos</td>
+        <td>1</td>
+        <td>Pedro Guia</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>36</td>
+        <td>Historial de facturación</td>
+        <td>Quiero consultar el historial de todas mis facturas</td>
+        <td>3</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>37</td>
+        <td>Historial de mantenimiento</td>
+        <td>Quiero consultar el historial de mantenimiento de mis equipos</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
 </table>
-
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
@@ -2980,12 +3258,35 @@ y de la corrección de errores de la anterior entrega del trabajo, por lo cual n
 
 #### 5.2.3.5 Execution Evidence for Sprint Review.  
 
-Hasta el momento, no hemos realizado cambios en el frontend, ya que completamos todos los requisitos funcionales en el sprint anterior.
-La aplicación web sigue disponible en el siguiente enlace: 
+<p style="text-align: justify">
+En este sprint, se implementaron mejoras importantes en el frontend de nuestra aplicación web, incluyendo la vista de agregación de facturas, el historial de facturación y el ordenamiento para compras de maquinaria, optimizando así el flujo de trabajo y facilitando la gestión de estos procesos para nuestros usuarios. También se mejoró la interfaz de monitoreo de equipos, permitiendo un seguimiento más intuitivo y eficiente del estado de cada equipo. En la página de aterrizaje (landing page), se añadió una sección con los videos "About the Product" y "About the Team", que presentan de manera atractiva las características del producto y al equipo, fortaleciendo la conexión con los usuarios y mejorando su comprensión del valor de nuestra solución.
+</p>  
 
-En la página de inicio se han agregado los videos "sobre el producto" y "sobre el equipo", con el fin de promover nuestro producto de manera más efectiva mediante un video promocional y de presentar a nuestro equipo.
+**LINK DE MEJORAS IMPLEMENTADAS DURANTE SPRINT:** https://www.youtube.com/watch?v=IrHx4bwdHu8
 
-Enlace de acceso a la página de aterrizaje:  
+1. **Vista de agregación de factura**  
+Implementación de una nueva vista que permite visualizar la agregación de facturas. Esta funcionalidad facilita el acceso a un resumen consolidado de facturación para una mejor administración y análisis financiero.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/invoice-view.png" alt="invoice-view" style="width: 800px;"/>
+
+2. **Historial de factura**  
+Se añadió una sección que permite visualizar el historial de facturación, proporcionando un registro detallado de todas las transacciones previas para una mayor transparencia y seguimiento.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/invoice-history-view.png" alt="invoice-history-view" style="width: 800px;"/>
+   
+3. **Ordenamiento para compra de maquinaria**  
+Implementación de una funcionalidad de ordenamiento que facilita la gestión de compras de maquinaria, optimizando la visualización y organización de las órdenes según distintos criterios.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/order-machinery-view.png" alt="order-machinery-view" style="width: 800px;"/>
+
+4. **Mejora en la vista de monitoreo de equipos**  
+Actualización de la interfaz de monitoreo de equipos para mejorar la experiencia del usuario y facilitar el seguimiento del estado de cada equipo.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/equipment-monitoring-view.png" alt="order-machinery-view" style="width: 800px;"/>
+
+5. **Sección en la landing page para video "About the Product"**  
+En la landing page, se agregó una nueva sección dedicada para el video promocional "About the Product" que destaca las principales características del producto.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/about-the-product-section.png" alt="about-the-product-view" style="width: 800px;"/>
+
+6. **Sección den la landing page para video "About the Team"**  
+En la landing page, se agregó una nueva sección dedicada para el video promocional "About the Team" presenta al equipo detrás de la aplicación.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/about-the-team-section.png" alt="about-the-product-view" style="width: 800px;"/>
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review.  
 
@@ -3035,7 +3336,153 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/DotVue/Aq
     <th> <strong> /api/v1/ordering-machinery </strong> </th>
     <th> <img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/e11a897b2f0621981ad8daa4c216b8a451695102/assests/endpoint-orderingmachinery.png"> </th>
   </tr>
+</table>  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.  
+
+En este sprint, se ha desarrollado el backend de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
+
+* Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.  
+* Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.  
+* GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.  
+* Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+A continuación se mostrarán el gráfico de insights durante el sprint:
+
+Gráfico que ilustra la colaboración del equipo en el desarrollo del backend durante el sprint.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/collaboration-insights/sprint3/insights-backend.png" style="width: 700px"/>  
+
+Gráfico que muestra los insights de colaboración del equipo en el desarrollo del frontend.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/collaboration-insights/sprint3/insights-frontend.png" style="width: 700px"/>  
+
+Gráfico que representa la colaboración del equipo en la creación de landing page.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/collaboration-insights/sprint3/insights-landing.png" style="width: 700px"/>
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/11/10</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:54 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Gonzalo Andre Zavala Quedena</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Mateo del Castillo Bueno</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Pedro Andre Guía Carrasco</li>
+                <li>Yasser Rentería Palacios</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                Este es el cuarto sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td style="text-align: justify">
+                <p style="text-align: justify">
+                Nuestro enfoque está centrado en desplegar el API de la aplicación backend de AquaEngine, además de crear interfaces de usuario para el inicio de sesión y el registro de nuevos usuarios. Paralelamente, trabajaremos en una nueva iteración de las funcionalidades ya mencionadas, con el objetivo de completar y optimizar la experiencia del usuario y la gestión operativa. Creemos que estos avances permitirán a los usuarios interactuar de manera más fluida y segura con el sistema, facilitando no solo el acceso, sino también la administración eficiente y en tiempo real. El despliegue del API potenciará la integración de AquaEngine con otras herramientas y sistemas, ofreciendo una mayor flexibilidad y escalabilidad. Asimismo, al proporcionar una interfaz de inicio de sesión y registro mejorada, pretendemos ofrecer una transición sin problemas para los usuarios nuevos y un acceso seguro para los usuarios existentes. Esto se confirmará cuando los usuarios experimenten una mejora significativa en la facilidad de inicio de sesión y registro, junto con una integración más efectiva con otros sistemas, permitiéndoles así centrarse en otras áreas críticas de sus operaciones.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                24
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                35
+            </td>
+        </tr>
+    </tbody>
 </table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+Para el print 4 usamos la herramienta trello para organizar las tareas del equipo.  
+  
+Enlace:
+https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c5dff2ea355B0E37EE/aquaengine-sprint-backlog-4
+
+![trello-sprint-4](./assets/images/chapter-V/trello-sprint-4.png)  
+
+<table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th colspan="3">Title</th>
+      <th>Id</th>
+      <th>Bounded Context</th>
+      <th>Functionality</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td colspan="3">Acceso a la aplicación web</td>
+      <td>US01</td>
+      <td>feature/public</td>
+      <td>Quiero registrar una cuenta en la aplicación para acceder a las funciones asignadas a mi rol.</td>
+      <td>1</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td colspan="3">Acceso a la aplicación web</td>
+      <td>US02</td>
+      <td>feature/public</td>
+      <td>Quiero poder iniciar sesión en la aplicación para acceder a las funciones habilitadas para mi cuenta.</td>
+      <td>1</td>
+      <td>Gonzalo Quedena</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -3087,11 +3534,13 @@ Ocupación: _____
 | Comunicar errores con facilidad               |                 | {texto} |
 | Ayuda y documentación                         |                 | {texto} |
 
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
-=======
-![Network-frontend](./assets/images/chapter-V/sprint2-network.png)  
-En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+## 5.4. Video About-the-Product.  
+
+Presentamos de manera clara las funcionalidades clave de nuestra aplicación web diseñada para Productoras de maquinaria pesquera y Empresas pesqueras. Este sistema ofrece una solución completa para gestionar el inventario, hacer seguimiento al estado de los equipos, llevar un sistema de facturación eficiente, almacenar un historial detallado de facturación y manejar órdenes de maquinaria pesquera. Nuestro producto está enfocado en optimizar la administración y control de recursos en el sector pesquero, facilitando procesos clave y permitiendo a nuestros clientes mantener operaciones más ágiles y efectivas.
+
+**LINK DE ACCESO AL VIDEO:** https://www.youtube.com/watch?v=IrHx4bwdHu8  
+
+<img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence"/>  
 
 # Conclusiones
 
@@ -3131,7 +3580,7 @@ como las historias de usuario y el diseño de la aplicación. Además, este proy
 nuestros conocimientos en desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia 
 en la creación de una aplicación web completa.  
 
-Video About-the-Team: https://drive.google.com/file/d/1KFtE8xqGLwyorW3c1j-m4ogDFLetKEig/view?usp=sharing
+Video About-the-Team: https://youtu.be/utn09GWWGXs  
 
 # Bibliografía
 
