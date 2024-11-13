@@ -3258,12 +3258,33 @@ y de la corrección de errores de la anterior entrega del trabajo, por lo cual n
 
 #### 5.2.3.5 Execution Evidence for Sprint Review.  
 
-Hasta el momento, no hemos realizado cambios en el frontend, ya que completamos todos los requisitos funcionales en el sprint anterior.
-La aplicación web sigue disponible en el siguiente enlace: 
+<p style="text-align: justify">
+En este sprint, se implementaron mejoras importantes en el frontend de nuestra aplicación web, incluyendo la vista de agregación de facturas, el historial de facturación y el ordenamiento para compras de maquinaria, optimizando así el flujo de trabajo y facilitando la gestión de estos procesos para nuestros usuarios. También se mejoró la interfaz de monitoreo de equipos, permitiendo un seguimiento más intuitivo y eficiente del estado de cada equipo. En la página de aterrizaje (landing page), se añadió una sección con los videos "About the Product" y "About the Team", que presentan de manera atractiva las características del producto y al equipo, fortaleciendo la conexión con los usuarios y mejorando su comprensión del valor de nuestra solución.
+</p>  
 
-En la página de inicio se han agregado los videos "sobre el producto" y "sobre el equipo", con el fin de promover nuestro producto de manera más efectiva mediante un video promocional y de presentar a nuestro equipo.
+1. **Vista de agregación de factura**  
+Implementación de una nueva vista que permite visualizar la agregación de facturas. Esta funcionalidad facilita el acceso a un resumen consolidado de facturación para una mejor administración y análisis financiero.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/invoice-view.png" alt="invoice-view" style="width: 800px;"/>
 
-Enlace de acceso a la página de aterrizaje:  
+2. **Historial de factura**  
+Se añadió una sección que permite visualizar el historial de facturación, proporcionando un registro detallado de todas las transacciones previas para una mayor transparencia y seguimiento.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/invoice-history-view.png" alt="invoice-history-view" style="width: 800px;"/>
+   
+3. **Ordenamiento para compra de maquinaria**  
+Implementación de una funcionalidad de ordenamiento que facilita la gestión de compras de maquinaria, optimizando la visualización y organización de las órdenes según distintos criterios.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/order-machinery-view.png" alt="order-machinery-view" style="width: 800px;"/>
+
+4. **Mejora en la vista de monitoreo de equipos**  
+Actualización de la interfaz de monitoreo de equipos para mejorar la experiencia del usuario y facilitar el seguimiento del estado de cada equipo.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/equipment-monitoring-view.png" alt="order-machinery-view" style="width: 800px;"/>
+
+5. **Sección en la landing page para video "About the Product"**  
+En la landing page, se agregó una nueva sección dedicada para el video promocional "About the Product" que destaca las principales características del producto.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/about-the-product-section.png" alt="about-the-product-view" style="width: 800px;"/>
+
+6. **Sección den la landing page para video "About the Team"**  
+En la landing page, se agregó una nueva sección dedicada para el video promocional "About the Team" presenta al equipo detrás de la aplicación.  
+<img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/about-the-team-section.png" alt="about-the-product-view" style="width: 800px;"/>
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review.  
 
@@ -3513,9 +3534,9 @@ Ocupación: _____
 
 ## 5.4. Video About-the-Product.  
 
-Este video presenta de forma concisa las características y beneficios clave del producto, ofreciendo a los usuarios una visión rápida de su utilidad y valor.  
+Presentamos de manera clara las funcionalidades clave de nuestra aplicación web diseñada para Productoras de maquinaria pesquera y Empresas pesqueras. Este sistema ofrece una solución completa para gestionar el inventario, hacer seguimiento al estado de los equipos, llevar un sistema de facturación eficiente, almacenar un historial detallado de facturación y manejar órdenes de maquinaria pesquera. Nuestro producto está enfocado en optimizar la administración y control de recursos en el sector pesquero, facilitando procesos clave y permitiendo a nuestros clientes mantener operaciones más ágiles y efectivas.
 
-https://www.youtube.com/watch?v=IrHx4bwdHu8  
+**LINK DE ACCESO AL VIDEO:** https://www.youtube.com/watch?v=IrHx4bwdHu8  
 
 <img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence"/>  
 
