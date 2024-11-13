@@ -1153,7 +1153,7 @@ El diagrama UML para el bounded context de "Monitoring" integra las entidades de
 
 <img src="assets/images/chapter-III/OrderManagement.png">
 
-Este diagrama representa la gestión de pedidos en el sistema. La clase Order maneja la información principal del pedido, como el cliente y el estado, y OrderItem representa los ítems específicos dentro del pedido. OrderService gestiona la creación y recuperación de los pedidos. La interfaz Observer sigue el patrón de observador para monitorear cambios en el estado de los pedidos.
+El diagrama UML para el contexto "Ordering Machineries" modela las entidades y servicios involucrados en la solicitud y gestión de maquinaria. La clase Machineries representa cada tipo de máquina, con atributos como id, name y unitsAvailable, y métodos para solicitar unidades y verificar la disponibilidad. La clase Orders gestiona las órdenes de maquinaria, incluyendo atributos como orderId, machineryId, requestedUnits y status, además de métodos para seguir y cancelar una orden. La relación entre Machinery y Order es de uno a muchos, ya que un tipo de maquinaria puede tener múltiples órdenes asociadas. Los servicios MachineryServices y OrderServices se encargan de las operaciones del sistema, como obtener la lista de maquinarias, crear órdenes, y verificar el estado de las mismas, mostrando una estructura clara y modular de la lógica de negocio, donde cada servicio depende de sus respectivas entidades.
 
 ### 4.7.2. Class Dictionary.
 
