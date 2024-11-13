@@ -3262,6 +3262,8 @@ y de la corrección de errores de la anterior entrega del trabajo, por lo cual n
 En este sprint, se implementaron mejoras importantes en el frontend de nuestra aplicación web, incluyendo la vista de agregación de facturas, el historial de facturación y el ordenamiento para compras de maquinaria, optimizando así el flujo de trabajo y facilitando la gestión de estos procesos para nuestros usuarios. También se mejoró la interfaz de monitoreo de equipos, permitiendo un seguimiento más intuitivo y eficiente del estado de cada equipo. En la página de aterrizaje (landing page), se añadió una sección con los videos "About the Product" y "About the Team", que presentan de manera atractiva las características del producto y al equipo, fortaleciendo la conexión con los usuarios y mejorando su comprensión del valor de nuestra solución.
 </p>  
 
+**LINK DE MEJORAS IMPLEMENTADAS DURANTE SPRINT:** https://www.youtube.com/watch?v=IrHx4bwdHu8
+
 1. **Vista de agregación de factura**  
 Implementación de una nueva vista que permite visualizar la agregación de facturas. Esta funcionalidad facilita el acceso a un resumen consolidado de facturación para una mejor administración y análisis financiero.  
 <img src="https://raw.githubusercontent.com/Dotvue/AquaEngine-project-report/refs/heads/main/assets/images/chapter-V/5.2.3/5.2.3.5/invoice-view.png" alt="invoice-view" style="width: 800px;"/>
