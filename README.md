@@ -2546,163 +2546,395 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
 
 ![trello-sprint-3](./assets/images/chapter-V/trello-sprint-3.png)  
 
-<table>
-  <thead>
+<table style="border-collapse: collapse; width: 100%;">
     <tr>
-      <th>Id</th>
-      <th colspan="3">Title</th>
-      <th>Id</th>
-      <th>Bounded Context</th>
-      <th>Functionality</th>
-      <th>Estimation (Hours)</th>
-      <th>Assigned To</th>
-      <th>Status (To-do / In-Process / To-Review / Done)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td colspan="3">Acceso a la aplicación web</td>
-      <td>US01</td>
-      <td>feature/public</td>
-      <td>Quiero ir a la vista de la aplicación web para registrarme y utilizar la solución</td>
-      <td>2</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <th colspan="9">Sprint # &nbsp;&nbsp; Sprint n</th>
     </tr>
     <tr>
-      <td>2</td>
-      <td colspan="3">Solicitud de compra de equipo estándar</td>
-      <td>US02</td>
-      <td>feature/planning</td>
-      <td>Quiero poder seleccionar un equipo estándar y realizar la compra a través de la plataforma</td>
-      <td>3</td>
-      <td></td>
-      <td>Done</td>
+        <th colspan="2">User Story</th>
+        <th colspan="7">Work-Item / Task</th>
     </tr>
     <tr>
-      <td>3</td>
-      <td colspan="3">Gestión de inventario</td>
-      <td>US03</td>
-      <td>feature/control</td>
-      <td>Quiero gestionar el inventario de mis productos</td>
-      <td>5</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Estimation (Hours)</th>
+        <th>Assigned To</th>
+        <th>Status (To-do / In-Process / To-Review / Done)</th>
     </tr>
     <tr>
-      <td>4</td>
-      <td colspan="3">Generación de facturas</td>
-      <td>US04</td>
-      <td>feature/sales</td>
-      <td>Quiero generar facturas automáticamente</td>
-      <td>3</td>
-      <td>Yasser</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td>Acceso al Video About the Product</td>
+        <td>Quiero visualizar el video about the product mediante la landing page</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td colspan="3">Estado de equipos</td>
-      <td>US05</td>
-      <td>feature/monitoring</td>
-      <td>Quiero verificar el estado actual de mis equipos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td>Set default to English</td>
+        <td>Quiero configurar el idioma por defecto a inglés en la landing page</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td colspan="3">Seguimiento de solicitudes de equipos</td>
-      <td>US06</td>
-      <td>feature/monitoring</td>
-      <td>Quiero poder hacer seguimiento del estado de mis pedidos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+        <td>Create a product record in the inventory for a User</td>
+        <td>Quiero crear un registro de producto en el inventario para el usuario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td colspan="3">Registro de equipos</td>
-      <td>US07</td>
-      <td>feature/monitoring</td>
-      <td>Quiero poder añadir equipos a mi cuenta</td>
-      <td>3</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>4</td>
+        <td>Create the application layer of the products endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de productos</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td colspan="3">Alertas de equipos críticos</td>
-      <td>US08</td>
-      <td>feature/monitoring</td>
-      <td>Quiero establecer alertas para el estado crítico de mis equipos</td>
-      <td>5</td>
-      <td>Mateo</td>
-      <td>In-Progress</td>
+        <td></td>
+        <td></td>
+        <td>5</td>
+        <td>Add product registration form for inventory</td>
+        <td>Quiero añadir un formulario de registro de productos para el inventario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td colspan="3">Consulta de productos en inventario</td>
-      <td>US09</td>
-      <td>feature/control</td>
-      <td>Quiero consultar el inventario actual de productos</td>
-      <td>3</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+        <td>Created the domain layer of the products endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de productos</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td colspan="3">Notificaciones de estado</td>
-      <td>US10</td>
-      <td>feature/monitoring</td>
-      <td>Quiero recibir notificaciones sobre el estado de mis equipos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>7</td>
+        <td>Add product registration form for inventory</td>
+        <td>Quiero añadir un formulario de registro de productos para el inventario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td colspan="3">Solicitud de compra de equipo personalizado</td>
-      <td>US11</td>
-      <td>feature/planning</td>
-      <td>Quiero poder realizar una solicitud de compra de equipos personalizados</td>
-      <td>3</td>
-      <td>Pedro & Omar</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>8</td>
+        <td>Created the domain layer of the products endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de productos</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td colspan="3">Cancelación de solicitudes de equipos</td>
-      <td>US12</td>
-      <td>feature/monitoring</td>
-      <td>Quiero poder cancelar una solicitud de pedidos</td>
-      <td>1</td>
-      <td>Pedro & Omar</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>9</td>
+        <td>Created the application layer of the invoice endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de facturación</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td colspan="3">Historial de facturación</td>
-      <td>US13</td>
-      <td>feature/sales</td>
-      <td>Quiero consultar el historial de todas mis facturas</td>
-      <td>3</td>
-      <td>Yasser</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>10</td>
+        <td>Get invoice records for a user's product order</td>
+        <td>Quiero obtener los registros de facturación para un pedido de productos de un usuario</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td colspan="3">Historial de mantenimiento</td>
-      <td>US14</td>
-      <td>feature/monitoring</td>
-      <td>Quiero consultar el historial de mantenimiento de mis equipos</td>
-      <td>3</td>
-      <td>Mateo</td>
-      <td>Done</td>
+        <td></td>
+        <td></td>
+        <td>11</td>
+        <td>Created the application layer of the invoice endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de facturación</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
     </tr>
-  </tbody>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>12</td>
+        <td>Create invoice record for a user's product order</td>
+        <td>Quiero crear un registro de facturación para el pedido de productos de un usuario</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>13</td>
+        <td>Created the interfaces layer of the invoice endpoint</td>
+        <td>Quiero crear la capa de interfaces para el endpoint de facturación</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>14</td>
+        <td>Create a record to store data for the get all endpoint in maintenance</td>
+        <td>Quiero crear un registro para almacenar datos del endpoint de obtener todos en mantenimiento</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Add action to add a product to inventory</td>
+        <td>Quiero añadir una acción para agregar un producto al inventario</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>16</td>
+        <td>Implement invoice detail display</td>
+        <td>Quiero implementar la visualización de detalles de facturación</td>
+        <td>3</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>17</td>
+        <td>Create invoice record for a user's product order</td>
+        <td>Quiero crear un registro de facturación para el pedido de productos de un usuario</td>
+        <td>2</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>18</td>
+        <td>Acceso al Video About the Team</td>
+        <td>Quiero visualizar el video about the team mediante la landing page</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>19</td>
+        <td>Created the infrastructure layer of the maintenance endpoint</td>
+        <td>Quiero crear la capa de infraestructura para el endpoint de mantenimiento</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>20</td>
+        <td>Created the application layer of the maintenance endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de mantenimiento</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>21</td>
+        <td>Created the domain layer of the maintenance endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de mantenimiento</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>22</td>
+        <td>Created the interfaces layer of the maintenance endpoint</td>
+        <td>Quiero crear la capa de interfaces para el endpoint de mantenimiento</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>23</td>
+        <td>Created the application layer of the monitoring endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de monitoreo</td>
+        <td>2</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>24</td>
+        <td>Created the infrastructure layer of the monitoring endpoint</td>
+        <td>Quiero crear la capa de infraestructura para el endpoint de monitoreo</td>
+        <td>4</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>25</td>
+        <td>Implement analytics view for equipment monitoring</td>
+        <td>Quiero implementar la vista de análisis para el monitoreo de equipos</td>
+        <td>2</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>26</td>
+        <td>Create a record to store data for the get all endpoint in monitoring</td>
+        <td>Quiero crear un registro para almacenar datos del endpoint de obtener todos en monitoreo</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>27</td>
+        <td>Created the domain layer of the monitoring endpoint</td>
+        <td>Quiero crear la capa de dominio para el endpoint de monitoreo</td>
+        <td>2</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>28</td>
+        <td>Solicitud de compra de equipo estándar</td>
+        <td>Quiero poder seleccionar un equipo estándar y realizar la compra a través de la plataforma</td>
+        <td>3</td>
+        <td>Omar Berrocal</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>29</td>
+        <td>Generación de facturas</td>
+        <td>Quiero generar facturas automáticamente</td>
+        <td>3</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>30</td>
+        <td>Estado de equipos</td>
+        <td>Quiero verificar el estado actual de mis equipos</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>31</td>
+        <td>Seguimiento de solicitudes de equipos</td>
+        <td>Quiero poder hacer seguimiento del estado de mis pedidos</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>32</td>
+        <td>Registro de equipos</td>
+        <td>Quiero poder añadir equipos a mi cuenta</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>33</td>
+        <td>Alertas de equipos críticos</td>
+        <td>Quiero establecer alertas para el estado crítico de mis equipos</td>
+        <td>5</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>34</td>
+        <td>Solicitud de compra de equipo personalizado</td>
+        <td>Quiero poder realizar una solicitud de compra de equipos personalizados</td>
+        <td>3</td>
+        <td>Omar Berrocal</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>35</td>
+        <td>Cancelación de solicitudes de equipos</td>
+        <td>Quiero poder cancelar una solicitud de pedidos</td>
+        <td>1</td>
+        <td>Pedro Guia</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>36</td>
+        <td>Historial de facturación</td>
+        <td>Quiero consultar el historial de todas mis facturas</td>
+        <td>3</td>
+        <td>Yasser Renteria</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>37</td>
+        <td>Historial de mantenimiento</td>
+        <td>Quiero consultar el historial de mantenimiento de mis equipos</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
 </table>
-
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
