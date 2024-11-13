@@ -1145,7 +1145,7 @@ El diagrama muestra un sistema de gestión de inventario con tres clases princip
 
 <img src="assets/images/chapter-III/InvoiceManagement.png">
 
-El diagrama muestra la creación y gestión de facturas en relación con los pedidos. Invoice contiene información detallada de la factura, como el número, monto total y cliente asociado, y es creada por InvoiceFactory. InvoiceService se encarga de la generación y consulta de facturas. La interfaz Observer se utiliza para actualizar el estado de los pedidos relacionados con las facturas.
+El diagrama describe un sistema para gestionar facturas, donde cada clase tiene una función específica. Invoice representa una factura, almacenando información como el cliente, producto, cantidad, precio y total, y cuenta con un método para calcular el total de la factura. Client almacena datos sobre el cliente asociado a una factura, como su id, nombre y detalles de contacto, y tiene un método para mostrar esta información. Product representa los productos en la factura, con atributos como el id, nombre y precio, y un método para mostrar los detalles del producto. InvoiceService gestiona la lógica de negocio de las facturas, permitiendo la creación, obtención, listado y eliminación de facturas, y depende de InvoiceRepository para acceder y persistir los datos de las facturas. InvoiceRepository maneja la persistencia de las facturas, con métodos para guardar, eliminar, y buscar facturas por id o listar todas las existentes. Las clases están interconectadas: Invoice se asocia con Client y Product, mientras que InvoiceService depende de InvoiceRepository para operar sobre las facturas.
 
 <img src="assets/images/chapter-III/MachineryManagement.png">
 
