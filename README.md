@@ -1141,7 +1141,7 @@ Siguen una arquitectura convencional utilizada e implementada en ASP.NET CORE fr
 En esta sección se mostrará el diagrama de las relaciones entre las clases que usará nuestra solución de software, utilizando patrones de software para un uso adecuado
 <img src="assets/images/chapter-III/InventoryManagement.png/">
 
-El diagrama describe la gestión de ítems de inventario. InventoryItem representa un ítem en stock, y tiene una estrategia de actualización que puede ser incremental o decremental, implementada por las clases IncrementalUpdateStrategy y DecrementalUpdateStrategy. InventoryService maneja la obtención y actualización del stock de productos, y la clase Observer monitorea los cambios en los ítems del inventario.
+El diagrama muestra un sistema de gestión de inventario con tres clases principales: InventoryItem, InventoryService, e InventoryRepository. La clase Product representa un producto con atributos básicos (id, name, stock). InventoryService maneja la lógica de negocio, permitiendo añadir, actualizar, eliminar y buscar productos, y depende de InventoryRepository para interactuar con los datos almacenados. InventoryRepository se encarga de las operaciones CRUD en la base de datos. 
 
 <img src="assets/images/chapter-III/InvoiceManagement.png">
 
