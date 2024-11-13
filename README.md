@@ -1225,9 +1225,9 @@ Métodos:
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-En esta sección, presentamos el modelo entidad-relacion de la base de datos de AquaEngine. Las entidades User, Companies, Products y Monitoring son las que consideramos importantes en nuestro proyecto, ya que dependiendo de este modelo se saca la información de datos de la FakeApi.
+En esta sección, presentamos el modelo entidad-relacion de la base de datos de AquaEngine. Las entidades Profiles, Companies, Products, Maintenances Monitorings, entre otras, son las que consideramos importantes en nuestro proyecto, ya que dependiendo de este modelo se saca la información de datos de la FakeApi.
 
-<img src="assests/DIagrama de Base de Datos.png">
+<img src="assests/Diagrama de Base de Datos_AQUAENGINE.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
