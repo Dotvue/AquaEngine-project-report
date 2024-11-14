@@ -2565,8 +2565,8 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <th>Status (To-do / In-Process / To-Review / Done)</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>US16</td>
+        <td>Navegación por la Landing Page</td>
         <td>1</td>
         <td>Acceso al Video About the Product</td>
         <td>Quiero visualizar el video about the product mediante la landing page</td>
@@ -2575,8 +2575,8 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>US16</td>
+        <td>Navegación por la Landing Page</td>
         <td>2</td>
         <td>Set default to English</td>
         <td>Quiero configurar el idioma por defecto a inglés en la landing page</td>
@@ -2585,8 +2585,8 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>TS01</td>
+        <td>Crear Registro de Inventario</td>
         <td>3</td>
         <td>Create a product record in the inventory for a User</td>
         <td>Quiero crear un registro de producto en el inventario para el usuario</td>
@@ -2595,8 +2595,8 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>TS05</td>
+        <td>Crear Registro de Maquinaría de Pesca</td>
         <td>4</td>
         <td>Create the application layer of the products endpoint</td>
         <td>Quiero implementar la capa de aplicación para el endpoint de productos</td>
@@ -2605,8 +2605,8 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>US04</td>
+        <td>Registro de Equipos</td>
         <td>5</td>
         <td>Add product registration form for inventory</td>
         <td>Quiero añadir un formulario de registro de productos para el inventario</td>
@@ -2615,8 +2615,8 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>TS05</td>
+        <td>Crear Registro de Maquinaría de Pesca</td>
         <td>6</td>
         <td>Created the domain layer of the products endpoint</td>
         <td>Quiero crear la capa de dominio para el endpoint de productos</td>
@@ -2625,28 +2625,28 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>TS13</td>
+        <td>Crear Registro de Facturación</td>
         <td>7</td>
-        <td>Add product registration form for inventory</td>
-        <td>Quiero añadir un formulario de registro de productos para el inventario</td>
+        <td>Created the application layer of the invoice endpoint</td>
+        <td>Quiero implementar la capa de aplicación para el endpoint de facturación</td>
         <td>2</td>
-        <td>Gonzalo Quedena</td>
+        <td>Yasser Renteria</td>
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>TS14</td>
+        <td>Leer Registro de Facturación</td>
         <td>8</td>
-        <td>Created the domain layer of the products endpoint</td>
-        <td>Quiero crear la capa de dominio para el endpoint de productos</td>
+        <td>Get invoice records for a user's product order</td>
+        <td>Quiero obtener los registros de facturación para un pedido de productos de un usuario</td>
         <td>2</td>
-        <td>Gonzalo Quedena</td>
+        <td>Yasser Renteria</td>
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>TS13</td>
+        <td>Crear Registro de Facturación</td>
         <td>9</td>
         <td>Created the application layer of the invoice endpoint</td>
         <td>Quiero implementar la capa de aplicación para el endpoint de facturación</td>
@@ -2655,29 +2655,9 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>US08</td>
+        <td>Historial de Facturación</td>
         <td>10</td>
-        <td>Get invoice records for a user's product order</td>
-        <td>Quiero obtener los registros de facturación para un pedido de productos de un usuario</td>
-        <td>2</td>
-        <td>Yasser Renteria</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td>11</td>
-        <td>Created the application layer of the invoice endpoint</td>
-        <td>Quiero implementar la capa de aplicación para el endpoint de facturación</td>
-        <td>2</td>
-        <td>Yasser Renteria</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td>12</td>
         <td>Create invoice record for a user's product order</td>
         <td>Quiero crear un registro de facturación para el pedido de productos de un usuario</td>
         <td>2</td>
@@ -2685,9 +2665,9 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>13</td>
+        <td>TS13</td>
+        <td>Crear Registro de Facturación</td>
+        <td>11</td>
         <td>Created the interfaces layer of the invoice endpoint</td>
         <td>Quiero crear la capa de interfaces para el endpoint de facturación</td>
         <td>2</td>
@@ -2695,9 +2675,9 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>14</td>
+        <td>US05</td>
+        <td>Historial de Mantenimiento</td>
+        <td>12</td>
         <td>Create a record to store data for the get all endpoint in maintenance</td>
         <td>Quiero crear un registro para almacenar datos del endpoint de obtener todos en mantenimiento</td>
         <td>2</td>
@@ -2705,9 +2685,9 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>15</td>
+        <td>US12</td>
+        <td>Solicitud de compra de equipo estándar</td>
+        <td>13</td>
         <td>Add action to add a product to inventory</td>
         <td>Quiero añadir una acción para agregar un producto al inventario</td>
         <td>2</td>
@@ -2715,9 +2695,9 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
         <td>Done</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>16</td>
+        <td>US08</td>
+        <td>Historial de facturación</td>
+        <td>14</td>
         <td>Implement invoice detail display</td>
         <td>Quiero implementar la visualización de detalles de facturación</td>
         <td>3</td>
@@ -2727,7 +2707,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>17</td>
+        <td>15</td>
         <td>Create invoice record for a user's product order</td>
         <td>Quiero crear un registro de facturación para el pedido de productos de un usuario</td>
         <td>2</td>
@@ -2737,7 +2717,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>18</td>
+        <td>16</td>
         <td>Acceso al Video About the Team</td>
         <td>Quiero visualizar el video about the team mediante la landing page</td>
         <td>2</td>
@@ -2747,7 +2727,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>19</td>
+        <td>17</td>
         <td>Created the infrastructure layer of the maintenance endpoint</td>
         <td>Quiero crear la capa de infraestructura para el endpoint de mantenimiento</td>
         <td>2</td>
@@ -2757,7 +2737,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>20</td>
+        <td>18</td>
         <td>Created the application layer of the maintenance endpoint</td>
         <td>Quiero implementar la capa de aplicación para el endpoint de mantenimiento</td>
         <td>3</td>
@@ -2767,7 +2747,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>21</td>
+        <td>19</td>
         <td>Created the domain layer of the maintenance endpoint</td>
         <td>Quiero crear la capa de dominio para el endpoint de mantenimiento</td>
         <td>2</td>
@@ -2777,7 +2757,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>22</td>
+        <td>20</td>
         <td>Created the interfaces layer of the maintenance endpoint</td>
         <td>Quiero crear la capa de interfaces para el endpoint de mantenimiento</td>
         <td>3</td>
@@ -2787,7 +2767,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>23</td>
+        <td>21</td>
         <td>Created the application layer of the monitoring endpoint</td>
         <td>Quiero implementar la capa de aplicación para el endpoint de monitoreo</td>
         <td>2</td>
@@ -2797,7 +2777,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>24</td>
+        <td>22</td>
         <td>Created the infrastructure layer of the monitoring endpoint</td>
         <td>Quiero crear la capa de infraestructura para el endpoint de monitoreo</td>
         <td>4</td>
@@ -2807,7 +2787,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>25</td>
+        <td>23</td>
         <td>Implement analytics view for equipment monitoring</td>
         <td>Quiero implementar la vista de análisis para el monitoreo de equipos</td>
         <td>2</td>
@@ -2817,7 +2797,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>26</td>
+        <td>24</td>
         <td>Create a record to store data for the get all endpoint in monitoring</td>
         <td>Quiero crear un registro para almacenar datos del endpoint de obtener todos en monitoreo</td>
         <td>3</td>
@@ -2827,7 +2807,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>27</td>
+        <td>25</td>
         <td>Created the domain layer of the monitoring endpoint</td>
         <td>Quiero crear la capa de dominio para el endpoint de monitoreo</td>
         <td>2</td>
@@ -2837,7 +2817,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>28</td>
+        <td>26</td>
         <td>Solicitud de compra de equipo estándar</td>
         <td>Quiero poder seleccionar un equipo estándar y realizar la compra a través de la plataforma</td>
         <td>3</td>
@@ -2847,7 +2827,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>29</td>
+        <td>27</td>
         <td>Generación de facturas</td>
         <td>Quiero generar facturas automáticamente</td>
         <td>3</td>
@@ -2857,7 +2837,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>30</td>
+        <td>28</td>
         <td>Estado de equipos</td>
         <td>Quiero verificar el estado actual de mis equipos</td>
         <td>3</td>
@@ -2867,7 +2847,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>31</td>
+        <td>29</td>
         <td>Seguimiento de solicitudes de equipos</td>
         <td>Quiero poder hacer seguimiento del estado de mis pedidos</td>
         <td>3</td>
@@ -2877,17 +2857,17 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>32</td>
+        <td>30</td>
         <td>Registro de equipos</td>
         <td>Quiero poder añadir equipos a mi cuenta</td>
-        <td>3</td>
+        <td>30</td>
         <td>Gonzalo Quedena</td>
         <td>Done</td>
     </tr>
     <tr>
         <td></td>
         <td></td>
-        <td>33</td>
+        <td>31</td>
         <td>Alertas de equipos críticos</td>
         <td>Quiero establecer alertas para el estado crítico de mis equipos</td>
         <td>5</td>
@@ -2897,7 +2877,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>34</td>
+        <td>32</td>
         <td>Solicitud de compra de equipo personalizado</td>
         <td>Quiero poder realizar una solicitud de compra de equipos personalizados</td>
         <td>3</td>
@@ -2907,7 +2887,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>35</td>
+        <td>33</td>
         <td>Cancelación de solicitudes de equipos</td>
         <td>Quiero poder cancelar una solicitud de pedidos</td>
         <td>1</td>
@@ -2917,7 +2897,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>36</td>
+        <td>34</td>
         <td>Historial de facturación</td>
         <td>Quiero consultar el historial de todas mis facturas</td>
         <td>3</td>
@@ -2927,7 +2907,7 @@ https://trello.com/invite/b/6706be04b4ed2cea18953045/ATTI62f9ecc841b76674b2e05c2
     <tr>
         <td></td>
         <td></td>
-        <td>37</td>
+        <td>35</td>
         <td>Historial de mantenimiento</td>
         <td>Quiero consultar el historial de mantenimiento de mis equipos</td>
         <td>3</td>
