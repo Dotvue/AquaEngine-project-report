@@ -1023,21 +1023,30 @@ Presentamos los diagramas de flujo de la aplicación web, proporcionando una vis
 Link a los Wireframes de la Web Application (Figma):
 **https://shorturl.at/w2yHe**
 
-Acceso al inventario y tiene interés de ver los detalles de algún producto inventariado.  
+##### Segmento Objetivo: Productoras de maquinaria pesquera
 
+* __User Goal:__ Como productor de maquinaria pesquera deseo ver los detalles de mis equipos.  
 ![Web Aplication Wireflow Inventory](/assets/images/chapter-iv/wireflow-diagrams-wireframe/inventory.png)
 
-Acceso a ordenar alguna maquinaria, solicitarlos y ver detalle de solicitud.  
+El productor de maquinaria pesquera se dirige a la sección de "Inventory", luego selecciona el producto y se visualiza los detalles del producto.
 
+
+* __User Goal:__ Como productor de maquinaria pesquera deseo acceder al monitoreo de equipos.  
+![Web Aplication Wireflow Equipment Monitoring](/assets/images/chapter-iv/wireflow-diagrams-wireframe/equipment-monitoring.png)
+
+El productor de maquinaria pesquera se dirige a la sección "Equipment Monitoring" y visualiza card con información del monitoreo de cada equipo de maquinaria.
+
+##### Segmento Objetivo: Empresa pesquera
+
+ * __User Goal:__ Como empresa pesquera deseo ordenar alguna maquinaria.
 ![Web Aplication Wireflow Order Machinery](/assets/images/chapter-iv/wireflow-diagrams-wireframe/order-machinery.png)
 
-Acceso a las facturas.  
+La empresa pesquera se dirige a la sección de "Ordering Machinery", luego al visualizar los productos selecciona "request", despues de verificar los productos en el carrito selecciona "order", y visualiza el resumen de la orden.
 
+* __User Goal:__ Como empresa pesquera deseo ver el historial facturas de mis ordenes.  
 ![Web Aplication Wireflow Invoicing](/assets/images/chapter-iv/wireflow-diagrams-wireframe/invoice.png)
 
-Acceso al monitoreo de equipos.  
-
-![Web Aplication Wireflow Equipment Monitoring](/assets/images/chapter-iv/wireflow-diagrams-wireframe/equipment-monitoring.png)
+La empresa pesquera se dirige a la sección de "invoice history" y visualiza card de facturas de compras y ordenes hechas.
 
 ### 4.4.2. Web Applications Mock-ups.
 En esta sección, presentamos los mock-ups de la aplicación web, proporcionando una visión detallada de la apariencia final de las diferentes páginas y funcionalidades. Son representaciones visuales de alta fidelidad que muestran el diseño y la interfaz de usuario, permitiendo una comprensión clara de cómo funcionará la aplicación.  
