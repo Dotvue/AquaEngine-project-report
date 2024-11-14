@@ -3611,10 +3611,44 @@ Vernon, V. (2013). *Implementing domain-driven design.* Addison-Wesley.
 
 
 # Anexos
+
+### Anexo A. Products Deployed.
+
+Landing Page Desplegada: https://dotvue.github.io/AquaEngine-landing-page/
+
+Frontend Desplegado: https://aquaengine-upc.netlify.app/home
+
+Backend Desplegado: [este enlace](https://www.jetbrains.com/es-es/rider/).
+ 
+### Anexo B. Web tools
+
+Figma Landing Page: https://shorturl.at/ViUqo
+
+Web Applications User Flow Diagrams: https://shorturl.at/LLkEt
+
+Web Applications Mock-ups: https://shorturl.at/VhlUS
+
+Web Application Prototyting: https://shorturl.at/w2yHe
+
+### Anexo C. Github Repositories
+
+Link de la Organización DotVue : https://github.com/Dotvue
+
+| Repositorios   | Enlace al Respositorio    |
+|----------------|---------------------------|
+| AquaEngine Project Report | https://github.com/Dotvue/AquaEngine-project-report.git |
+| AquaEngine Landing Page   | https://github.com/Dotvue/AquaEngine-landing-page.git |
+| AquaEngine FrontEnd       | https://github.com/Dotvue/AquaEngine-front-end.git |
+| AquaEngine BackEnd        | https://github.com/Dotvue/AquaEngine-back-end.git |
+
+### Anexo D. Videos
+
 | Sección        | Enlace al video |
 |----------------|-----------------|
-| Vídeo Sprint 1 | 
-| Vídeo Sprint 2 |                 |
-| Vídeo Sprint 3 |                 |
+| Vídeo Sprint 1 | https://shorturl.at/0k2KX |
+| Vídeo Sprint 2 | https://shorturl.at/BR9kx |
+| Vídeo Sprint 3 | https://shorturl.at/Tzml8 |
+| Vídeo About the Product | https://www.youtube.com/watch?v=IrHx4bwdHu8 |
+| Vídeo About the Team | https://youtu.be/utn09GWWGXs |
 
 Video about the product for sprint 3: https://youtu.be/IrHx4bwdHu8
