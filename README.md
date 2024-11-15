@@ -3470,46 +3470,191 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
 
 ![trello-sprint-4](./assets/images/chapter-V/trello-sprint-4.png)  
 
-<table>
-  <thead>
-    <tr>
-      <th>Id</th>
-      <th colspan="3">Title</th>
-      <th>Id</th>
-      <th>Bounded Context</th>
-      <th>Functionality</th>
-      <th>Estimation (Hours)</th>
-      <th>Assigned To</th>
-      <th>Status (To-do / In-Process / To-Review / Done)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td colspan="3">Acceso a la aplicación web</td>
-      <td>US01</td>
-      <td>feature/public</td>
-      <td>Quiero registrar una cuenta en la aplicación para acceder a las funciones asignadas a mi rol.</td>
-      <td>1</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td colspan="3">Acceso a la aplicación web</td>
-      <td>US02</td>
-      <td>feature/public</td>
-      <td>Quiero poder iniciar sesión en la aplicación para acceder a las funciones habilitadas para mi cuenta.</td>
-      <td>1</td>
-      <td>Gonzalo Quedena</td>
-      <td>Done</td>
-    </tr>
-  </tbody>
+<table> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Bounded Context </th>
+     <th> Functionality </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
+   </tr>
+   <tr>
+      <th>  </th>
+      <th colspan="3">  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+   </tr>
+   <tr>
+      <th>  </th>
+      <th colspan="3">  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+   </tr>
+   <tr>
+      <th>  </th>
+      <th colspan="3">  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+   </tr>
+   <tr>
+      <th>  </th>
+      <th colspan="3">  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+   </tr>
+   <tr>
+      <th>  </th>
+      <th colspan="3">  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+   </tr>
+   <tr>
+      <th>  </th>
+      <th colspan="3">  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+   </tr>
+   <tr>
+      <th>  </th>
+      <th colspan="3">  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+      <th>  </th>
+   </tr>
 </table>
 
+#### 5.2.4.3 Development Evidence for Sprint Review
+En esta sección se mostrará la tabla de commits desarrollados en el presente sprint.  
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
+<table>
+   <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+  </tr>
+
+
+  <tr> 
+   <th> </th>
+   <th>  </th>
+   <th> </th>
+   <th>  </th>
+   <th> </th>
+   <th> </th>
+  </tr>
+
+ </table>  
+
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review  
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin.
+
+Link de acceso a las pruebas de aceptación:  
+https://github.com/W3bW0rks/AgroControl-acceptance-tests
+
+<table>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="text-align: center"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td style="text-align: center"></td>
+    </tr>
+</table>
+
+#### 5.2.4.5 Execution Evidence for Sprint Review  
+
+Actualmente, hemos realizado la implementación para la vista de los payments. Adicionalmente, cumpliendo con todos los requisitos funcionales en el sprint anterior.
+
+La aplicación web sigue siendo accesible a través del siguiente enlace:  
+https://aquaengine-upc.netlify.app
+
+En la Landing Page se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo
+
+Link de acceso al Landing Page:  
+https://aqua-engine-landing-page.vercel.app/?lang=en
+
+Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma XYZ para su despliegue.
+
+Se puede acceder a nuestra API desde el siguiente link:
+[Este es el link de la API](https://aquaengine-api.herokuapp.com/)
+
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review  
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review  
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint  
+
+En esta sección se presentan gráficos que reflejan los insights de colaboración del equipo durante el Sprint 4, mostrando un mayor avance en el desarrollo de las distintas áreas del proyecto. Cada gráfico destaca una fase específica, ilustrando cómo los miembros del equipo han intensificado su colaboración y contribución en esta etapa avanzada.
+
+- **Insights de Colaboración en el Desarrollo del Backend**  
+  Este gráfico ilustra la colaboración del equipo en el desarrollo de backend durante el Sprint 4, mostrando un incremento en la contribución y especialización de cada miembro. Refleja tanto la distribución de tareas como los patrones de colaboración más intensivos que se han dado en esta fase avanzada del backend.
+
+<img src="" alt="insights-backend" style="width: 600px;"/>
+
+- **Insights de Colaboración en el Desarrollo del Frontend**  
+  Este gráfico muestra la colaboración del equipo en el desarrollo del frontend, donde se observa un aumento en el nivel de participación y coordinación entre los miembros. Los datos reflejan la asignación más detallada de tareas e interacciones frecuentes, destacando el progreso logrado en esta área clave del proyecto durante el Sprint 4.
+
+<img src="" alt="insights-fronted" style="width: 600px;"/>
+
+- **Insights de Colaboración en el Desarrollo de la Landing Page**  
+  En este gráfico se representa la colaboración del equipo en la creación de la landing page durante el Sprint 4. Aquí se observa una mayor sincronización en los roles y un progreso significativo en las tareas asignadas a cada miembro, resaltando la dedicación e interacción que han llevado al avance de esta parte del proyecto.
+
+<img src="" alt="insights-landing" style="width: 600px;"/>
+
+## 5.3. Validation Interviews.  
+
+### 5.3.1. Diseño de Entrevistas.  
 **Preguntas generales:**
 
 1. ¿Cuál es su nombre?
@@ -3545,18 +3690,18 @@ Ocupación: _____
 {texto}
 
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA                                    | EVALUACIÓN    | NOTA    |
-|-----------------------------------------------|-----------------|---------|
-| Visibilidad del estado del sistema            |                 | {texto} |
-| Coincidencia entre el sistema y el mundo real |                 | {texto} |
-| Control y libertad del usuario                |                 | {texto} |
-| Consistencia y estándares                     |                 | {texto} |
-| Prevención de errores                         |                 | {texto} |
-| Mostrar antes que recordar                    |                 | {texto} |
-| Flexibilidad y eficiencia de uso              |                 | {texto} |
-| Diseño estético y minimalista                 |                 | {texto} |
-| Comunicar errores con facilidad               |                 | {texto} |
-| Ayuda y documentación                         |                 | {texto} |
+| HEURÍSTICA                                    | EVALUACIÓN | NOTA    |
+|-----------------------------------------------|------------|---------|
+| Visibilidad del estado del sistema            |            | {texto} |
+| Coincidencia entre el sistema y el mundo real |            | {texto} |
+| Control y libertad del usuario                |            | {texto} |
+| Consistencia y estándares                     |            | {texto} |
+| Prevención de errores                         |            | {texto} |
+| Mostrar antes que recordar                    |            | {texto} |
+| Flexibilidad y eficiencia de uso              |            | {texto} |
+| Diseño estético y minimalista                 |            | {texto} |
+| Comunicar errores con facilidad               |            | {texto} |
+| Ayuda y documentación                         |            | {texto} |
 
 ## 5.4. Video About-the-Product.  
 
@@ -3606,14 +3751,12 @@ en la creación de una aplicación web completa.
 
 Video About-the-Team: https://youtu.be/utn09GWWGXs  
 
-# Bibliografía
-
+# Bibliografía  
 
 Jansen, S. M. (2019). *Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
 Microservices. Apress.* Retrieved from https://bit.ly/4flQyB7
 
-Labedian, I. (2024, May 14). *How to deploy a .NET app on Railway using Docker*. I. Labedian. Retrieved from https://iliabedian.com/blog/deploy-dotnet-app-on-railway-with-docker
-
+Labedian, I. (2024, May 14). *How to deploy a .NET app on Railway using Docker*. I. Labedian. Retrieved from https://iliabedian.com/blog/deploy-dotnet-app-on-railway-with-docker  
 
 Microsoft. (n.d.). *What is ASP.NET Core?.* Microsoft. Retrieved from https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core
 
@@ -3656,23 +3799,21 @@ Web Application Prototyting: https://shorturl.at/w2yHe
 
 ### Anexo C. Github Repositories
 
-Link de la Organización DotVue : https://github.com/Dotvue
+Link de la Organización DotVue: https://github.com/Dotvue
 
-| Repositorios   | Enlace al Respositorio    |
-|----------------|---------------------------|
+| Repositorios              | Enlace al Respositorio                                  |
+|---------------------------|---------------------------------------------------------|
 | AquaEngine Project Report | https://github.com/Dotvue/AquaEngine-project-report.git |
-| AquaEngine Landing Page   | https://github.com/Dotvue/AquaEngine-landing-page.git |
-| AquaEngine FrontEnd       | https://github.com/Dotvue/AquaEngine-front-end.git |
-| AquaEngine BackEnd        | https://github.com/Dotvue/AquaEngine-back-end.git |
+| AquaEngine Landing Page   | https://github.com/Dotvue/AquaEngine-landing-page.git   |
+| AquaEngine FrontEnd       | https://github.com/Dotvue/AquaEngine-front-end.git      |
+| AquaEngine BackEnd        | https://github.com/Dotvue/AquaEngine-back-end.git       |
 
 ### Anexo D. Videos
 
-| Sección        | Enlace al video |
-|----------------|-----------------|
-| Vídeo Sprint 1 | https://shorturl.at/0k2KX |
-| Vídeo Sprint 2 | https://shorturl.at/BR9kx |
-| Vídeo Sprint 3 | https://shorturl.at/Tzml8 |
+| Sección                 | Enlace al video                             |
+|-------------------------|---------------------------------------------|
+| Vídeo Sprint 1          | https://shorturl.at/0k2KX                   |
+| Vídeo Sprint 2          | https://shorturl.at/BR9kx                   |
+| Vídeo Sprint 3          | https://shorturl.at/Tzml8                   |
 | Vídeo About the Product | https://www.youtube.com/watch?v=IrHx4bwdHu8 |
-| Vídeo About the Team | https://youtu.be/utn09GWWGXs |
-
-Video about the product for sprint 3: https://youtu.be/IrHx4bwdHu8
+| Vídeo About the Team    | https://youtu.be/utn09GWWGXs                |
