@@ -3631,6 +3631,62 @@ Se puede acceder a nuestra API desde el siguiente link:
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review  
 
+<p style="text-align: justify">
+En esta sección se documentan los resultados alcanzados durante el sprint actual, con énfasis en las funcionalidades desarrolladas y las operaciones implementadas. Se incluyen evidencias visuales que respaldan el correcto funcionamiento de las acciones CRUD, así como otros métodos diseñados para mejorar la interacción con los servicios.  
+
+En este Sprint, se trabajaron nuevas funcionalidades orientadas a la autenticación y gestión de usuarios, asegurando un flujo seguro y eficiente para los procesos del sistema. Estas mejoras refuerzan la base del proyecto y contribuyen a su evolución hacia un producto más robusto y escalable.
+
+</p>  
+
+Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/Agrocontrol-backend
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Sales Bounded Context </strong> </th>
+    <th> <strong> /api/v1/invoice </strong> </th>
+    <th> <img src="/assets/images/chapter-V/service-evidence/invoices.png" alt="" style="width: 780px;"/> </th>
+  </tr>
+
+
+  <tr>
+   <th> <strong> Planing Bounded Context </strong> </th>
+    <th> <strong> /api/v1/ordering-machinery </strong> </th>
+    <th> <img src="/assets/images/chapter-V/service-evidence/ordering-machinery.png" alt="" style="width: 780px;"/> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Iam Bounded Context </strong> </th>
+    <th> <strong> /api/v1/authentication </strong> </th>
+    <th> <img src="/assets/images/chapter-V/service-evidence/authentication.png" alt="" style="width: 780px;"/> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Analytics Bounded Context </strong> </th>
+    <th> <strong> /api/v1/maintenances | /api/v1/monitorings </strong> </th>
+    <th> 
+      <img src="/assets/images/chapter-V/service-evidence/maintenance.png" alt="" style="width: 780px;"/>
+      <img src="/assets/images/chapter-V/service-evidence/monitoring.png" alt="" style="width: 780px;"/>
+    </th>
+  </tr>
+
+  <tr>
+   <th> <strong> Control Bounded Context </strong> </th>
+    <th> <strong> /api/v1/products </strong> </th>
+    <th> <img src="/assets/images/chapter-V/service-evidence/products.png" alt="" style="width: 780px;"/> </th>
+  </tr>
+</table>
+
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review  
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint  
