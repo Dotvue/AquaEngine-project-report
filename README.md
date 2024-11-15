@@ -3640,17 +3640,17 @@ En esta sección se presentan gráficos que reflejan los insights de colaboraci�
 - **Insights de Colaboración en el Desarrollo del Backend**  
   Este gráfico ilustra la colaboración del equipo en el desarrollo de backend durante el Sprint 4, mostrando un incremento en la contribución y especialización de cada miembro. Refleja tanto la distribución de tareas como los patrones de colaboración más intensivos que se han dado en esta fase avanzada del backend.
 
-<img src="" alt="insights-backend" style="width: 600px;"/>
+<img src="/assets/images/collaboration-insights/sprint4/insights-backend.png" alt="insights-backend" style="width: 600px;"/>
 
 - **Insights de Colaboración en el Desarrollo del Frontend**  
   Este gráfico muestra la colaboración del equipo en el desarrollo del frontend, donde se observa un aumento en el nivel de participación y coordinación entre los miembros. Los datos reflejan la asignación más detallada de tareas e interacciones frecuentes, destacando el progreso logrado en esta área clave del proyecto durante el Sprint 4.
 
-<img src="" alt="insights-fronted" style="width: 600px;"/>
+<img src="/assets/images/collaboration-insights/sprint4/insights-frontend.png" alt="insights-fronted" style="width: 600px;"/>
 
 - **Insights de Colaboración en el Desarrollo de la Landing Page**  
   En este gráfico se representa la colaboración del equipo en la creación de la landing page durante el Sprint 4. Aquí se observa una mayor sincronización en los roles y un progreso significativo en las tareas asignadas a cada miembro, resaltando la dedicación e interacción que han llevado al avance de esta parte del proyecto.
 
-<img src="" alt="insights-landing" style="width: 600px;"/>
+<img src="/assets/images/collaboration-insights/sprint4/insights-landing.png" alt="insights-landing" style="width: 600px;"/>
 
 ## 5.3. Validation Interviews.  
 
