@@ -3591,7 +3591,7 @@ En esta sección se mostrará la tabla de commits desarrollados en el presente s
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin.
 
 Link de acceso a las pruebas de aceptación:  
-https://github.com/W3bW0rks/AgroControl-acceptance-tests
+https://github.com/Dotvue/AquaEngine-acceptance-tests
 
 <table>
     <tr>
