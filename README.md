@@ -3709,7 +3709,7 @@ Presentamos de manera clara las funcionalidades clave de nuestra aplicación web
 
 **LINK DE ACCESO AL VIDEO:** https://www.youtube.com/watch?v=IrHx4bwdHu8  
 
-<img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence"/>  
+<img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence" style="width: 600px;"/>  
 
 # Conclusiones
 
@@ -3749,7 +3749,19 @@ como las historias de usuario y el diseño de la aplicación. Además, este proy
 nuestros conocimientos en desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia 
 en la creación de una aplicación web completa.  
 
-Video About-the-Team: https://youtu.be/utn09GWWGXs  
+#### Timings del Video
+
+- **[0:00 - 1:11] Introducción del Proyecto**: Explicación general del proyecto y sus objetivos.
+- **[1:11 - 2:37] Testimonio de Daniel del Castillo**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[2:37 - 3:52] Testimonio de Gonzalo Andre Zavala Quedena**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[3:52 - 4:37] Testimonio de Yasser Rentería Palacios**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[4:37 - 5:36] Testimonio de Pedro Guia**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[5:36 - 7:27] Testimonio de Omar Berrocal**: Experiencia y aprendizajes en el desarrollo del proyecto.
+- **[7:27 - 7:32] Cierre del vídeo**: Cierre del video y agradecimientos al equipo.
+
+Link del vídeo About-the-Team: https://youtu.be/utn09GWWGXs  
+
+<img src="/assets/images/about-the-team.png" alt="video-about-the-team" style="width: 600px;"/>
 
 # Bibliografía  
 
