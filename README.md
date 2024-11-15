@@ -3473,7 +3473,7 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
 <table> 
    <tr>
       <th colspan="4"> Sprint # </th>
-      <th colspan="7"> Sprint 3 </th>
+      <th colspan="7"> Sprint 4 </th>
    </tr>
    <tr>
      <th colspan="4"> User Story </th>
