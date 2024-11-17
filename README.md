@@ -3737,7 +3737,7 @@ En esta sección se presenta el diseño y funcionalidad del frontend de la aplic
 
 **Pantalla de Registro**
 - Aquí los nuevos usuarios pueden crear una cuenta. Incluye campos para introducir información como nombre, correo electrónico, y contraseña, facilitando el acceso a nuevos usuarios.  
-<img src="/assets/images/chapter-V/5.2.4/front-sign-up.png" alt="" style="width: 600px;"/>
+<img src="/assets/images/chapter-V/5.2.4/front-sign-up.png" alt="" style="width: 400px;"/>
 
 #### **Landing Page**  
 
