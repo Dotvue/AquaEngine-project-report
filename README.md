@@ -3627,7 +3627,7 @@ https://aqua-engine-landing-page.vercel.app/?lang=en
 Así mismo, para el alcance de este sprint estuvo contemplado el despliegue de la API de la aplicación web. Para ello, se utilizó la plataforma XYZ para su despliegue.
 
 Se puede acceder a nuestra API desde el siguiente link:
-[Este es el link de la API](https://aquaengine-api.herokuapp.com/)
+http://aquaengineapi.runasp.net/swagger/index.html
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review  
 
@@ -3687,9 +3687,9 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
   </tr>
 </table>
 
-#### 5.2.3.7 Software Deployment Evidence for Sprint Review  
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review  
 
-#### 5.2.3.8 Team Collaboration Insights during Sprint  
+#### 5.2.4.8 Team Collaboration Insights during Sprint  
 
 En esta sección se presentan gráficos que reflejan los insights de colaboración del equipo durante el Sprint 4, mostrando un mayor avance en el desarrollo de las distintas áreas del proyecto. Cada gráfico destaca una fase específica, ilustrando cómo los miembros del equipo han intensificado su colaboración y contribución en esta etapa avanzada.
 
@@ -3849,11 +3849,11 @@ Vernon, V. (2013). *Implementing domain-driven design.* Addison-Wesley.
 
 ### Anexo A. Products Deployed.
 
-Landing Page Desplegada: https://dotvue.github.io/AquaEngine-landing-page/
+Landing Page Desplegada: https://aqua-engine-landing-page.vercel.app/?lang=en
 
-Frontend Desplegado: https://aquaengine-upc.netlify.app/home
+Frontend Desplegado: https://aquaengine.netlify.app
 
-Backend Desplegado: [este enlace](https://www.jetbrains.com/es-es/rider/).
+Backend Desplegado: http://aquaengineapi.runasp.net/swagger/index.html
  
 ### Anexo B. Web tools
 
