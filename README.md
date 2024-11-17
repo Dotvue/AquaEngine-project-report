@@ -3689,6 +3689,67 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review  
 
+Esta sección documenta el proceso de despliegue de la aplicación utilizando la plataforma MonsterASP.NET para el API, utilizando la plataforma Vercel para el Landing Page y la plataforma netlify para el frontend. A continuación, se describen los pasos involucrados:  
+
+#### **Backend**
+
+###### **Panel de Control de MonsterASP.NET**
+- Se inicia el proceso gestionando recursos de hosting y configurando entornos para aplicaciones .NET.  
+
+<img src="/assets/images/chapter-V/5.2.4/monsterASP-control-panel.jpeg" alt="" style="width: 750px;"/>  
+
+###### **Agregar Sitio Web**
+- Se crea un nuevo sitio web en el que se alojará la aplicación, estableciendo los parámetros necesarios.  
+
+<img src="/assets/images/chapter-V/5.2.4/web-site-aggregation.jpeg" alt="" style="width: 750px;"/>
+
+###### **Selección de Tipo de Hosting**
+- Se opta por el hosting más adecuado para las necesidades del proyecto, permitiendo un entorno de prueba o desarrollo.  
+
+<img src="/assets/images/chapter-V/5.2.4/hosting-selection.jpeg" alt="" style="width: 750px;"/>  
+
+###### **Explorador de Soluciones en Visual Studio**
+- Desde Visual Studio, se accede al explorador de soluciones para iniciar el proceso de publicación de la aplicación.  
+
+<img src="/assets/images/chapter-V/5.2.4/visual-studio-solution-explorer.jpeg" alt="" style="width: 750px;"/>
+
+###### **Selección de Destino de Despliegue**
+- En el menú de publicación, se configura el destino del despliegue y se carga el perfil necesario.  
+
+<img src="/assets/images/chapter-V/5.2.4/file-configuration.jpeg" alt="" style="width: 750px;"/>
+
+###### **Importación de Archivo de Configuración**
+- Se importa un archivo de configuración de publicación específico, permitiendo una correcta adaptación al entorno destino.  
+
+<img src="/assets/images/chapter-V/5.2.4/configuration.jpeg" alt="" style="width: 750px;"/>
+
+###### **Detalles de Conexión de Base de Datos**
+- Se incluyen detalles de conexión necesarios para integrar la aplicación con su base de datos, gestionando el acceso a datos.  
+
+<img src="/assets/images/chapter-V/5.2.4/db-connection.jpeg" alt="" style="width: 750px;"/>  
+
+#### **Frontend**  
+En esta sección se presenta el diseño y funcionalidad del frontend de la aplicación. Se incluyen las siguientes pantallas: 
+
+**Pantalla de Inicio de Sesión**  
+- Esta pantalla permite a los usuarios ingresar sus credenciales para acceder a la aplicación. Cuenta con campos para el correo y la contraseña, asegurándose de que el acceso sea seguro y eficiente.  
+<img src="/assets/images/chapter-V/5.2.4/front-sign-in.png" alt="" style="width: 800px;"/>  
+
+**Pantalla de Registro**
+- Aquí los nuevos usuarios pueden crear una cuenta. Incluye campos para introducir información como nombre, correo electrónico, y contraseña, facilitando el acceso a nuevos usuarios.  
+<img src="/assets/images/chapter-V/5.2.4/front-sign-up.png" alt="" style="width: 600px;"/>
+
+#### **Landing Page**  
+
+La página principal proporciona una visión de la aplicación y su propósito
+
+**Acerca del Equipo**
+- En esta sección se presenta información sobre el equipo detrás de la aplicación. Esto brinda transparencia y confianza a los usuarios de la aplicación.
+
+
+<img src="/assets/images/chapter-V/5.2.4/landing-about-the-team.png" alt="" style="width: 750px;"/>
+
+
 #### 5.2.4.8 Team Collaboration Insights during Sprint  
 
 En esta sección se presentan gráficos que reflejan los insights de colaboración del equipo durante el Sprint 4, mostrando un mayor avance en el desarrollo de las distintas áreas del proyecto. Cada gráfico destaca una fase específica, ilustrando cómo los miembros del equipo han intensificado su colaboración y contribución en esta etapa avanzada.
