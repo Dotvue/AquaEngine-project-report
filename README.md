@@ -3565,26 +3565,254 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
 En esta sección se mostrará la tabla de commits desarrollados en el presente sprint.  
 
 <table>
-   <tr>
-    <th> <strong> Repository </strong> </th>
-    <th> <strong> Branch </strong> </th>
-    <th> <strong> Commit ID</strong> </th>
-    <th> <strong> Commit Message </strong> </th>
-     <th> <strong> Commit Message (Body) </strong> </th>
-     <th> <strong> Commited on (Date) </strong> </th>
-  </tr>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Commit Message (Body)</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-landing-page</td>
+      <td align="center">main</td>
+      <td align="center">e2c53ba608c622660564d43459bb3541c38abc14</td>
+      <td align="center">feat(call to action): added the call to action button</td>
+      <td align="center">---</td>
+      <td align="center">28/09/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-landing-page</td>
+      <td align="center">main</td>
+      <td align="center">652bf6df849e33ba0cb06753cb21e3a1cc783c58</td>
+      <td align="center">chore: replace button with a tag for call-to-action.</td>
+      <td align="center">---</td>
+      <td align="center">28/09/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-landing-page</td>
+      <td align="center">main</td>
+      <td align="center">9115d60f875e9e3404d140c3dfdd581b44e74c10</td>
+      <td align="center">feat(about the product): done</td>
+      <td align="center">---</td>
+      <td align="center">03/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-landing-page</td>
+      <td align="center">main</td>
+      <td align="center">a371b216898669448541f8fbadc7d55efefa6ab1</td>
+      <td align="center">refactor: set english as the initial language for about sections</td>
+      <td align="center">---</td>
+      <td align="center">12/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-landing-page</td>
+      <td align="center">main</td>
+      <td align="center">4bd17c370c19735d67a725fd9b45a4ba61a84420</td>
+      <td align="center">refactor: change the order of sections to improve user experience</td>
+      <td align="center">---</td>
+      <td align="center">15/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">fix/planning</td>
+      <td align="center">13d2d50fc2051e94db805f3b282dc19c6e1e96ce</td>
+      <td align="center">feat(planning): update order machinery and detail components</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">feature/monitoring-pop-up-form</td>
+      <td align="center">7fd194369ba66dea2e108744981724dcc7c09f00</td>
+      <td align="center">fix(maintenance): updated the maintenance-management.component.vue</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">feature/monitoring-pop-up-form</td>
+      <td align="center">ab091a169a7085bd8de738cb9feaa8ee594f7ad2</td>
+      <td align="center">fix(monitoring): adapted the changes for the buttons above the pv-cards</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">feature/monitoring-pop-up-form</td>
+      <td align="center">34ee3e3335e3abca277309292cb747900c55b723</td>
+      <td align="center">feat(monitoring): added the post method implementation in the front-end</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">fix/planning</td>
+      <td align="center">8c1d6be9a9e2aa128591c68a2d950e4947342ed6</td>
+      <td align="center">feat(planning): completed process to order a machine</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">develop</td>
+      <td align="center">53af2258a9b002ba2d975ca17ce548baca73b5fa</td>
+      <td align="center">fix: resolve merge conflicts with feature/sales branch.</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">develop</td>
+      <td align="center">8d1b29b3afbda8f288dc4a68895554fff0860d77</td>
+      <td align="center">refactor: rename the route of invoices.</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">develop</td>
+      <td align="center">f30a9469531816ff2448f57b621a45b0a3234f64</td>
+      <td align="center">refactor: edit the invoice service, entity and component.</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">develop</td>
+      <td align="center">0d93cd53174a39f3d3d0be557399cce880f120b3</td>
+      <td align="center">fix(sales): fixed the component call</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">develop</td>
+      <td align="center">359a36225876a0e3677723512f8b315aed77c6b4</td>
+      <td align="center">refactor: resolve syntax errors.</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-front-end</td>
+      <td align="center">develop</td>
+      <td align="center">359a36225876a0e3677723512f8b315aed77c6b4</td>
+      <td align="center">refactor: resolve syntax errors.</td>
+      <td align="center">---</td>
+      <td align="center">16/11/2024</td>
+    </tr>
+    <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">monsterasp-deploy</td>
+      <td align="center">12be7757b6e25531091c330c4a593d95acd26c70</td>
+      <td align="center">feat(planning): Database table created.</td>
+      <td align="center">---</td>
+      <td align="center">31/10/2024</td>
+    </tr>
+     <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">monsterasp-deploy</td>
+      <td align="center">7359e100a2a409292cde5dce5b0cff3a5cd4c139</td>
+      <td align="center">fix: access to value object user id properties.</td>
+      <td align="center">---</td>
+      <td align="center">02/11/2024</td>
+    </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">monsterasp-deploy</td>
+      <td align="center">5a3c4c5a6dc88b2c305116572802ccd788158f57</td>
+      <td align="center">feat(planning): Ordering Controller completed.</td>
+      <td align="center">---</td>
+      <td align="center">02/11/2024</td>
+    </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">monsterasp-deploy</td>
+      <td align="center">a1cc035b6a556e2ae1c981441b4540795fac4a63</td>
+      <td align="center">feat(planning): in progress added ordering machinery services injection to Program.cs.</td>
+      <td align="center">---</td>
+      <td align="center">31/10/2024</td>
+    </tr>
+    </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">develop</td>
+      <td align="center">7359e100a2a409292cde5dce5b0cff3a5cd4c139</td>
+      <td align="center">fix: access to value object user id propertie.</td>
+      <td align="center">---</td>
+      <td align="center">02/11/2024</td>
+    </tr>
+     </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">develop</td>
+      <td align="center">419f808773ea949927a25bcf321e4a554aa6ba22</td>
+      <td align="center">refactor: change bounded context invoice name to sales.</td>
+      <td align="center">---</td>
+      <td align="center">02/11/2024</td>
+    </tr>
+     </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">develop</td>
+      <td align="center">1bf39477f049b937461ba76baddf6c8ae26a284b</td>
+      <td align="center">test: changed the application connection to database for a deploy test.</td>
+      <td align="center">---</td>
+      <td align="center">04/11/2024</td>
+    </tr>
+    </tr>
+     </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">deploy</td>
+      <td align="center">5cd55407478b3297207b6e18659eb0bfe133a6fa</td>
+      <td align="center">test: deploy test creating the docker image.</td>
+      <td align="center">---</td>
+      <td align="center">04/11/2024</td>
+    </tr>
+     </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">deploy</td>
+      <td align="center">b7aabb288a0929406dc8706e2c998525ca2a1a77</td>
+      <td align="center">test: rollback to use a stable version of the dockerfile.</td>
+      <td align="center">---</td>
+      <td align="center">05/11/2024</td>
+    </tr>
+      </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">deploy</td>
+      <td align="center">d4cd9ef0808e02f88e15c37e9f538a3b197ad612</td>
+      <td align="center">test: deploy test with the docker file</td>
+      <td align="center">---</td>
+      <td align="center">05/11/2024</td>
+    </tr>
+      </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">deploy</td>
+      <td align="center">046917bdd850358efa8a5af4974e2f22d5e574d9</td>
+      <td align="center">test: Dockerfile change</td>
+      <td align="center">---</td>
+      <td align="center">05/11/2024</td>
+    </tr>
+      </tr>
+      <tr>
+      <td align="center">https://github.com/Dotvue/AquaEngine-back-end</td>
+      <td align="center">deploy</td>
+      <td align="center">264af435e25e07bff0cc1f9002d367c38aa69ef8</td>
+      <td align="center">test: program deploy</td>
+      <td align="center">---</td>
+      <td align="center">06/11/2024</td>
+    </tr>
+  </tbody>
+</table>
 
-
-  <tr> 
-   <th> </th>
-   <th>  </th>
-   <th> </th>
-   <th>  </th>
-   <th> </th>
-   <th> </th>
-  </tr>
-
- </table>  
+ 
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review  
 
