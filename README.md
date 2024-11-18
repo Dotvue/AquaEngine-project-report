@@ -4028,12 +4028,18 @@ Ocupación: _____
 {texto mucho}
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-
+Nombre: Carlo Henrique
+Edad: 25 años
+Ocupación: Pescador  
+![Imagen de entrevista](assests/entrevista%20carlo.jpg)
+En la entrevista con Carlo Henrique, quien trabaja en el sector pesquero y vive en Callao, 
+se discutieron las funcionalidades de AquaEngine para gestionar de manera centralizada el inventario y el mantenimiento de los equipos pesqueros. Carlo valoró positivamente esta capacidad, ya que facilita la organización y reduce el riesgo de perder
+equipos por un mal seguimiento. Destacó la importancia de tener acceso rápido a la información sobre el estado de los equipos, 
+ya que esto permite tomar decisiones rápidas y evitar paradas inesperadas en las operaciones. 
+Además, sugirió que AquaEngine podría mejorar al incluir alertas automáticas para el mantenimiento y la asignación de tareas a personas específicas, lo que optimizaría aún más el control. 
+En cuanto a la continuidad de las operaciones, Carlo afirmó que AquaEngine podría tener un gran impacto al 
+garantizar que los equipos se mantengan en buen estado y reducir los tiempos de inactividad, 
+lo que se traduciría en mayor eficiencia al evitar fallos y retrasos por falta de repuestos.
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA                                    | EVALUACIÓN | NOTA    |
 |-----------------------------------------------|------------|---------|
