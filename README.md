@@ -3470,97 +3470,346 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
 
 ![trello-sprint-4](./assets/images/chapter-V/trello-sprint-4.png)  
 
-<table> 
-   <tr>
-      <th colspan="4"> Sprint # </th>
-      <th colspan="7"> Sprint 4 </th>
-   </tr>
-   <tr>
-     <th colspan="4"> User Story </th>
-     <th colspan="7"> Work-Item /Task</th>
-   </tr>
-   <tr>
-     <th> Id </th>
-     <th colspan="3"> Title </th>
-     <th> Id </th>
-     <th> Bounded Context </th>
-     <th> Functionality </th>
-     <th> Estimation (Hours) </th>
-     <th> Assigned To </th> 
-     <th> Status (To-do / In-Process / To-Review / Done) </th>
-   </tr>
-   <tr>
-      <th>  </th>
-      <th colspan="3">  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-   </tr>
-   <tr>
-      <th>  </th>
-      <th colspan="3">  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-   </tr>
-   <tr>
-      <th>  </th>
-      <th colspan="3">  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-   </tr>
-   <tr>
-      <th>  </th>
-      <th colspan="3">  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-   </tr>
-   <tr>
-      <th>  </th>
-      <th colspan="3">  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-   </tr>
-   <tr>
-      <th>  </th>
-      <th colspan="3">  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-   </tr>
-   <tr>
-      <th>  </th>
-      <th colspan="3">  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-      <th>  </th>
-   </tr>
+<table style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th colspan="9">Sprint # &nbsp;&nbsp; Sprint 4</th>
+    </tr>
+    <tr>
+        <th colspan="2">User Story</th>
+        <th colspan="7">Work-Item / Task</th>
+    </tr>
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Estimation (Hours)</th>
+        <th>Assigned To</th>
+        <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de un nuevo usuario</td>
+        <td>1</td>
+        <td>API desplegada</td>
+        <td>Quiero visualizar la API desplegada</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>2</td>
+        <td>Conectar el control de mantenimiento con el API</td>
+        <td>Quiero configurar el bounded context de mantenimiento para que esté conectada con la API</td>
+        <td>2</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de nuevo usuario</td>
+        <td>3</td>
+        <td>Actualizar el despliegue del frontend</td>
+        <td>Quiero desplegar satisfactoriamente mi frontend</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>4</td>
+        <td>Crear el Inicio de sesión</td>
+        <td>Quiero implementar el inicio de sesión para que el usuario entre a su cuenta</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>5</td>
+        <td>Actualizar user product en el bounded context control</td>
+        <td>Quiero actualizar los productos que el usuario compre</td>
+        <td>2</td>
+        <td>Pedro Guía</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>6</td>
+        <td>Conectar el bounded context "planning" con la API</td>
+        <td>Quiero crear la conexión de mi bounded context "planning" con la API</td>
+        <td>2</td>
+        <td>Pedro Guía</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>7</td>
+        <td>Validar el orden de una maquinaria de acuerdo al stock disponible</td>
+        <td>Quiero implementar la validación del pedidos de las maquinarios junto al stock disponible en el momento</td>
+        <td>2</td>
+        <td>Pedro Guía</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>8</td>
+        <td>Implementar la vista de los detalles de las maquinarias de pesca compradas</td>
+        <td>Quiero obtener en detalle la visualización de las maquinarias de pesca compradas</td>
+        <td>2</td>
+        <td>Pedro Guía</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>9</td>
+        <td>Añadir la vista final del detalle de la maquinaria comprada</td>
+        <td>Quiero implementar la vista final del detalle de compra de la maquinaria</td>
+        <td>2</td>
+        <td>Omar Berrocal</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US16</td>
+        <td>Navegación por la Landing Page</td>
+        <td>10</td>
+        <td>Actualizar el despliegue de la landing page</td>
+        <td>Quiero actualizar el despliegue de la landing page</td>
+        <td>2</td>
+        <td>Gonzalo Quedana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de un nuevo usuario</td>
+        <td>11</td>
+        <td>Crear la forma de registrarse</td>
+        <td>Quiero crear la forma en que un usuario se registre</td>
+        <td>2</td>
+        <td>Gonzalo Quedana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>12</td>
+        <td>Implementar la vista final de la orden de compra de la maquinaria pesquera</td>
+        <td>Quiero crear la vista final de la orden de compra de una maquina pesquera</td>
+        <td>2</td>
+        <td>Omar Berrocal</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>13</td>
+        <td>Conectar el bounded context "sales" con la API</td>
+        <td>Quiero conectar el bounded context "sales" con la API </td>
+        <td>2</td>
+        <td>Yasser Rentería</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>14</td>
+        <td>Crear el inicio de sesión en la aplicación</td>
+        <td>Quiero crear el inicio de sesión dentro de aplicación</td>
+        <td>3</td>
+        <td>Gonzalo Quedana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>15</td>
+        <td>Conectar el bounded context "control" con la API</td>
+        <td>Quiero conectar el bounded context "control" a la API</td>
+        <td>2</td>
+        <td>Gonzalo Quedana</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>16</td>
+        <td>Limpiar el carro de las maquinarias ordenadas</td>
+        <td>Quiero borrar la vista de las ordenes de las maquinarias</td>
+        <td>2</td>
+        <td>Omar Berrocal</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>17</td>
+        <td>Filtrar por nombre el inventario de productos</td>
+        <td>Quiero poder filtrar por nombre el inventario de los productos</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>18</td>
+        <td>Crear el registro dentro de la aplicación web</td>
+        <td>Quiero implementar el registro en la aplicación web</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US15</td>
+        <td>Cancelación de solicitudes de equipos</td>
+        <td>19</td>
+        <td>Eliminar un producto dentro del bounded context "control"</td>
+        <td>Quiero eliminar el producto del bounded context "control"</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US16</td>
+        <td>Navegación por la Landing Page</td>
+        <td>20</td>
+        <td>Poner el lenguaje por defecto el inglés en la sección About The Team</td>
+        <td>Quiero que el About the Team esté en inglés por defecto</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US16</td>
+        <td>Navegación por la Landing Page</td>
+        <td>21</td>
+        <td>Poner el lenguaje por defecto el inglés en la sección About The Product</td>
+        <td>Quiero que el About the Product esté en inglés por defecto</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de un nuevo usuario</td>
+        <td>22</td>
+        <td>Generar el token de autenticación para el bounded context "iam"</td>
+        <td>Quiero generar el token de autenticación en el bounded context "iam"</td>
+        <td>4</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>23</td>
+        <td>Conectar el bounded context "analytics" con la API</td>
+        <td>Quiero implementar la conexión del bounded context "analytics" con la API</td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de un nuevo usuario</td>
+        <td>24</td>
+        <td>Implementar la autenticación del controlador del bounded context "aim"</td>
+        <td>Quiero implementar el control de la autenticación en el bounded context "aim" </td>
+        <td>3</td>
+        <td>Yasser Rentería</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>25</td>
+        <td>Implementar los modelos de solicitud </td>
+        <td>Quiero implementar los modelos de solicitud/td>
+        <td>2</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>26</td>
+        <td>Implementar los modelos de respuesta</td>
+        <td>Quiero implementar los modelos de respuesta</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de un nuevo usuario</td>
+        <td>27</td>
+        <td>Implementar la autenticación del almacenamiento</td>
+        <td>Quiero implementar la autenticación del almacenamiento</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>28</td>
+        <td>Obtener el usuario por Id como requerimiento del bounded context "aim"</td>
+        <td>Quiero obtener el usuario por su respectivo Id como requerimiento del bounded context "aim"</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de un nuevo usuario</td>
+        <td>29</td>
+        <td>Implementar la protección de autenticación</td>
+        <td>Quiero implementar los guardias para la autenticación</td>
+        <td>3</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Registro de un nuevo usuario</td>
+        <td>30</td>
+        <td>Implementación del interceptor de la autenticación </td>
+        <td>Quiero implementar el interceptor de la autenticación</td>
+        <td>30</td>
+        <td>Gonzalo Quedena</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>31</td>
+        <td>Implementar los componentes de la autenticación</td>
+        <td>Quiero implementar los componentes de la autenticación</td>
+        <td>5</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Inicio de Sesión</td>
+        <td>32</td>
+        <td>Conectar el cuadro de mantenimiento con la API</td>
+        <td>Quiero poder conectar el cuadro de mantenimiento con la API</td>
+        <td>3</td>
+        <td>Daniel Castillo</td>
+        <td>Done</td>
+    </tr>
+    
 </table>
-
 #### 5.2.4.3 Development Evidence for Sprint Review
 En esta sección se mostrará la tabla de commits desarrollados en el presente sprint.  
 
