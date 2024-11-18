@@ -3831,13 +3831,94 @@ https://github.com/Dotvue/AquaEngine-acceptance-tests
         <th>Commited on (Date)</th>
     </tr>
     <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>b17d8c8a9ca269d6bf2b85296e526cb3d769dbbd</td>
+        <td>test(acceptance): add login and register functionalities test.</td>
         <td></td>
-        <td style="text-align: center"></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td style="text-align: center"></td>
+        <td style="text-align: center">17/11/2024</td>
     </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>1e8a3b0674412961a1874289c0d74f8fb95d83fa</td>
+        <td>test(acceptance): add monitoring equipment functionality test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>045b69774d12b094fdecbae01abb52142fdc814e</td>
+        <td>test(acceptance): add invoicing feature test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>e5e3c9acb923f8c12187847b6691c39280ff645d</td>
+        <td>test(acceptance): add inventory functionalities test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>db4d1649476e6cab17ba964515e3a68e2f8fc235</td>
+        <td>test(acceptance): add equipment request functionalities test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>3173049e215351d10d4e09f96bafd11b14455759</td>
+        <td>test(acceptance): add landing page features test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>70b37c1c6ae602ef5c7a3678b4177802e87e92fb</td>
+        <td>test(acceptance): add inventory management features test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>1659ed77ef4307e35c3e568b7811038ec35c5283</td>
+        <td>test(acceptance): add Fishing machinery management features test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>1f731eb20cd98c547d2319e277d0cfb165a45f47</td>
+        <td>test(acceptance): add users management features test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>add2eccf1a175c2bbb19e61bd4f854f9831eff22</td>
+        <td>test(acceptance): add sales management features test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    <tr>
+        <td>AquaEngine-acceptance-tests</td>
+        <td style="text-align: center">main</td>
+        <td>0be3c58989622931387d85f3be60475f5d50c33b</td>
+        <td>test(acceptance): add maintenance management features test.</td>
+        <td></td>
+        <td style="text-align: center">17/11/2024</td>
+    </tr>
+    
 </table>
 
 #### 5.2.4.5 Execution Evidence for Sprint Review  
