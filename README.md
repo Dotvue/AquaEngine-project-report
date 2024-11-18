@@ -84,6 +84,16 @@ TB2: Las tareas asignadas para la entrega del TB2 se completaron y se documentar
 
 <img src="./assets/images/collaboration-insights/sprint3/insights-report.png" alt="collaboration insights sprint 3" style="width: 600px"/>
 
+TF: Se ha completado con éxito la fase final del proyecto, asegurando que todas las tareas asignadas estén correctamente integradas y documentadas en el repositorio de GitHub del equipo.
+
+* La integración de los componentes del frontend, backend API y landing page se ha finalizado, logrando un funcionamiento coordinado.
+* Los contenidos en formato Markdown han sido revisados para garantizar documentación clara y consistente.
+* Los commits han sido realizados de forma estructurada para seguir el progreso hasta la entrega final.
+* Reuniones de coordinación y retroalimentación han logrado consensuar sobre los logros del proyecto.
+* Los resultados del Sprint 4, que incluyó despliegue completo del sistema, se han comunicado de manera eficaz.
+
+<img src="./assets/images/collaboration-insights/sprint4/insights-report.png" alt="collaboration insights sprint 4" style="width: 600px"/>
+
 # Contenido
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
