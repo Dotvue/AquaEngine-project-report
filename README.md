@@ -3515,124 +3515,118 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
         <th>Status (To-do / In-Process / To-Review / Done)</th>
     </tr>
     <tr>
-        <td>US01</td>
-        <td>Registro de un nuevo usuario</td>
-        <td>1</td>
-        <td>API desplegada</td>
-        <td>Quiero visualizar la API desplegada</td>
-        <td>2</td>
-        <td>Gonzalo Quedena</td>
-        <td>Done</td>
+      <td rowspan="4" align="center">  </td>
+      <td rowspan="4" align="center"> </td>
+        <td align="center"> 1 </td>
+      <td align="center"> API desplegada</td>
+      <td align="center"> Quiero visualizar la API desplegada.</td>
+      <td align="center"> 2</td>
+      <td align="center"> Gonzalo Queneda</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>2</td>
-        <td>Conectar el control de mantenimiento con el API</td>
-        <td>Quiero configurar el bounded context de mantenimiento para que esté conectada con la API</td>
-        <td>2</td>
-        <td>Daniel Castillo</td>
-        <td>Done</td>
+      <td align="center"> 2 </td>
+      <td align="center"> Actualizar el despliegue del frontend </td>
+      <td align="center"> Quiero desplegar satisfactoriamente mi frontend </td>
+      <td align="center"> 2</td>
+      <td align="center">Gonzalo Quedena</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US01</td>
-        <td>Registro de nuevo usuario</td>
-        <td>3</td>
-        <td>Actualizar el despliegue del frontend</td>
-        <td>Quiero desplegar satisfactoriamente mi frontend</td>
-        <td>2</td>
-        <td>Gonzalo Quedena</td>
-        <td>Done</td>
+      <td align="center"> 3 </td>
+      <td align="center"> Conectar el control de mantenimiento con el API </td>
+      <td align="center"> Quiero configurar el bounded context de mantenimiento para que esté conectada con la API </td>
+      <td align="center"> 2</td>
+      <td align="center">Daniel Castillo</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>4</td>
-        <td>Crear el Inicio de sesión</td>
-        <td>Quiero implementar el inicio de sesión para que el usuario entre a su cuenta</td>
-        <td>2</td>
-        <td>Gonzalo Quedena</td>
-        <td>Done</td>
+      <td align="center"> 4 </td>
+      <td align="center"> Conectar el bounded context "planning" con la API </td>
+      <td align="center"> Quiero crear la conexión de mi bounded context "planning" con la API </td>
+      <td align="center"> 2</td>
+      <td align="center">Pedro Guia</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>5</td>
-        <td>Actualizar user product en el bounded context control</td>
-        <td>Quiero actualizar los productos que el usuario compre</td>
-        <td>2</td>
-        <td>Pedro Guía</td>
-        <td>Done</td>
+      <td rowspan="3" align="center"> US02 </td>
+      <td rowspan="3" align="center">Inicio de Sesión</td>
+        <td align="center"> 1 </td>
+      <td align="center"> Crear el Inicio de sesión</td>
+      <td align="center"> Quiero implementar el inicio de sesión para que el usuario entre a su cuenta.</td>
+      <td align="center"> 2</td>
+      <td align="center"> Gonzalo Queneda</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>6</td>
-        <td>Conectar el bounded context "planning" con la API</td>
-        <td>Quiero crear la conexión de mi bounded context "planning" con la API</td>
-        <td>2</td>
-        <td>Pedro Guía</td>
-        <td>Done</td>
+      <td align="center"> 2 </td>
+      <td align="center"> Actualizar user product en el bounded context control </td>
+      <td align="center"> Quiero actualizar los productos que el usuario compre </td>
+      <td align="center"> 2</td>
+      <td align="center">Pedro Guía</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>7</td>
-        <td>Validar el orden de una maquinaria de acuerdo al stock disponible</td>
-        <td>Quiero implementar la validación del pedidos de las maquinarios junto al stock disponible en el momento</td>
-        <td>2</td>
-        <td>Pedro Guía</td>
-        <td>Done</td>
+      <td align="center"> 3 </td>
+      <td align="center"> Crear el inicio de sesión en la aplicación </td>
+      <td align="center"> Quiero crear el inicio de sesión dentro de aplicación </td>
+      <td align="center"> 3</td>
+      <td align="center">Gonzalo Quedana</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>8</td>
-        <td>Implementar la vista de los detalles de las maquinarias de pesca compradas</td>
-        <td>Quiero obtener en detalle la visualización de las maquinarias de pesca compradas</td>
-        <td>2</td>
-        <td>Pedro Guía</td>
-        <td>Done</td>
+      <td rowspan="4" align="center"> US12 </td>
+      <td rowspan="4" align="center">Solicitud de compra de equipo estándar</td>
+        <td align="center"> 1 </td>
+      <td align="center"> Validar el orden de una maquinaria de acuerdo al stock disponible</td>
+      <td align="center"> Quiero implementar la validación del pedidos de las maquinarios junto al stock disponible en el momento.</td>
+      <td align="center"> 2</td>
+      <td align="center"> Pedro Guía</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>9</td>
-        <td>Añadir la vista final del detalle de la maquinaria comprada</td>
-        <td>Quiero implementar la vista final del detalle de compra de la maquinaria</td>
-        <td>2</td>
-        <td>Omar Berrocal</td>
-        <td>Done</td>
+      <td align="center"> 2 </td>
+      <td align="center"> Implementar la vista de los detalles de las maquinarias de pesca compradas </td>
+      <td align="center"> Quiero obtener en detalle la visualización de las maquinarias de pesca compradas </td>
+      <td align="center"> 2</td>
+      <td align="center">Pedro Guía</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US16</td>
-        <td>Navegación por la Landing Page</td>
-        <td>10</td>
-        <td>Actualizar el despliegue de la landing page</td>
-        <td>Quiero actualizar el despliegue de la landing page</td>
-        <td>2</td>
-        <td>Gonzalo Quedana</td>
-        <td>Done</td>
+      <td align="center"> 3 </td>
+      <td align="center"> Añadir la vista final del detalle de la maquinaria comprada </td>
+      <td align="center"> Quiero implementar la vista final del detalle de compra de la maquinaria </td>
+      <td align="center"> 2</td>
+      <td align="center">Omar Berrocal</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US01</td>
-        <td>Registro de un nuevo usuario</td>
-        <td>11</td>
-        <td>Crear la forma de registrarse</td>
-        <td>Quiero crear la forma en que un usuario se registre</td>
-        <td>2</td>
-        <td>Gonzalo Quedana</td>
-        <td>Done</td>
+      <td align="center"> 3 </td>
+      <td align="center"> Implementar la vista final de la orden de compra de la maquinaria pesquera </td>
+      <td align="center"> Quiero crear la vista final de la orden de compra de una maquina pesquera </td>
+      <td align="center"> 2</td>
+      <td align="center">Omar Berrocal</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
-        <td>US02</td>
-        <td>Inicio de Sesión</td>
-        <td>12</td>
-        <td>Implementar la vista final de la orden de compra de la maquinaria pesquera</td>
-        <td>Quiero crear la vista final de la orden de compra de una maquina pesquera</td>
-        <td>2</td>
-        <td>Omar Berrocal</td>
-        <td>Done</td>
+      <td rowspan="1" align="center"> US16 </td>
+      <td rowspan="1" align="center">Navegación por la Landing Page</td>
+        <td align="center"> 1 </td>
+      <td align="center"> Actualizar el despliegue de la landing page</td>
+      <td align="center"> Quiero actualizar el despliegue de la landing page.</td>
+      <td align="center"> 2</td>
+      <td align="center"> Gonzalo Quedana</td>
+      <td align="center"> Done</td>
+    </tr>
+     <tr>
+      <td rowspan="1" align="center"> US01 </td>
+      <td rowspan="1" align="center">Registro de un nuevo usuario</td>
+        <td align="center"> 1 </td>
+      <td align="center"> Crear la forma de registrarse</td>
+      <td align="center"> Quiero crear la forma en que un usuario se registre.</td>
+      <td align="center"> 2</td>
+      <td align="center"> Gonzalo Quedana</td>
+      <td align="center"> Done</td>
     </tr>
     <tr>
         <td>US02</td>
