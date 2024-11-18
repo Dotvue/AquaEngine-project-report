@@ -3704,7 +3704,7 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
         <td>22</td>
         <td>Generar el token de autenticación para el bounded context "iam"</td>
         <td>Quiero generar el token de autenticación en el bounded context "iam"</td>
-        <td>4</td>
+        <td>3</td>
         <td>Daniel Castillo</td>
         <td>Done</td>
     </tr>
@@ -3764,7 +3764,7 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
         <td>28</td>
         <td>Obtener el usuario por Id como requerimiento del bounded context "aim"</td>
         <td>Quiero obtener el usuario por su respectivo Id como requerimiento del bounded context "aim"</td>
-        <td>3</td>
+        <td>2</td>
         <td>Gonzalo Quedena</td>
         <td>Done</td>
     </tr>
@@ -3784,7 +3784,7 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
         <td>30</td>
         <td>Implementación del interceptor de la autenticación </td>
         <td>Quiero implementar el interceptor de la autenticación</td>
-        <td>30</td>
+        <td>3</td>
         <td>Gonzalo Quedena</td>
         <td>Done</td>
     </tr>
@@ -3794,7 +3794,7 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
         <td>31</td>
         <td>Implementar los componentes de la autenticación</td>
         <td>Quiero implementar los componentes de la autenticación</td>
-        <td>5</td>
+        <td>3</td>
         <td>Daniel Castillo</td>
         <td>Done</td>
     </tr>
@@ -3804,7 +3804,7 @@ https://trello.com/invite/b/672654d97ad0d8639c4dcae4/ATTI925886ced974b380e1e108c
         <td>32</td>
         <td>Conectar el cuadro de mantenimiento con la API</td>
         <td>Quiero poder conectar el cuadro de mantenimiento con la API</td>
-        <td>3</td>
+        <td>2</td>
         <td>Daniel Castillo</td>
         <td>Done</td>
     </tr>
