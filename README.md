@@ -4008,10 +4008,10 @@ En esta sección se presentan gráficos que reflejan los insights de colaboraci�
 4. ¿Qué opina sobre la propuesta de AquaEngine para mejorar la gestión de inventarios y mantenimiento en el sector pesquero?
 
 **Entrevistas segmento Productor de maquinaria**
-1. ¿Qué característica de AquaEngine considera que le resulta más útil para el mantenimiento de sus productos de maquinaria pesquera?
-2. ¿Qué tipo de reportes o alertas considera necesarios para optimizar el mantenimiento de las máquinas en su inventario?
-3. ¿Ha enfrentado problemas de tiempos de inactividad o demoras en el mantenimiento? ¿Cómo espera que AquaEngine pueda ayudarle a reducir estos tiempos?
-4. ¿Qué opina sobre el diseño de la plataforma en términos de accesibilidad y facilidad para localizar información de mantenimiento y estado de sus equipos?
+1. ¿Qué característica de AquaEngine considera que le resulta más útil para su rubro como productor?
+2. ¿Qué tipo de reportes o alertas considera necesarios para optimizar su experiencia?
+3. ¿Ha enfrentado problemas de tiempos de inactividad o demoras en el otras actividades usando una plataforma externa? ¿Cómo espera que AquaEngine pueda ayudarle a reducir estos tiempos?
+4. ¿Qué opina sobre el diseño de la plataforma en términos de accesibilidad y facilidad para localizar información orden de productos?
 
 **Entrevistas segmento Pesquero**
 1. ¿Qué opina sobre la capacidad de AquaEngine para gestionar de manera centralizada el inventario y el mantenimiento de los equipos pesqueros?
@@ -4020,12 +4020,40 @@ En esta sección se presentan gráficos que reflejan los insights de colaboraci�
 4. ¿De qué manera cree que AquaEngine podría impactar la continuidad de sus operaciones y la reducción de tiempos de inactividad en sus equipos pesqueros?
 
 ### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+**Segmento 1 : Productores de maquinaria pesquera**
+Enlace de las entrevistas https://t.ly/fImr8
+  
+
+Nombre: Miguel del Castillo
+Edad: 57 años
+Ocupación: Empresario  
+![Imagen de entrevista](./assets/images/chapter-V/v-interviews-%20machinery%20-%20producers/Miguel.png)  
+
+Durante la entrevista con Miguel del Castillo, Un empresario productor de maquinaria pesquera de 57 años que reside en Santiado de surco.  Se obtuvo retroalimentación efectiva en cuanto su experiencia usando AquaEngine. La conversacion nos permitio identificar las áreas en las que nuestra aplicacion web aporta su mayor valor.
+
+Miguel destacó desde un principio que aquaengine es una herramienta prometedora, debido a su necesidad de tener las herramientas adecuadas para solventar sus necesidades,  especificamente el monitoreo de equipos, el es consciente que de momento la implementación de sensores estan fuera de alcance pero mostró interés por dicha funcionalidad.
+
+En cuanto a las funcionalidades mas utiles, Miguel dijo que usa una herramienta para la facturación,  nos comenta que siempre cuenta con problemas porque dicho software se cae constantemente,  de modo que no siempre pueden usarla. En su opinion la facturación debería ser un aspecto más importante de nuestra plataforma,  además indicó que sería bueno que la facturación implemente una validación para los RUC, de ese modo podriamos agilizar el proceso.
+
+En cuanto a las mejoras, Miguel expresó que AquaEngine falla un poco en ser visualmente lleno de imagenes,  sin embargo segun un criterio de heuristica podemos decir que cumple con un diseño minimalista, que permite una visualización  libre de las funcionalidades de nuestra plataforma, de ese modo podemos ver que los servicios de aquaengine cumple con dicha heuristica,  sin embargo se planea encontrar una manera de incorporar más componentes visuales, los cuales puedan satisfacer las necesidades de nuestros usuarios 
+
+A manera de resumen, en una entrevista con Miguel del Castillo, empresario de maquinaria pesquera, se destacó que AquaEngine es una herramienta prometedora, especialmente por su potencial en el monitoreo de equipos, aunque actualmente los sensores no están disponibles. Miguel sugirió priorizar la funcionalidad de facturación, proponiendo incluir validaciones de RUC para optimizar el proceso, dado que su software actual presenta fallas recurrentes. También valoró el diseño minimalista de la plataforma, aunque recomendó incorporar más elementos visuales para enriquecer la experiencia de usuario. Estas observaciones permitirán mejorar y enfocar el desarrollo de AquaEngine.
+
+Nombre: Alexia del Castillo
+Edad: 24 años
+Ocupación: Estudiante 
+![Imagen de entrevista](./assets/images/chapter-V/v-interviews-%20machinery%20-%20producers/Alexia.png)  
+
+Durante la entrevista con Alexia del Castillo, una estudiante universitaria que anteriormente trabajó en la empresa de Miguel, obtuvimos valiosa retroalimentación sobre AquaEngine basada en su experiencia laboral. Alexia elogió especialmente el sistema de inventariado y monitoreo de la aplicación, destacándolo como un gran avance respecto a sus propias experiencias laborales.
+
+En su rol anterior, Alexia se encargaba de monitorear maquinaria y registrar los datos en informes, lo cual describió como una tarea estresante debido a la gran cantidad  de información que debía memorizar para cumplir con su labor. Comparando esa experiencia con las funcionalidades de AquaEngine, destacó que el sistema de inventario resuelve  este problema al permitir registrar datos de manera eficiente, evitando la sobrecarga mental y facilitando la futura actualización de la información. Alexia expresó que le hubiera  gustado contar con una herramienta como AquaEngine en su momento, ya que habría reducido significativamente el estrés y mejorado su experiencia laboral.
+
+Al hablar sobre posibles mejoras, Alexia se mostró conforme con el diseño minimalista de la aplicación, considerando que su simplicidad visual facilita la navegación y la claridad de las funciones. No obstante, sugirió que AquaEngine podría beneficiarse de incorporar más funcionalidades que satisfagan las necesidades específicas de diferentes sectores, promoviendo una mayor versatilidad y adaptabilidad de la herramienta.
+
+
+A manera de resumen, la opinión de Alexia refuerza el valor de AquaEngine como una solución innovadora para problemas comunes en el monitoreo e inventariado de maquinaria. Sus observaciones resaltan la importancia de centrarse en funcionalidades que optimicen procesos laborales y reduzcan la carga cognitiva. Además, sus sugerencias de incorporar características específicas para distintos sectores ofrecen una dirección clara para futuras mejoras, con el objetivo de consolidar a AquaEngine como una herramienta integral y adaptable a diversas necesidades.
+
+
 
 **Segmento 2**  
 Nombre: _____
@@ -4037,16 +4065,16 @@ Ocupación: _____
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA                                    | EVALUACIÓN | NOTA    |
 |-----------------------------------------------|------------|---------|
-| Visibilidad del estado del sistema            |            | {texto} |
-| Coincidencia entre el sistema y el mundo real |            | {texto} |
-| Control y libertad del usuario                |            | {texto} |
-| Consistencia y estándares                     |            | {texto} |
-| Prevención de errores                         |            | {texto} |
-| Mostrar antes que recordar                    |            | {texto} |
-| Flexibilidad y eficiencia de uso              |            | {texto} |
-| Diseño estético y minimalista                 |            | {texto} |
-| Comunicar errores con facilidad               |            | {texto} |
-| Ayuda y documentación                         |            | {texto} |
+| Visibilidad del estado del sistema            |      ✅      | AquaEngine permite ver detalles especificos como inventario, monitoreo, mantenimiento y facturación, proporcionando información actualizada de dichas caracteristicas |
+| Coincidencia entre el sistema y el mundo real |      ✅      | La plataforma usa la terminología necesaria para el giro de negocio |
+| Control y libertad del usuario                |      ✅      | El sistema permite gestionar todas las funcionalidades a libre disposción del usuario, siempre y cuando este cuente con el permiso para operar dichos aspectos|
+| Consistencia y estándares                     |      ✅      | Los usuarios destacan la interfaz minimalista, aunque sugieren más componentes visuales |
+| Prevención de errores                         |      ✅      | La actualización veloz de datos reduce el riesgo de errores en la gestión de inventarios, según lo observado por los usuarios. |
+| Mostrar antes que recordar                    |      ✅      | Los usuarios destacan la facilidad con la que el sistema guarda y actualiza información relevante de modo que no tienen que recordar información innecesaria |
+| Flexibilidad y eficiencia de uso              |      ✅      | Los usuarios han elogiado la cantidad de features con los que cuenta nuestra aplicación web, de ese modo y lo amplio de los usos que se le puede dar |
+| Diseño estético y minimalista                 |      ✅      | Los usuarios han indicado que la interfaz es minimalista, además algunos dijeron que podría incluir más componentes visuales para ser más llamativa |
+| Comunicar errores con facilidad               |       ❌     | Aunque se mencionaron deseos de comunicación de errores, como alertas automáticas, no se cubrió explícitamente si esto está implementado. |
+| Ayuda y documentación                         |      ✅      | Se mostró que los recursos de ayuda y documentacion se encuentran disponibles. |
 
 ## 5.4. Video About-the-Product.  
 
