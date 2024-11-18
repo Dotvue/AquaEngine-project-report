@@ -39,12 +39,18 @@
 | 0.0.1   | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO 1.1 - 1.2 - 1.3                               |
 | 0.0.2   | 21/09/2024 | Pedro Andre Guia Carrasco       | Desarrollo Capítulo (2) APARTADO2.1 - 2.2 - 2.3                                |
 | 0.0.3   | 24/09/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
-| 0.0.4   | 26/09/2024 | Gonzalo Abdre Zavala Quedena    | Desarrollo Capítulo (4) APARTADO 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 |
+| 0.0.4   | 26/09/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (4) APARTADO 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 |
 | 0.0.5   | 26/09/2024 | Sebastián Aiquipa               | Desarrollo Capítulo (4) APARTADO 4.6 - 4.7 - 4.8                               | 
 | 0.0.6   | 27/09/2024 | Omar Berrocal Ramirez           | Desarrollo Capítulo (5) APARTADO 5.1 - 5.2                                     |
 | 0.0.7   | 18/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Capítulo (5) APARTADO 5.2.3.3 - 5.2.3.4 - 5.2.3.5                   |
 | 0.0.8   | 25/10/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo del Capítulo (5) APARTADO 5.2.3.6 - 5.2.3.7  5.2.3.8                |
 | 0.0.9   | 28/10/2024 | Gonzalo Andre Zavala Quedena    | Conclusiones, Anexos, Bibliografía.                                            | 
+| 0.1.0   | 10/11/2024 | Gonzalo Andre Zavala Quedena    | Desarrollo Caítulo (5) APARTADO 5.2.4.5 - 5.2.4.7 - 5.2.4.8                    |
+| 0.1.1   | 16/11/2024 | Omar Berrocal Ramirez           | Desarrollo Caítulo (5) APARTADO 5.2.4.4                                        |
+| 0.1.1   | 16/11/2024 | Pedro Andre Guia Carrasco       | Desarrollo Caítulo (5) APARTADO 5.2.4.3                                        |
+| 0.1.2   | 16/11/2024 | Pedro Andre Guia Carrasco       | Registro de entrevista                                                         |
+| 0.1.3   | 16/11/2024 | Daniel Mateo del Castillo Bueno | Registro de entrevista                                                         |
+| 0.1.4   | 16/11/2024 | Yasser Rentería Palacios        | Product Backlog 4                                                              |
 
 </center>
 
