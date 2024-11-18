@@ -4354,8 +4354,9 @@ En esta sección se presentan gráficos que reflejan los insights de colaboraci�
 Enlace de las entrevistas https://t.ly/fImr8
   
 
-Nombre: Miguel del Castillo
+Nombre: Miguel del Castillo 
 Edad: 57 años
+Timing: **[start: 0:35 - duration: 7:47]**
 Ocupación: Empresario  
 ![Imagen de entrevista](./assets/images/chapter-V/v-interviews-%20machinery%20-%20producers/Miguel.png)  
 
@@ -4370,7 +4371,8 @@ En cuanto a las mejoras, Miguel expresó que AquaEngine falla un poco en ser vis
 A manera de resumen, en una entrevista con Miguel del Castillo, empresario de maquinaria pesquera, se destacó que AquaEngine es una herramienta prometedora, especialmente por su potencial en el monitoreo de equipos, aunque actualmente los sensores no están disponibles. Miguel sugirió priorizar la funcionalidad de facturación, proponiendo incluir validaciones de RUC para optimizar el proceso, dado que su software actual presenta fallas recurrentes. También valoró el diseño minimalista de la plataforma, aunque recomendó incorporar más elementos visuales para enriquecer la experiencia de usuario. Estas observaciones permitirán mejorar y enfocar el desarrollo de AquaEngine.
 
 Nombre: Alexia del Castillo
-Edad: 24 años
+Edad: 24 años 
+Timing: **[start: 8:01 - duration: 8:32]**
 Ocupación: Estudiante 
 ![Imagen de entrevista](./assets/images/chapter-V/v-interviews-%20machinery%20-%20producers/Alexia.png)  
 
@@ -4386,8 +4388,12 @@ A manera de resumen, la opinión de Alexia refuerza el valor de AquaEngine como 
 
 
 **Segmento 2**  
+Enlace de entrevistas: https://shorturl.at/ODqLB  
+
+
 Nombre: Carlo Henrique
-Edad: 25 años
+Edad: 25 años  
+Timing: **[start: 1:49 - duration: 2:77]**
 Ocupación: Pescador  
 ![Imagen de entrevista](assests/entrevista%20carlo.jpg)
 En la entrevista con Carlo Henrique, quien trabaja en el sector pesquero y vive en Callao, 
@@ -4397,7 +4403,8 @@ ya que esto permite tomar decisiones rápidas y evitar paradas inesperadas en la
 Además, sugirió que AquaEngine podría mejorar al incluir alertas automáticas para el mantenimiento y la asignación de tareas a personas específicas, lo que optimizaría aún más el control. 
 En cuanto a la continuidad de las operaciones, Carlo afirmó que AquaEngine podría tener un gran impacto al 
 garantizar que los equipos se mantengan en buen estado y reducir los tiempos de inactividad, 
-lo que se traduciría en mayor eficiencia al evitar fallos y retrasos por falta de repuestos.
+lo que se traduciría en mayor eficiencia al evitar fallos y retrasos por falta de repuestos.  
+
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA                                    | EVALUACIÓN | NOTA    |
 |-----------------------------------------------|------------|---------|
@@ -4409,7 +4416,7 @@ lo que se traduciría en mayor eficiencia al evitar fallos y retrasos por falta 
 | Mostrar antes que recordar                    |      ✅      | Los usuarios destacan la facilidad con la que el sistema guarda y actualiza información relevante de modo que no tienen que recordar información innecesaria |
 | Flexibilidad y eficiencia de uso              |      ✅      | Los usuarios han elogiado la cantidad de features con los que cuenta nuestra aplicación web, de ese modo y lo amplio de los usos que se le puede dar |
 | Diseño estético y minimalista                 |      ✅      | Los usuarios han indicado que la interfaz es minimalista, además algunos dijeron que podría incluir más componentes visuales para ser más llamativa |
-| Comunicar errores con facilidad               |       ❌     | Aunque se mencionaron deseos de comunicación de errores, como alertas automáticas, no se cubrió explícitamente si esto está implementado. |
+| Comunicar errores con facilidad               |      ❌      | Aunque se mencionaron deseos de comunicación de errores, como alertas automáticas, no se cubrió explícitamente si esto está implementado. |
 | Ayuda y documentación                         |      ✅      | Se mostró que los recursos de ayuda y documentacion se encuentran disponibles. |
 
 ## 5.4. Video About-the-Product.  
@@ -4423,34 +4430,24 @@ Presentamos de manera clara las funcionalidades clave de nuestra aplicación web
 # Conclusiones
 
 <p style="text-align: justify">
-En conclusión, AquaEngine se basa en un análisis exhaustivo de las necesidades operativas de nuestros usuarios en el 
-sector pesquero, resultado de una investigación detallada y retroalimentación directa. Hemos identificado los puntos 
-clave en la gestión de inventarios, equipos y mantenimiento de maquinaria pesquera, y formulado estrategias específicas
-para optimizar estos procesos.  
+En conclusión, AquaEngine es el resultado de un meticuloso análisis de las necesidades operativas de nuestros usuarios en el sector pesquero. Este análisis se ha llevado a cabo mediante una investigación exhaustiva y una retroalimentación directa de los usuarios, lo que nos ha permitido identificar los desafíos críticos en la gestión de inventarios, equipos y mantenimiento de maquinaria pesquera. Al comprender estos puntos clave, hemos formulado estrategias específicas para optimizar estos procesos. Este nivel de comprensión y detalle asegura que AquaEngine no solo se adapta perfectamente a las necesidades actuales, sino que también está preparado para evolucionar conforme cambien las circunstancias del sector pesquero.
 </p>
 
 <p style="text-align: justify">
-El desarrollo de funcionalidades clave, como la administración de solicitudes de compra, el monitoreo del estado del 
-equipo y el registro de historiales de mantenimiento, apunta a reducir la carga operativa de nuestros usuarios, 
-permitiéndoles una gestión más ágil y centrada en datos. Estas mejoras están diseñadas para aumentar la eficiencia 
-en la operación diaria y fortalecer la confianza en el sistema, lo que se traduce en una mayor continuidad y control 
-de las actividades de los usuarios.
+El desarrollo de funcionalidades fundamentales, como la administración de solicitudes de compra, el monitoreo del estado del equipo y el registro de historiales de mantenimiento, está diseñado para aliviar la carga operativa de nuestros usuarios. Al facilitar una gestión más ágil y centrada en datos, estas herramientas mejoran significativamente la eficiencia operativa diaria. Además, al fortalecer la confianza de los usuarios en el sistema, nuestras mejoras contribuyen a una mayor continuidad y control de las actividades, lo cual es esencial para maximizar la productividad y minimizar los tiempos de inactividad. Este enfoque centrado en el usuario asegura que cada solución implementada esté directamente alineada con las necesidades expresadas por nuestros usuarios, garantizando así su satisfacción y éxito.
 </p>
 
 <p style="text-align: justify">
-El enfoque ágil que adoptamos nos permite dividir el trabajo en sprints manejables, lo cual facilita la adaptación 
-constante a nuevas necesidades y la incorporación de feedback en cada etapa. Esto garantiza que cada desarrollo se 
-realice de manera ordenada y orientada al valor, con una planificación clara y transparencia en la ejecución de cada 
-sprint.
+Nuestro enfoque ágil nos ha permitido dividir el trabajo en sprints manejables, lo que facilita la adaptación constante a las nuevas necesidades y la incorporación de feedback en cada etapa del desarrollo. Este enfoque garantiza que cada desarrollo se realice de manera ordenada y orientada al valor, con una planificación clara y transparencia en la ejecución de cada sprint. Al mantener un ciclo continuo de evaluación y mejora, AquaEngine permanece en sintonía con las expectativas y requerimientos cambiantes de los usuarios, permitiéndonos realizar ajustes rápidos y efectivos en respuesta a demandas emergentes. Este proceso no solo mejora la calidad del producto final, sino que también aumenta la satisfacción del cliente y la eficiencia del equipo de desarrollo.
 </p>
 
 <p style="text-align: justify">
-Asimismo, aplicamos la arquitectura de Domain-Driven Design (DDD), lo cual nos permitió modelar y estructurar los 
-contextos de negocio específicos, asegurando una separación adecuada de las preocupaciones y una lógica de negocio 
-precisa en cada módulo de AquaEngine. Esta metodología nos ha ayudado a construir una base sólida y flexible para el 
-sistema, facilitando tanto el mantenimiento como su evolución a medida que se expanden los requerimientos del negocio.
+Asimismo, la aplicación de la arquitectura de Domain-Driven Design (DDD) ha sido crucial para modelar y estructurar los contextos de negocio específicos. Esta metodología asegura una separación adecuada de las preocupaciones y una lógica de negocio precisa en cada módulo de AquaEngine. Al construir sobre una base sólida y flexible, hemos facilitado tanto el mantenimiento como la evolución del sistema en respuesta a la expansión de los requerimientos del negocio. La robustez y adaptabilidad de esta estructura permiten que AquaEngine escale y se adapte a futuras innovaciones, asegurando su relevancia a largo plazo y manteniendo su competitividad en un entorno de cambios constantes.
 </p>
 
+<p style="text-align: justify">
+Finalmente, hemos culminado este proyecto con la entrega de tres componentes esenciales: una landing page, una aplicación web y una API. La landing page sirve como una puerta de entrada accesible, presentando las capacidades del sistema de manera clara y envolvente. La aplicación web actúa como una plataforma interactiva que soporta la gestión diaria de tareas, brindando a los usuarios las herramientas necesarias para gestionar sus operaciones de manera eficiente. La API, por otro lado, ofrece una integración a herramientas que los usuarios puedan necesitar. Estos componentes combinados no solo garantizan que AquaEngine cumpla con las expectativas actuales, sino que también lo posicionan estratégicamente para futuras expansiones e innovaciones. En conjunto, estos desarrollos aseguran que los usuarios tengan una experiencia de uso coherente y poderosa, maximizando el valor total que obtienen de nuestra solución.
+</p>
 # Video About-the-Team
 En esta sección se presenta el video "About the Team", en el cual describimos el proceso de desarrollo llevado a cabo 
 para la aplicación web y la API, incluyendo escenas del trabajo en equipo. También se detallan aspectos del planeamiento,
