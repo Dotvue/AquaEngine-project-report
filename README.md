@@ -3448,7 +3448,7 @@ Gráfico que representa la colaboración del equipo en la creación de landing p
         <tr>
             <td>Sprint 4 Retrospective Summary</td>
             <td>
-                Acuerdo de comenzar con el desarrollo del back-end
+                Durante la retrospectiva del Sprint 4, se destacó la importancia de abordar desafíos de comunicación en el equipo. Se acordó implementar reuniones diarias de seguimiento para mejorar la transparencia y el alineamiento. Además, se reconoció el éxito en la implementación de nuevas funcionalidades, y se acordó seguir priorizando las pruebas para garantizar la calidad del producto.
             </td>
         </tr>
         <tr>
@@ -3458,7 +3458,7 @@ Gráfico que representa la colaboración del equipo en la creación de landing p
             <td>Sprint 4 Goal</td>
             <td style="text-align: justify">
                 <p style="text-align: justify">
-                Nuestro enfoque está centrado en desplegar el API de la aplicación backend de AquaEngine, además de crear interfaces de usuario para el inicio de sesión y el registro de nuevos usuarios. Paralelamente, trabajaremos en una nueva iteración de las funcionalidades ya mencionadas, con el objetivo de completar y optimizar la experiencia del usuario y la gestión operativa. Creemos que estos avances permitirán a los usuarios interactuar de manera más fluida y segura con el sistema, facilitando no solo el acceso, sino también la administración eficiente y en tiempo real. El despliegue del API potenciará la integración de AquaEngine con otras herramientas y sistemas, ofreciendo una mayor flexibilidad y escalabilidad. Asimismo, al proporcionar una interfaz de inicio de sesión y registro mejorada, pretendemos ofrecer una transición sin problemas para los usuarios nuevos y un acceso seguro para los usuarios existentes. Esto se confirmará cuando los usuarios experimenten una mejora significativa en la facilidad de inicio de sesión y registro, junto con una integración más efectiva con otros sistemas, permitiéndoles así centrarse en otras áreas críticas de sus operaciones.
+                   Nuestro objetivo es mejorar la experiencia del usuario en AquaEngine mediante la reorganización de las secciones "about the team" y "about the product" en la plataforma, así como completar el desarrollo de características como el sistema de facturación y gestión de órdenes de maquinaria. Además, integraremos endpoints para sign-in y sign-up, con el fin de proporcionar un acceso más seguro y eficiente a las aplicaciones. Creemos que estos cambios facilitarán un mayor enganche de los usuarios con nuestro producto y satisfarán de manera más efectiva sus necesidades operativas. Al mismo tiempo, al proporcionar nuevos endpoints, esperamos fortalecer el acceso seguro y permitir una integración fluida para los desarrolladores de frontend. Esto se confirmará cuando los usuarios puedan acceder a una presentación más coherente de información en la landing page, utilicen las nuevas funcionalidades de facturación y gestión según sus necesidades, y los desarrolladores integren exitosamente las funciones de ingreso a través de la API de AquaEngine.
                 </p>
             </td>
         </tr>
